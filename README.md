@@ -1,5 +1,5 @@
 
-I'm a chemical engineer by training currently working on developing computational tools including molecular simulation, machine learning, and reproducible workflows to facilitate research in the chemical sciences and related disciplines.
+I'm a chemical engineer by training currently working on developing computational tools including molecular simulation, machine learning, and reproducible workflows to facilitate research in the chemical sciences and related disciplines.  You can find more information [here](https://nathan-mahynski.github.io/).
 
 [![mahynski's github stats](https://github-readme-stats.vercel.app/api?username=mahynski&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/mahynski)
 
