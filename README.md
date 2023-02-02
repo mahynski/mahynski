@@ -1,5 +1,5 @@
 
-I'm a chemical engineer at :briefcase: NIST working on developing computational tools including molecular simulation, machine learning, and reproducible workflows to facilitate research in the chemical sciences and related disciplines.  You can find more information [here](https://nathan-mahynski.github.io/).
+I'm a chemical engineer at :briefcase: NIST working on developing computational tools including molecular simulation, machine learning, and reproducible workflows to facilitate research in the chemical sciences and related disciplines.  You can find more information [here](https://nathan-mahynski.github.io/) and [here](https://www.nist.gov/people/nathan-mahynski).
 
 Broad research areas include: 
 :fire: Thermodynamics, :diamond_shape_with_a_dot_inside: Colloidal self-assembly, :sushi: Food authenticity, :computer: Machine Learning
