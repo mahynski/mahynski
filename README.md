@@ -2,7 +2,7 @@
 I'm a chemical engineer at :briefcase: NIST working on developing computational tools including molecular simulation, machine learning, and reproducible workflows to facilitate research in the chemical sciences and related disciplines.  You can find more information [here](https://nathan-mahynski.github.io/) and [here](https://www.nist.gov/people/nathan-mahynski).
 
 Broad research areas include: 
-:fire: [Thermodynamics](https://nathan-mahynski.github.io/research/using_thermodynamic_extrapolation_to_predict_fluid_properties/), :diamond_shape_with_a_dot_inside: [Colloidal self-assembly](https://nathan-mahynski.github.io/research/counting_crystals_in_two_dimensions/), :sushi: [Food authenticity](https://nathan-mahynski.github.io/research/developing_chemometric_fingerprints_for_ecological_systems/), :computer: Machine Learning
+:fire: [Thermodynamics](https://nathan-mahynski.github.io/research/using_thermodynamic_extrapolation_to_predict_fluid_properties/), :diamond_shape_with_a_dot_inside: [Material science](https://nathan-mahynski.github.io/research/counting_crystals_in_two_dimensions/), :sushi: [Food authenticity](https://nathan-mahynski.github.io/research/developing_chemometric_fingerprints_for_ecological_systems/), :computer: Machine Learning
 
 [![mahynski's github stats](https://github-readme-stats.vercel.app/api?username=mahynski&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/mahynski)
 
