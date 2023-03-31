@@ -13,11 +13,7 @@ Some recent projects include:
 * :bird: Analyzing trends in biorepositories using explainable machine learning
 * :radioactive: Identifying materials using nuclear spectroscopy methods
 
-You can read more about my interests, previous work, and ongoing research here:
-
-* [https://nist.gov/people/nathan-mahynski](https://nist.gov/people/nathan-mahynski)
-* [https://nathan-mahynski.github.io](https://nathan-mahynski.github.io)
-* [https://orcid.org/0000-0002-0008-8749](https://orcid.org/0000-0002-0008-8749)
+You can read more about my interests, previous work, and ongoing research [here](https://nathan-mahynski.github.io)
 
 Have an interesting problem? Need help or advice? Contact me at nathan.mahynski@nist.gov
 
