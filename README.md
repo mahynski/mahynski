@@ -1,6 +1,3 @@
-
-<!-- I'm a chemical engineer at :briefcase: NIST working on developing computational tools including molecular simulation, machine learning, and reproducible workflows to facilitate research in the chemical sciences and related disciplines.  You can find more information [here](https://nathan-mahynski.github.io/) and [here](https://www.nist.gov/people/nathan-mahynski). -->
-
 I am an engineer :gear: who specializes in designing, developing, and deploying computational tools to solve problems in chemistry and related scientific disciplines. I help researchers in fields like nuclear chemistry, food science, and ecology use machine learning, molecular simulations, and advanced modeling tools to make data-driven discoveries. I also have a long-standing interest in designing self-assembling functional materials. My own research involved using tools from art and architecture in novel ways to program colloidal crystal assembly. I have a PhD in computational Chemical Engineering with a concentration in computational thermodynamics and a certificate in Computational and Information Science. 
 
 Broad research areas include: 
@@ -13,7 +10,7 @@ Some recent projects include:
 * :bird: Analyzing trends in biorepositories using explainable machine learning
 * :radioactive: Identifying materials using nuclear spectroscopy methods
 
-You can read more about my interests, previous work, and ongoing research [here](https://nathan-mahynski.github.io)
+You can read more about my interests, previous work, and ongoing research on my [website](https://nathan-mahynski.github.io) or [ResearchGate](https://www.researchgate.net/profile/Nathan-Mahynski).
 
 Have an interesting problem? Need help or advice? Contact me at nathan.mahynski@nist.gov
 
