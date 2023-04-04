@@ -7,7 +7,7 @@ Some recent projects include:
 * :atom: Developing tools for advanced isotope metrology
 * :droplet: Predicting fluid phase thermodynamic properties with deep learning
 * :strawberry: Authenticating food labeling claims with chemometric tools 
-* :bird: Analyzing trends in biorepositories using explainable machine learning
+* :bird: Analyzing [trends in biorepositories](https://pubs.acs.org/doi/full/10.1021/acs.est.2c01894) using explainable machine learning
 * :radioactive: Identifying materials using nuclear spectroscopy methods
 
 You can read more about my interests, previous work, and ongoing research on my [website](https://nathan-mahynski.github.io) or [ResearchGate](https://www.researchgate.net/profile/Nathan-Mahynski).
