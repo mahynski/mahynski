@@ -4,12 +4,12 @@ Broad research areas include:
 :fire: [Thermodynamics](https://nathan-mahynski.github.io/research/using_thermodynamic_extrapolation_to_predict_fluid_properties/), :diamond_shape_with_a_dot_inside: [Material science](https://nathan-mahynski.github.io/research/counting_crystals_in_two_dimensions/), :sushi: [Food authenticity](https://nathan-mahynski.github.io/research/developing_chemometric_fingerprints_for_ecological_systems/), :computer: Machine Learning
 
 Some recent projects include:
-* :atom: Developing tools for advanced isotope metrology
+* :atom: Developing tools for advanced [isotope metrology](https://www.nist.gov/programs-projects/isotope-metrology)
 * :droplet: Predicting fluid phase thermodynamic properties with deep learning
 * :strawberry: Authenticating food labeling claims with chemometric tools 
 * :bird: Analyzing [trends in biorepositories](https://pubs.acs.org/doi/full/10.1021/acs.est.2c01894) using explainable machine learning
 * :radioactive: Identifying materials using nuclear spectroscopy methods
-* :diamond_shape_with_a_dot_inside: Designing colloidal self-assembly by tiling [Escher](https://mcescher.com/)-like patterns
+* :diamond_shape_with_a_dot_inside: Designing [colloidal self-assembly](https://doi.org/10.1063/5.0106131) by tiling [Escher](https://mcescher.com/)-like patterns
 
 You can read more about my interests, previous work, and ongoing research on my [website](https://nathan-mahynski.github.io) or [ResearchGate](https://www.researchgate.net/profile/Nathan-Mahynski).
 
