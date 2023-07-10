@@ -8,7 +8,7 @@ Some recent projects include:
 * :droplet: Predicting fluid phase thermodynamic properties with deep learning
 * :strawberry: Authenticating food labeling claims with chemometric tools 
 * :bird: Analyzing [trends in biorepositories](https://pubs.acs.org/doi/full/10.1021/acs.est.2c01894) using explainable machine learning
-* :radioactive: Identifying materials using nuclear spectroscopy methods
+* :radioactive: [Identifying materials](https://dx.doi.org/10.1007/s10967-023-09024-x) using nuclear spectroscopy methods
 * :diamond_shape_with_a_dot_inside: Designing [colloidal self-assembly](https://doi.org/10.1063/5.0106131) by tiling [Escher](https://mcescher.com/)-like patterns
 
 You can read more about my interests, previous work, and ongoing research on my [website](https://nathan-mahynski.github.io) or [ResearchGate](https://www.researchgate.net/profile/Nathan-Mahynski).
