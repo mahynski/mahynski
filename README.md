@@ -27,3 +27,4 @@ Have an interesting problem? Need help or advice? Contact me at nathan.mahynski@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mahynski&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=mahynski&theme=dark&exclude_days=Sun%2CSat" alt="GitHub Streak" /></a>
