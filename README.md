@@ -1,7 +1,7 @@
-I am an engineer :gear: who specializes in designing, developing, and deploying computational tools to solve problems in chemistry and related scientific disciplines. I help researchers in fields like nuclear chemistry, food science, and ecology use machine learning, molecular simulations, and advanced modeling tools to make data-driven discoveries. I also have a long-standing interest in designing self-assembling functional materials. My own research involves using tools from art and architecture in novel ways to program colloidal crystal assembly. I have a PhD in Chemical Engineering with a concentration in computational thermodynamics and a certificate in Computational and Information Science. 
+I am an engineer :gear: who specializes in designing, developing, and deploying computational tools to solve problems in chemistry and related scientific disciplines. I work with subject matter experts in fields like nuclear chemistry, food science, and ecology use machine learning, molecular simulations, and advanced modeling tools to make data-driven discoveries. I also work on designing self-assembling functional materials. My own research involves using tools from art and architecture in novel ways to program colloidal crystal assembly. I have a PhD in Chemical Engineering with a concentration in computational thermodynamics and a certificate in Computational and Information Science. 
 
 Broad research areas include: 
-:fire: [Thermodynamics](https://nathan-mahynski.github.io/research/using_thermodynamic_extrapolation_to_predict_fluid_properties/), :diamond_shape_with_a_dot_inside: [Material science](https://nathan-mahynski.github.io/research/counting_crystals_in_two_dimensions/), :sushi: [Food authenticity](https://nathan-mahynski.github.io/research/developing_chemometric_fingerprints_for_ecological_systems/), :computer: [Machine Learning](https://wandb.ai/nathan-mahynski)
+:fire: [Thermodynamics](https://gist.github.com/mahynski/2533b0d5f39348e73d09b0a2bcfa33e8), :diamond_shape_with_a_dot_inside: [Material science](https://gist.github.com/mahynski/55116f939ae1b570b3a35abe37749c94), :sushi: [Food authenticity]([https://nathan-mahynski.github.io/research/developing_chemometric_fingerprints_for_ecological_systems/](https://gist.github.com/mahynski/6307ae08cf6dbd02db183c3ad8e0ffc7)), :computer: [Machine Learning](https://wandb.ai/nathan-mahynski)
 
 Some recent projects include:
 * :atom: Developing tools for advanced [isotope metrology](https://www.nist.gov/programs-projects/isotope-metrology)
@@ -11,7 +11,7 @@ Some recent projects include:
 * :radioactive: [Identifying materials](https://dx.doi.org/10.1007/s10967-023-09024-x) using nuclear spectroscopy methods
 * :diamond_shape_with_a_dot_inside: Designing [colloidal self-assembly](https://doi.org/10.1063/5.0106131) by tiling [Escher](https://mcescher.com/)-like patterns
 
-You can read more about my interests, previous work, and ongoing research on my [website](https://nathan-mahynski.github.io) or [ResearchGate](https://www.researchgate.net/profile/Nathan-Mahynski).
+You can read more about ongoing research on [ResearchGate](https://www.researchgate.net/profile/Nathan-Mahynski).
 * Notes and HowTo are available as [Gists](https://gist.github.com/mahynski)
 * [Weights and Biases Homepage](https://wandb.ai/nathan-mahynski)
 
