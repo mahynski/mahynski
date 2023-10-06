@@ -18,10 +18,10 @@ You can read more about ongoing research on [ResearchGate](https://www.researchg
 * [Weights and Biases Homepage](https://wandb.ai/nathan-mahynski)
 
 <p align="center">
-  <a href="https://gist.github.com/mahynski/55116f939ae1b570b3a35abe37749c94"><img height="180" src="https://github.com/mahynski/mahynski/assets/23516749/25dd8cec-8266-49fe-9643-598155d30d1f"></a>
-  <a href="https://gist.github.com/mahynski/2533b0d5f39348e73d09b0a2bcfa33e8"><img height="180" src="https://github.com/mahynski/mahynski/assets/23516749/bf6456fd-3e85-411e-af02-0b846ccd8db6"></a>
-  <img height="180" src="https://github.com/mahynski/mahynski/assets/23516749/07aa03fb-1e61-49b8-b34a-98f433284d7f">
-  <img height="180" src="https://github.com/mahynski/mahynski/assets/23516749/e004c1ce-e824-4ea4-b2c3-2ea7f6b7b151">
+  <a href="https://gist.github.com/mahynski/55116f939ae1b570b3a35abe37749c94"><img height="170" src="https://github.com/mahynski/mahynski/assets/23516749/25dd8cec-8266-49fe-9643-598155d30d1f"></a>
+  <a href="https://gist.github.com/mahynski/2533b0d5f39348e73d09b0a2bcfa33e8"><img height="170" src="https://github.com/mahynski/mahynski/assets/23516749/bf6456fd-3e85-411e-af02-0b846ccd8db6"></a>
+  <img height="170" src="https://github.com/mahynski/mahynski/assets/23516749/07aa03fb-1e61-49b8-b34a-98f433284d7f">
+  <img height="170" src="https://github.com/mahynski/mahynski/assets/23516749/e004c1ce-e824-4ea4-b2c3-2ea7f6b7b151">
 </p>
 
 <!-- Have an interesting problem? Need help or advice? Contact me at nathan.mahynski@nist.gov -->
