@@ -1,3 +1,5 @@
+![image](https://github.com/mahynski/mahynski/assets/23516749/6db3de5e-8956-478a-8f80-9a7c8e93bc17)
+
 I am an engineer :gear: who specializes in designing, developing, and deploying computational tools to solve problems in chemistry and related scientific disciplines. I work with subject matter experts in fields like nuclear chemistry, food science, and ecology use machine learning, molecular simulations, and advanced modeling tools to make data-driven discoveries. I also work on designing self-assembling functional materials. My own research involves using tools from art and architecture in novel ways to program colloidal crystal assembly. I have a PhD in Chemical Engineering with a concentration in computational thermodynamics and a certificate in Computational and Information Science. 
 
 Broad research areas include: 
@@ -15,7 +17,7 @@ You can read more about ongoing research on [ResearchGate](https://www.researchg
 * Notes and HowTo are available as [Gists](https://gist.github.com/mahynski)
 * [Weights and Biases Homepage](https://wandb.ai/nathan-mahynski)
 
-Have an interesting problem? Need help or advice? Contact me at nathan.mahynski@nist.gov
+<!-- Have an interesting problem? Need help or advice? Contact me at nathan.mahynski@nist.gov -->
 
 <!--
 [![mahynski's github stats](https://github-readme-stats.vercel.app/api?username=mahynski&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/mahynski)
