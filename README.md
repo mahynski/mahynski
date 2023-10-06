@@ -5,12 +5,12 @@ I am an engineer :gear: who specializes in designing, developing, and deploying 
 Broad research areas include: 
 :fire: [Thermodynamics](https://gist.github.com/mahynski/2533b0d5f39348e73d09b0a2bcfa33e8), :diamond_shape_with_a_dot_inside: [Material science](https://gist.github.com/mahynski/55116f939ae1b570b3a35abe37749c94), :sushi: [Food authenticity](https://gist.github.com/mahynski/6307ae08cf6dbd02db183c3ad8e0ffc7), :computer: [Machine Learning](https://wandb.ai/nathan-mahynski)
 
-<!-- <p align="center"> -->
+<p align="center">
   <a href="https://gist.github.com/mahynski/55116f939ae1b570b3a35abe37749c94"><img height="150" align="center" src="https://github.com/mahynski/mahynski/assets/23516749/25dd8cec-8266-49fe-9643-598155d30d1f"></a>
   <a href="https://gist.github.com/mahynski/2533b0d5f39348e73d09b0a2bcfa33e8"><img height="150" align="center" src="https://github.com/mahynski/mahynski/assets/23516749/bf6456fd-3e85-411e-af02-0b846ccd8db6"></a>
   <a href="https://gist.github.com/mahynski/63f73b6b07b80e030d45d61a7b3b72a7"><img height="150" align="center" src="https://github.com/mahynski/mahynski/assets/23516749/07aa03fb-1e61-49b8-b34a-98f433284d7f"></a>
   <a href="https://gist.github.com/mahynski/6307ae08cf6dbd02db183c3ad8e0ffc7"><img height="150" align="center" src="https://github.com/mahynski/mahynski/assets/23516749/e004c1ce-e824-4ea4-b2c3-2ea7f6b7b151"></a>
-<!-- </p> -->
+</p>
 
 Some recent projects include: 
 * :atom: Developing tools for advanced [isotope metrology](https://www.nist.gov/programs-projects/isotope-metrology)
