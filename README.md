@@ -36,6 +36,7 @@ You can read more about ongoing research on [ResearchGate](https://www.researchg
 <img src="https://streamlit.io/images/brand/streamlit-logo-primary-colormark-darktext.png" height=40 />
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/OpenAI_Logo_%282%29.svg/320px-OpenAI_Logo_%282%29.svg.png" height=40 />
 <img src="https://avatars.githubusercontent.com/u/2018047?s=280&v=4" height=40 />
+
 <!-- [![GitHub Streak](https://streak-stats.demolab.com/?user=mahynski)](https://git.io/streak-stats) -->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mahynski&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
