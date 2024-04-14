@@ -27,6 +27,8 @@ Some recent projects include:
 You can read more about ongoing research on [ResearchGate](https://www.researchgate.net/profile/Nathan-Mahynski).
 * Notes and HowTo are available as [Gists](https://gist.github.com/mahynski)
 * [Weights and Biases Homepage](https://wandb.ai/nathan-mahynski)
+* [Paperspace](https://console.paperspace.com/t9nl3c8mxy/projects)
+* [Colab](http://colab.research.google.com)
 
 <!-- Have an interesting problem? Need help or advice? Contact me at nathan.mahynski@nist.gov -->
 
