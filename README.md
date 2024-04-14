@@ -1,7 +1,7 @@
 ![image](https://github.com/mahynski/mahynski/assets/23516749/6db3de5e-8956-478a-8f80-9a7c8e93bc17)
 
 I am an engineer :gear: who specializes in designing, developing, and deploying computational tools to solve problems in chemistry and related scientific disciplines. I work with subject matter experts in fields like nuclear chemistry, food science, and ecology use machine learning, molecular simulations, and advanced modeling tools to make data-driven discoveries. I also work on designing self-assembling functional materials. My own research involves using tools from art and architecture in novel ways to program colloidal crystal assembly. I have a PhD in Chemical Engineering with a concentration in computational thermodynamics and a certificate in Computational and Information Science. 
-I've worked in the field of chemometrics for most of my career. 
+I've worked in the field of chemometrics for most of my career. You can read more about ongoing research on [ResearchGate](https://www.researchgate.net/profile/Nathan-Mahynski).
 
 Broad research areas include: 
 🔥 [Thermodynamics](https://gist.github.com/mahynski/2533b0d5f39348e73d09b0a2bcfa33e8), :diamond_shape_with_a_dot_inside: [Material science](https://gist.github.com/mahynski/55116f939ae1b570b3a35abe37749c94), :sushi: [Food authenticity](https://gist.github.com/mahynski/6307ae08cf6dbd02db183c3ad8e0ffc7), :computer: [Machine Learning](https://wandb.ai/nathan-mahynski)
@@ -24,11 +24,12 @@ Some recent projects include:
 * :diamond_shape_with_a_dot_inside: Designing [colloidal self-assembly](https://doi.org/10.1063/5.0106131) by tiling [Escher](https://mcescher.com/)-like patterns
 * :speech_balloon: Extractive summarization of scientific data and documents with large language models
 
-You can read more about ongoing research on [ResearchGate](https://www.researchgate.net/profile/Nathan-Mahynski).
+Cloud dev environment
 * Notes and HowTo are available as [Gists](https://gist.github.com/mahynski)
-* [Weights and Biases Homepage](https://wandb.ai/nathan-mahynski)
+* [Weights and Biases](https://wandb.ai/nathan-mahynski)
 * [Paperspace](https://console.paperspace.com/t9nl3c8mxy/projects)
 * [Colab](http://colab.research.google.com)
+* [OpenAI](https://platform.openai.com)
 
 <!-- Have an interesting problem? Need help or advice? Contact me at nathan.mahynski@nist.gov -->
 
