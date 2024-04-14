@@ -27,9 +27,9 @@ Some recent projects include:
 :thought_balloon: Cloud dev environment:
 * :notebook_with_decorative_cover: Notes and HowTo are available as [Gists](https://gist.github.com/mahynski)
 * :white_circle: [Weights and Biases](https://wandb.ai/nathan-mahynski)
-* :black_circle: [Paperspace](https://console.paperspace.com/t9nl3c8mxy/projects)
-* :small_orange_diamond: [Colab](http://colab.research.google.com)
-* :small_blue_diamond: [OpenAI](https://platform.openai.com)
+* :black_circle: [Paperspace Gradient](https://console.paperspace.com/t9nl3c8mxy/projects)
+* :small_orange_diamond: [Google Colab](http://colab.research.google.com)
+* :small_blue_diamond: [OpenAI Dev](https://platform.openai.com)
 
 <!-- Have an interesting problem? Need help or advice? Contact me at nathan.mahynski@nist.gov -->
 
