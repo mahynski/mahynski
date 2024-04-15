@@ -31,7 +31,7 @@ Some recent projects include:
 * :small_orange_diamond: [Google Colab](http://colab.research.google.com)
 * :small_blue_diamond: [OpenAI Dev](https://platform.openai.com)
 * :curly_loop: [Langfuse Dashboard](https://cloud.langfuse.com/)
-
+* :octocat: [Copilot](https://github.com/features/copilot)
 <!-- Have an interesting problem? Need help or advice? Contact me at nathan.mahynski@nist.gov -->
 
 <!--
