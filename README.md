@@ -24,15 +24,23 @@ Some recent projects include:
 * :diamond_shape_with_a_dot_inside: Designing [colloidal self-assembly](https://doi.org/10.1063/5.0106131) by tiling [Escher](https://mcescher.com/)-like patterns
 * :speech_balloon: Extractive summarization of scientific data and documents with large language models
 
+:notebook_with_decorative_cover: Notes and HowTo are available as [Gists](https://gist.github.com/mahynski)
+
 :thought_balloon: Cloud dev environment:
-* :notebook_with_decorative_cover: Notes and HowTo are available as [Gists](https://gist.github.com/mahynski)
 * :white_circle: [Weights and Biases](https://wandb.ai/nathan-mahynski)
 * :black_circle: [Paperspace Gradient](https://console.paperspace.com/t9nl3c8mxy/projects)
 * :small_orange_diamond: [Google Colab](http://colab.research.google.com)
+* :octocat: [Copilot](https://github.com/features/copilot)
+
+LLM Tools:
 * :small_blue_diamond: [OpenAI Dev](https://platform.openai.com)
 * :link: [Langfuse Dashboard](https://cloud.langfuse.com/), [LangChain](https://langchain.com), [LlamaIndex](https://llamaindex.ai)
 * :curly_loop: [Huggingface](https://huggingface.co)
-* :octocat: [Copilot](https://github.com/features/copilot)
+
+Chemistry:
+* [Deepchem](https://deepchem.io)
+* [PySCF](http://pyscf.org)
+
 <!-- Have an interesting problem? Need help or advice? Contact me at nathan.mahynski@nist.gov -->
 
 <!--
