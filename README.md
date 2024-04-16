@@ -32,12 +32,12 @@ Some recent projects include:
 * :small_orange_diamond: [Google Colab](http://colab.research.google.com)
 * :octocat: [Copilot](https://github.com/features/copilot)
 
-LLM Tools:
+:books: LLM Tools:
 * :small_blue_diamond: [OpenAI Dev](https://platform.openai.com)
 * :link: [Langfuse Dashboard](https://cloud.langfuse.com/), [LangChain](https://langchain.com), [LlamaIndex](https://llamaindex.ai)
 * :curly_loop: [Huggingface](https://huggingface.co)
 
-Chemistry:
+:microscope: Chemistry:
 * [Deepchem](https://deepchem.io)
 * [PySCF](http://pyscf.org)
 
