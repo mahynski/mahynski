@@ -30,8 +30,8 @@ Some recent projects include:
 * :black_circle: [Paperspace Gradient](https://console.paperspace.com/t9nl3c8mxy/projects)
 * :small_orange_diamond: [Google Colab](http://colab.research.google.com)
 * :small_blue_diamond: [OpenAI Dev](https://platform.openai.com)
-* :curly_loop: [Langfuse Dashboard](https://cloud.langfuse.com/)
-* :link: [Huggingface](huggingface.co)
+* :link: [Langfuse Dashboard](https://cloud.langfuse.com/), [LangChain](https://langchain.com), [LlamaIndex](https://llamaindex.ai)
+* :curly_loop: [Huggingface](https://huggingface.co)
 * :octocat: [Copilot](https://github.com/features/copilot)
 <!-- Have an interesting problem? Need help or advice? Contact me at nathan.mahynski@nist.gov -->
 
