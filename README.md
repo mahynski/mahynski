@@ -24,7 +24,7 @@ Some recent projects include:
 * :diamond_shape_with_a_dot_inside: Designing [colloidal self-assembly](https://doi.org/10.1063/5.0106131) by tiling [Escher](https://mcescher.com/)-like patterns
 * :speech_balloon: Extractive summarization of scientific data and documents with large language models
 
-:notebook_with_decorative_cover: Notes and HowTo are available as [Gists](https://gist.github.com/mahynski)
+:notebook_with_decorative_cover: Notes and HowTo are available as [Gists](https://gist.github.com/mahynski).
 
 :thought_balloon: Cloud dev environment:
 * [Weights and Biases](https://wandb.ai/nathan-mahynski)
@@ -34,7 +34,9 @@ Some recent projects include:
 
 :books: LLM Tools:
 * [OpenAI Dev](https://platform.openai.com)
-* [Langfuse Dashboard](https://cloud.langfuse.com/), [LangChain](https://langchain.com), [LlamaIndex](https://llamaindex.ai)
+* [Langfuse Dashboard](https://cloud.langfuse.com/)
+* [LangChain](https://langchain.com)
+* [LlamaIndex](https://llamaindex.ai)
 * [Huggingface](https://huggingface.co)
 
 :microscope: Chemistry:
