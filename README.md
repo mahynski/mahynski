@@ -35,6 +35,7 @@ Some recent projects include:
 * [Paperspace Gradient](https://console.paperspace.com/t9nl3c8mxy/projects)
 * [Google Colab](http://colab.research.google.com)
 * :octocat: [Copilot](https://github.com/features/copilot)
+* [FastAPI](https://fastapi.tiangolo.com/)
 
 :speech_balloon: LLM Tools:
 * [OpenAI Dev](https://platform.openai.com)
