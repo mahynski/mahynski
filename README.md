@@ -30,7 +30,9 @@ Some recent projects include:
 
 :computer: Software Stack
 
-:thought_balloon: Cloud dev environment:
+* [Dracula Theme](https://draculatheme.com/)
+
+### :thought_balloon: Cloud dev environment:
 * [Weights and Biases](https://wandb.ai/nathan-mahynski)
 * [Paperspace Gradient](https://console.paperspace.com/t9nl3c8mxy/projects)
 * [Google Colab](http://colab.research.google.com)
