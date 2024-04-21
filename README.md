@@ -28,27 +28,28 @@ Some recent projects include:
 
 ---
 
-:computer: Software Stack
+## :computer: Solution Stack
 
 * [Dracula Theme](https://draculatheme.com/)
 
 ### :thought_balloon: Cloud dev environment:
-* [Weights and Biases](https://wandb.ai/nathan-mahynski)
 * [Paperspace Gradient](https://console.paperspace.com/t9nl3c8mxy/projects)
-* [Google Colab](http://colab.research.google.com)
 * :octocat: [Copilot](https://github.com/features/copilot)
-* [FastAPI](https://fastapi.tiangolo.com/)
+* [Google Colab](http://colab.research.google.com)
+* [Weights and Biases](https://wandb.ai/nathan-mahynski)
 
-:speech_balloon: LLM Tools:
+### :speech_balloon: LLM Tools:
 * [OpenAI Dev](https://platform.openai.com)
 * [Langfuse Dashboard](https://cloud.langfuse.com/)
 * [LangChain](https://langchain.com)
 * [LlamaIndex](https://llamaindex.ai)
 * [Huggingface](https://huggingface.co)
+* [FastAPI](https://fastapi.tiangolo.com/)
 
-:microscope: Chemistry:
+### :microscope: Chemistry:
 * [Deepchem](https://deepchem.io)
 * [PySCF](http://pyscf.org)
+* [DeepMD-kit](https://docs.deepmodeling.com/projects/deepmd/en/r2/)
 
 <!-- Have an interesting problem? Need help or advice? Contact me at nathan.mahynski@nist.gov -->
 
