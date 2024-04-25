@@ -30,26 +30,13 @@ Some recent projects include:
 
 ## :computer: Solution Stack
 
-* [Dracula Theme](https://draculatheme.com/)
-
-### :thought_balloon: Cloud dev environment:
-* [Paperspace Gradient](https://console.paperspace.com/t9nl3c8mxy/projects)
-* :octocat: [Copilot](https://github.com/features/copilot)
-* [Google Colab](http://colab.research.google.com)
-* [Weights and Biases](https://wandb.ai/nathan-mahynski)
-
-### :speech_balloon: LLM Tools:
-* [OpenAI Dev](https://platform.openai.com)
-* [Langfuse Dashboard](https://cloud.langfuse.com/)
-* [LangChain](https://langchain.com)
-* [LlamaIndex](https://llamaindex.ai)
-* [Huggingface](https://huggingface.co)
-* [FastAPI](https://fastapi.tiangolo.com/)
-
-### :microscope: Chemistry:
-* [Deepchem](https://deepchem.io)
-* [PySCF](http://pyscf.org)
-* [DeepMD-kit](https://docs.deepmodeling.com/projects/deepmd/en/r2/)
+| :thought_balloon: Cloud dev environment | :speech_balloon: LLM Tools | :microscope: Chemistry | :computer: Other | 
+| --------------------- | --------- | --------- | ----- | 
+| [Paperspace Gradient](https://console.paperspace.com/t9nl3c8mxy/projects) | [OpenAI Dev](https://platform.openai.com) | [Deepchem](https://deepchem.io) | [Dracula Theme](https://draculatheme.com/) |
+| :octocat: [Copilot](https://github.com/features/copilot) | [Langfuse Dashboard](https://cloud.langfuse.com/) | [PySCF](http://pyscf.org) | [Streamlit](https://streamlit.io/) |
+| [Google Colab](http://colab.research.google.com) | [LangChain](https://langchain.com) | [DeepMD-kit](https://docs.deepmodeling.com/projects/deepmd/en/r2/) | [FastAPI](https://fastapi.tiangolo.com/) |
+| [Weights and Biases](https://wandb.ai/nathan-mahynski) | [LlamaIndex](https://llamaindex.ai) | | |
+| | [Huggingface](https://huggingface.co) | |
 
 <!-- Have an interesting problem? Need help or advice? Contact me at nathan.mahynski@nist.gov -->
 
@@ -57,7 +44,7 @@ Some recent projects include:
 [![mahynski's github stats](https://github-readme-stats.vercel.app/api?username=mahynski&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/mahynski)
 -->
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" />
+<!-- <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" /> -->
 
 <!-- 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" height=40 /> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png" height=40 />  <img src="http://static.bokeh.org/og/logotype-on-hex.png" height=40 /> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1200px-Scikit_learn_logo_small.svg.png" height=40 /> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Keras_logo.svg/1200px-Keras_logo.svg.png" height=40 />   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/TensorFlow_logo.svg/1200px-TensorFlow_logo.svg.png" height=40 />  <img src="https://avatars.githubusercontent.com/u/26401354?s=200&v=4" height=40 /> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/306px-ISO_C%2B%2B_Logo.svg.png" height=40 />  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Gnu-bash-logo.svg/216px-Gnu-bash-logo.svg.png" height=40 />  <img src="https://www.lammps.org/movies/logo.gif" height=40 />  <img src="https://streamlit.io/images/brand/streamlit-logo-primary-colormark-darktext.png" height=40 /> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/OpenAI_Logo_%282%29.svg/320px-OpenAI_Logo_%282%29.svg.png" height=40 /> <img src="https://avatars.githubusercontent.com/u/2018047?s=280&v=4" height=40 /> <img src="https://asset.brandfetch.io/id6a4s3gXI/idncpUsO_z.jpeg" height=40 />
