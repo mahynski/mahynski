@@ -21,7 +21,7 @@ Some recent projects include:
 * :strawberry: [Authenticating food labeling](https://pychemauth.readthedocs.io/en/latest/index.html) claims with chemometric tools 
 * :bird: Analyzing [trends in biorepositories](https://pubs.acs.org/doi/full/10.1021/acs.est.2c01894) using explainable machine learning
 * :radioactive: [Identifying materials](https://dx.doi.org/10.1007/s10967-023-09024-x) using nuclear spectroscopy methods
-* :diamond_shape_with_a_dot_inside: Designing [colloidal self-assembly](https://doi.org/10.1063/5.0106131) by tiling [Escher](https://mcescher.com/)-like patterns
+* :diamond_shape_with_a_dot_inside: Designing [colloidal self-assembly](https://doi.org/10.1063/5.0106131) by tiling [Escher](https://pubs.acs.org/doi/10.1021/acs.jctc.3c01284)-like patterns
 * :speech_balloon: Extractive summarization of scientific data and documents with large language models
 
 :notebook_with_decorative_cover: Notes and HowTo are available as [Gists](https://gist.github.com/mahynski).
