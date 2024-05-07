@@ -36,7 +36,7 @@ Some recent projects include:
 | :octocat: [Copilot](https://github.com/features/copilot) | [Langfuse Dashboard](https://cloud.langfuse.com/) | [PySCF](http://pyscf.org) | [Streamlit](https://streamlit.io/) |
 | [Google Colab](http://colab.research.google.com) | [LangChain](https://langchain.com) | [DeepMD-kit](https://docs.deepmodeling.com/projects/deepmd/en/r2/) | [FastAPI](https://fastapi.tiangolo.com/) |
 | [Weights and Biases](https://wandb.ai/nathan-mahynski) | [LlamaIndex](https://llamaindex.ai) | | |
-| | [Huggingface](https://huggingface.co) | |
+| [Streamlit](https://streamlit.io) | [Huggingface](https://huggingface.co) | |
 
 <!-- Have an interesting problem? Need help or advice? Contact me at nathan.mahynski@nist.gov -->
 
