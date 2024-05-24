@@ -35,8 +35,9 @@ Some recent projects include:
 | [Paperspace Gradient](https://console.paperspace.com/t9nl3c8mxy/projects) | [OpenAI Dev](https://platform.openai.com) | [Deepchem](https://deepchem.io) | [Dracula Theme](https://draculatheme.com/) |
 | :octocat: [Copilot](https://github.com/features/copilot) | [Langfuse Dashboard](https://cloud.langfuse.com/) | [PySCF](http://pyscf.org) | [Streamlit](https://streamlit.io) |
 | [Google Colab](http://colab.research.google.com) | [LangChain](https://langchain.com) | [DeepMD-kit](https://docs.deepmodeling.com/projects/deepmd/en/r2/) | [FastAPI](https://fastapi.tiangolo.com/) |
-| [Weights and Biases](https://wandb.ai/nathan-mahynski) | [LlamaIndex](https://llamaindex.ai) | | |
+| [Weights and Biases](https://wandb.ai/nathan-mahynski) | [LlamaIndex](https://llamaindex.ai) | [RDKit](https://www.rdkit.org/) | |
 | | [Huggingface](https://huggingface.co) | |
+| | [Ollama](https://ollama.com/) | | |
 
 <!-- Have an interesting problem? Need help or advice? Contact me at nathan.mahynski@nist.gov -->
 
