@@ -32,7 +32,7 @@ Some recent projects include:
 
 | :thought_balloon: Cloud dev environment | :speech_balloon: LLM Tools | :microscope: Chemistry | :computer: Other | 
 | --------------------- | --------- | --------- | ----- | 
-| [Paperspace Gradient](https://console.paperspace.com/t9nl3c8mxy/projects) | [OpenAI Dev](https://platform.openai.com) | [Deepchem](https://deepchem.io) | [Dracula Theme](https://draculatheme.com/) |
+| [Paperspace Gradient](https://console.paperspace.com/t9nl3c8mxy/projects) | [OpenAI API](https://platform.openai.com) | [Deepchem](https://deepchem.io) | [Dracula Theme](https://draculatheme.com/) |
 | :octocat: [Copilot](https://github.com/features/copilot) | [Langfuse Dashboard](https://cloud.langfuse.com/) | [PySCF](http://pyscf.org) | [Streamlit](https://streamlit.io) |
 | [Google Colab](http://colab.research.google.com) | [LangChain](https://langchain.com) | [DeepMD-kit](https://docs.deepmodeling.com/projects/deepmd/en/r2/) | [FastAPI](https://fastapi.tiangolo.com/) |
 | [Weights and Biases](https://wandb.ai/nathan-mahynski) | [LlamaIndex](https://llamaindex.ai) | [RDKit](https://www.rdkit.org/) | |
