@@ -26,10 +26,6 @@ Some recent projects include:
 
 :notebook_with_decorative_cover: Notes and HowTo are available as [Gists](https://gist.github.com/mahynski).
 
-<pre>
-&#129303;
-</pre>
-
 ---
 
 ## :computer: Solution Stack
@@ -40,7 +36,7 @@ Some recent projects include:
 | :octocat: [Copilot](https://github.com/features/copilot) | [Langfuse Dashboard](https://cloud.langfuse.com/) | [PySCF](http://pyscf.org) | [Streamlit](https://streamlit.io) |
 | [Google Colab](http://colab.research.google.com) | [LangChain](https://langchain.com) | [DeepMD-kit](https://docs.deepmodeling.com/projects/deepmd/en/r2/) | [FastAPI](https://fastapi.tiangolo.com/) |
 | [Weights and Biases](https://wandb.ai/nathan-mahynski) | [LlamaIndex](https://llamaindex.ai) | [RDKit](https://www.rdkit.org/) | |
-| | [Huggingface](https://huggingface.co) | |
+| | &#129303; [Huggingface](https://huggingface.co) | |
 | | [Ollama](https://ollama.com/) | | |
 
 <!-- Have an interesting problem? Need help or advice? Contact me at nathan.mahynski@nist.gov -->
