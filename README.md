@@ -26,6 +26,8 @@ Some recent projects include:
 
 :notebook_with_decorative_cover: Notes and HowTo are available as [Gists](https://gist.github.com/mahynski).
 
+&#1F917
+
 ---
 
 ## :computer: Solution Stack
