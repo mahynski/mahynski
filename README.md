@@ -33,12 +33,13 @@ Some recent projects include:
 | :thought_balloon: Cloud dev environment | :speech_balloon: LLM Tools | :microscope: Chemistry | :computer: Other | 
 | --------------------- | --------- | --------- | ----- | 
 | [Paperspace Gradient](https://console.paperspace.com/t9nl3c8mxy/projects) | [OpenAI API](https://platform.openai.com) | [Deepchem](https://deepchem.io) | &#129499; [Dracula Theme](https://draculatheme.com/) |
-| :octocat: [Copilot](https://github.com/features/copilot) | [Langfuse Dashboard](https://cloud.langfuse.com/) | [PySCF](http://pyscf.org) | [Streamlit](https://streamlit.io) |
+| :octocat: [Copilot](https://github.com/features/copilot) | [Langfuse Dashboard](https://cloud.langfuse.com/) | [PySCF](http://pyscf.org) | <a href="https://streamlit.io"><img src="https://streamlit.io/images/brand/streamlit-logo-primary-colormark-lighttext.png" height=27 align="left" valign="center"/></a>  |
 | [Google Colab](http://colab.research.google.com) | [LangChain](https://langchain.com) | [DeepMD-kit](https://docs.deepmodeling.com/projects/deepmd/en/r2/) | [FastAPI](https://fastapi.tiangolo.com/) |
 | [Weights and Biases](https://wandb.ai/nathan-mahynski) | &#129433; [LlamaIndex](https://llamaindex.ai) | [RDKit](https://www.rdkit.org/) | |
 | | &#129303; [Huggingface](https://huggingface.co) | |
 | | [Ollama](https://ollama.com/) | | |
 
+<!-- [Streamlit](https://streamlit.io) -->
 <!-- Have an interesting problem? Need help or advice? Contact me at nathan.mahynski@nist.gov -->
 
 <!--
