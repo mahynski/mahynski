@@ -32,7 +32,7 @@ Some recent projects include:
 
 | :thought_balloon: Cloud dev environment | :speech_balloon: LLM Tools | :microscope: Chemistry | :computer: Other | 
 | --------------------- | --------- | --------- | ----- | 
-| [Paperspace Gradient](https://console.paperspace.com/t9nl3c8mxy/projects) | <a href="https://platform.openai.com"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/OpenAI_Logo.svg/512px-OpenAI_Logo.svg.png" align="left" valign="center" /></a> | [Deepchem](https://deepchem.io) | &#129499; [Dracula Theme](https://draculatheme.com/) |
+| [Paperspace Gradient](https://console.paperspace.com/t9nl3c8mxy/projects) | <a href="https://platform.openai.com"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/OpenAI.png/320px-OpenAI.png" align="left" valign="center" height=27 /></a> | [Deepchem](https://deepchem.io) | &#129499; [Dracula Theme](https://draculatheme.com/) |
 | :octocat: [Copilot](https://github.com/features/copilot) | [Langfuse Dashboard](https://cloud.langfuse.com/) | [PySCF](http://pyscf.org) | <a href="https://streamlit.io"><img src="https://streamlit.io/images/brand/streamlit-logo-primary-colormark-lighttext.png" height=27 align="left" valign="center"/></a>  |
 | <a href="http://colab.research.google.com"><img src="https://static.wikia.nocookie.net/logopedia/images/d/d8/Colab.png/revision/latest?cb=20201019223838" height=27 align="left" valign="center"/></a> | [LangChain](https://langchain.com) | [DeepMD-kit](https://docs.deepmodeling.com/projects/deepmd/en/r2/) | [FastAPI](https://fastapi.tiangolo.com/) |
 | [Weights and Biases](https://wandb.ai/nathan-mahynski) | &#129433; [LlamaIndex](https://llamaindex.ai) | [RDKit](https://www.rdkit.org/) | |
