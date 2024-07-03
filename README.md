@@ -36,7 +36,7 @@ Some recent projects include:
 | :octocat: [Copilot](https://github.com/features/copilot) | [Langfuse Dashboard](https://cloud.langfuse.com/) | [PySCF](http://pyscf.org) | <a href="https://streamlit.io"><img src="https://streamlit.io/images/brand/streamlit-logo-primary-colormark-lighttext.png" height=27 align="left" valign="center"/></a>  |
 | <a href="http://colab.research.google.com"><img src="https://static.wikia.nocookie.net/logopedia/images/d/d8/Colab.png/revision/latest?cb=20201019223838" height=27 align="left" valign="center"/></a> | [LangChain](https://langchain.com) | [DeepMD-kit](https://docs.deepmodeling.com/projects/deepmd/en/r2/) | [FastAPI](https://fastapi.tiangolo.com/) |
 | [Weights and Biases](https://wandb.ai/nathan-mahynski) | &#129433; [LlamaIndex](https://llamaindex.ai) | [RDKit](https://www.rdkit.org/) | |
-| | &#129303; [Huggingface](https://huggingface.co) | |
+| | &#129303; [Huggingface](https://huggingface.co/mahynski) | |
 | | <img src="https://ollama.com/public/assets/c889cc0d-cb83-4c46-a98e-0d0e273151b9/42f6b28d-9117-48cd-ac0d-44baaf5c178e.png" height=23 align="left" valign="center" />[Ollama](https://ollama.com/) | | |
 
 <!-- [Streamlit](https://streamlit.io) -->
