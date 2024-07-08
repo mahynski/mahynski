@@ -35,7 +35,7 @@ Some recent projects include:
 | [Paperspace Gradient](https://console.paperspace.com/t9nl3c8mxy/projects) | <a href="https://platform.openai.com"><img src="https://github.com/mahynski/mahynski/blob/054dfcc77bf297a07b6e2820001ee22024722e44/img/powered-by-openai-badge-filled-on-dark.png" height=27 align="left" valign="center" /></a> | [DeepChem](https://deepchem.io) | &#129499; [Dracula Theme](https://draculatheme.com/) |
 | :octocat: [Copilot](https://github.com/features/copilot) | [Langfuse Dashboard](https://cloud.langfuse.com/) | [PySCF](http://pyscf.org) | <a href="https://streamlit.io"><img src="https://streamlit.io/images/brand/streamlit-logo-primary-colormark-lighttext.png" height=27 align="left" valign="center"/></a>  |
 | <a href="http://colab.research.google.com"><img src="https://static.wikia.nocookie.net/logopedia/images/d/d8/Colab.png/revision/latest?cb=20201019223838" height=27 align="left" valign="center"/></a> | [LangChain](https://langchain.com) | [DeepMD-kit](https://docs.deepmodeling.com/projects/deepmd/en/r2/) | [FastAPI](https://fastapi.tiangolo.com/) |
-| [Weights and Biases](https://wandb.ai/nathan-mahynski) | &#129433; [LlamaIndex](https://docs.llamaindex.ai/en/stable/) | [RDKit](https://www.rdkit.org/) | |
+| [Weights and Biases](https://wandb.ai/nathan-mahynski) | &#129433; [LlamaIndex](https://docs.llamaindex.ai/en/stable/) | [RDKit](https://www.rdkit.org/) | [GitFlow](https://jeffkreeftmeijer.com/git-flow/) |
 | | &#129303; [Huggingface](https://huggingface.co/mahynski) | |
 | | <img src="https://ollama.com/public/assets/c889cc0d-cb83-4c46-a98e-0d0e273151b9/42f6b28d-9117-48cd-ac0d-44baaf5c178e.png" height=23 align="left" valign="center" />[Ollama](https://ollama.com/) | | |
 
