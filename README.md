@@ -4,7 +4,7 @@ I am an engineer :gear: who specializes in designing, developing, and deploying 
 I've worked in the field of chemometrics for most of my career. You can read more about ongoing research on [ResearchGate](https://www.researchgate.net/profile/Nathan-Mahynski).
 
 Broad research areas include: 
-🔥 [Thermodynamics](https://gist.github.com/mahynski/2533b0d5f39348e73d09b0a2bcfa33e8), :diamond_shape_with_a_dot_inside: [Material science](https://gist.github.com/mahynski/55116f939ae1b570b3a35abe37749c94), :sushi: [Food authenticity](https://gist.github.com/mahynski/6307ae08cf6dbd02db183c3ad8e0ffc7), :part_alternation_mark: [Machine Learning](https://wandb.ai/nathan-mahynski)
+🔥 [Thermodynamics](https://gist.github.com/mahynski/2533b0d5f39348e73d09b0a2bcfa33e8), :diamond_shape_with_a_dot_inside: [Material science](https://gist.github.com/mahynski/55116f939ae1b570b3a35abe37749c94), :sushi: [Food authenticity](https://gist.github.com/mahynski/6307ae08cf6dbd02db183c3ad8e0ffc7), :part_alternation_mark: [Machine Learning](https://huggingface.co/mahynski)
 
 <p align="center">
   <a href="https://gist.github.com/mahynski/55116f939ae1b570b3a35abe37749c94"><img height="150" align="center" src="https://github.com/mahynski/mahynski/assets/23516749/25dd8cec-8266-49fe-9643-598155d30d1f"></a>
