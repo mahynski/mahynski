@@ -65,6 +65,7 @@ Details
 </summary>
 <br>
 Details
+</details>
 
 <iframe
 	src="https://mahynski-rag-demo.hf.space"
@@ -72,9 +73,6 @@ Details
 	width="850"
 	height="450"
 ></iframe>
-
-
-</details>
 
 :notebook_with_decorative_cover: Notes and HowTo are available as [Gists](https://gist.github.com/mahynski).
 
