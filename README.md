@@ -36,7 +36,15 @@ Broad research areas include:
   <summary> :droplet: Predicting fluid phase thermodynamic properties with deep learning and coarse-grained modeling
   </summary>
   <hr>
-  Details - thermoextrap @NIST
+  <h3>tl;dr</h3>
+  The design of next-generation functional materials, central to numerous modern technologies, relies heavily on accurate thermophysical property models of chemical mixtures. Developing molecular-level simulation models is computationally expensive so coarse-grained (simplified) forcefields and predictive models with a high degree of transferrability beyond their training data are required.  ["Thermodynanic extrapolation"](https://gist.github.com/mahynski/2533b0d5f39348e73d09b0a2bcfa33e8.js") is a method I developed at NIST to extract orders of magnitude more data and predictive capabilities from existing molecular simulations; it has since been improved and advanced by [others](https://github.com/usnistgov/thermoextrap).
+  
+  <h3>Products</h3>
+  <ul>
+    <li>Modern implementation of thermodynamic extrapolation tools @NIST can be found here: <a href="https://github.com/usnistgov/thermoextrap">thermoextrap</a></li>
+    <li>This is also implemented in <a href="https://github.com/usnistgov/feasst">FEASST</a>, an open-source Monte Carlo simulation package</li>
+    <li>Harmonizing Statistical Associating Fluid Theory (SAFT) with molecular simulations (coming soon!)</li>
+  </ul>
   <hr>
 </details>
 
