@@ -19,6 +19,7 @@ Some recent projects include:
 * :atom: Developing tools for advanced [isotope metrology](https://www.nist.gov/programs-projects/isotope-metrology)
 
 <details>
+  :droplet:
 <summary>How do I dropdown?</summary>
 <br>
 This is how you dropdown.
