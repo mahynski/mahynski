@@ -18,54 +18,68 @@ Broad research areas include:
 ![](http://ForTheBadge.com/images/badges/built-with-science.svg)
 
 <details>
-<summary> :atom: Developing tools for advanced <a href="https://www.nist.gov/programs-projects/isotope-metrology">isotope metrology</a>
-</summary>
-<br>
-Details
+  <summary> :atom: Developing tools for advanced <a href="https://www.nist.gov/programs-projects/isotope-metrology">isotope metrology</a>
+  </summary>
+  <hr>
+  <h3>tl;dr</h3> 
+    Stable isotope ratios of light elements (e.g., H, C, O, N, S) and trace elemental (SITE) composition profiles are often the preferred choice of features used to model determining geographic origin of many consumer products including food. They are correlated with biogeochemical fractionation processes associated with local climate, geology, and pedology resulting in different transfer rates from natural sources (e.g., water, soil, atmosphere) to plant or animal tissues. Accurate measurements and predictive models of provenance are required to validate origin and other characteristics (organic vs. conventional farming practices) of consumer products to secure supply chains.
+  
+  <h3>Products Developed</h3>
+  <ul>
+    <li><a href="https://pychemauth.readthedocs.io/en/latest/index.html">PyChemAuth</a></li>
+    <li>SITE database @NIST (coming soon)</li>
+  </ul>
+  <hr>
 </details>
 
 <details>
-<summary> :droplet: Predicting fluid phase thermodynamic properties with deep learning and coarse-grained modeling
-</summary>
-<br>
-Details
+  <summary> :droplet: Predicting fluid phase thermodynamic properties with deep learning and coarse-grained modeling
+  </summary>
+  <hr>
+  Details
+  <hr>
 </details>
 
 <details>
-<summary> :strawberry: <a href="https://pychemauth.readthedocs.io/en/latest/index.html">Authenticating food labeling</a>
-claims with chemometric tools
-</summary>
-<br>
-Details
+  <summary> :strawberry: <a href="https://pychemauth.readthedocs.io/en/latest/index.html">Authenticating food labeling</a>
+  claims with chemometric tools
+  </summary>
+  <hr>
+  Details
+  <hr>
 </details>
 
 <details>
-<summary> :bird: Analyzing <a href="https://pubs.acs.org/doi/full/10.1021/acs.est.2c01894">trends in biorepositories</a> using explainable machine learning
-</summary>
-<br>
-Details
+  <summary> :bird: Analyzing <a href="https://pubs.acs.org/doi/full/10.1021/acs.est.2c01894">trends in biorepositories</a> using explainable machine learning
+  </summary>
+  <hr>
+  Details
+  <hr>
 </details>
 
 <details>
-<summary> :radioactive: <a href="https://dx.doi.org/10.1007/s10967-023-09024-x">Identifying materials</a> using nuclear spectroscopy methods
-</summary>
-<br>
-Details
+  <summary> :radioactive: <a href="https://dx.doi.org/10.1007/s10967-023-09024-x">Identifying materials</a> using nuclear spectroscopy methods
+  </summary>
+  <hr>
+  Details
+  <hr>
 </details>
 
 <details>
-<summary> :diamond_shape_with_a_dot_inside: Designing <a href="https://doi.org/10.1063/5.0106131">colloidal self-assembly</a>
-by tiling <a href="https://pubs.acs.org/doi/10.1021/acs.jctc.3c01284">Escher</a>-like patterns
-</summary>
-<br>
-Details
+  <summary> :diamond_shape_with_a_dot_inside: Designing <a href="https://doi.org/10.1063/5.0106131">colloidal self-assembly</a>
+  by tiling <a href="https://pubs.acs.org/doi/10.1021/acs.jctc.3c01284">Escher</a>-like patterns
+  </summary>
+  <hr>
+  Details
+  <hr>
 </details>
 
 <details>
-<summary> :speech_balloon: Extractive summarization of scientific data and documents with large language models
-</summary>
-<br>
-Details
+  <summary> :speech_balloon: Extractive summarization of scientific data and documents with large language models
+  </summary>
+  <hr>
+  Details
+  <hr>
 </details>
 
 :notebook_with_decorative_cover: Notes and HowTo are available as [Gists](https://gist.github.com/mahynski).
