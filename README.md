@@ -65,7 +65,6 @@ Details
 <summary> :speech_balloon: Extractive summarization of scientific data and documents with large language models
 </summary>
 <br>
-  <a href="https://huggingface.co/mahynski">&#129303;</a>
 Details
 </details>
 
@@ -117,7 +116,7 @@ Details
 
 | :thought_balloon: Cloud dev environment | :speech_balloon: LLM Tools | :microscope: Chemistry | :computer: Other | 
 | --------------------- | --------- | --------- | ----- | 
-| [Paperspace Gradient](https://console.paperspace.com/t9nl3c8mxy/projects) | <a href="https://platform.openai.com"><img src="https://github.com/mahynski/mahynski/blob/054dfcc77bf297a07b6e2820001ee22024722e44/img/powered-by-openai-badge-filled-on-dark.png" height=27 align="left" valign="center" /></a> | [DeepChem](https://deepchem.io) | &#129499; [Dracula Theme](https://draculatheme.com/) |
+| [Paperspace Gradient](https://console.paperspace.com/t9nl3c8mxy/projects) | <a href="https://platform.openai.com"><img src="https://github.com/mahynski/mahynski/blob/054dfcc77bf297a07b6e2820001ee22024722e44/img/powered-by-openai-badge-filled-on-dark.png" height=27 align="left" valign="center" /></a> | [DeepChem](https://deepchem.io) | &#129499; [Dracula Theme](https://draculatheme.com/) | <a href="https://huggingface.co/mahynski">&#129303; HuggingFace</a>
 | | [Langfuse Dashboard](https://cloud.langfuse.com/) | [PySCF](http://pyscf.org) | <a href="https://streamlit.io"><img src="https://streamlit.io/images/brand/streamlit-logo-primary-colormark-lighttext.png" height=27 align="left" valign="center"/></a>  |
 | | &#129433; [LlamaIndex](https://docs.llamaindex.ai/en/stable/) | [DeepMD-kit](https://docs.deepmodeling.com/projects/deepmd/en/r2/) | [SemVer 2.0](https://semver.org/) |
 | | <img src="https://ollama.com/public/assets/c889cc0d-cb83-4c46-a98e-0d0e273151b9/42f6b28d-9117-48cd-ac0d-44baaf5c178e.png" height=23 align="left" valign="center" />[Ollama](https://ollama.com/) | [RDKit](https://www.rdkit.org/) | [GitFlow](https://jeffkreeftmeijer.com/git-flow/) |
