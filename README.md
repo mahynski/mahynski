@@ -38,13 +38,21 @@ Broad research areas include:
   </summary>
   <hr>
   <h3>tl;dr</h3>
-  The design of next-generation functional materials, central to numerous modern technologies, relies heavily on accurate thermophysical property models of chemical mixtures. Molecular-level models are required to understand their behavior and basic physics. Developing these models is computationally expensive so coarse-grained (simplified) forcefields, and predictive models with a high degree of transferrability beyond their training data, are required.  <a href="https://gist.github.com/mahynski/2533b0d5f39348e73d09b0a2bcfa33e8">"Thermodynanic extrapolation"</a> is a method I developed at NIST to extract orders of magnitude more data and predictive capabilities from existing molecular simulations; it has since been improved and advanced by <a href="https://github.com/usnistgov/thermoextrap">others</a>.  See <a href="https://doi.org/10.18434/mds2-2288">NIST Accolade</a> for details.
+  The design of next-generation functional materials, central to numerous modern technologies, relies heavily on accurate thermophysical property models of chemical mixtures. Molecular-level models are required to understand their behavior and basic physics. Developing these models is computationally expensive so coarse-grained (simplified) forcefields, and predictive models with a high degree of transferrability beyond their training data, are required.  <a href="https://gist.github.com/mahynski/2533b0d5f39348e73d09b0a2bcfa33e8">"Thermodynamic extrapolation"</a> is a method I developed at NIST to extract orders of magnitude more data and predictive capabilities from existing molecular simulations; it has since been improved and advanced by <a href="https://github.com/usnistgov/thermoextrap">others</a>.  See <a href="https://doi.org/10.18434/mds2-2288">NIST Accolade</a> for details.
   
   <h3>Products</h3>
   <ul>
     <li>Modern implementation of thermodynamic extrapolation tools @NIST can be found here: <a href="https://github.com/usnistgov/thermoextrap">thermoextrap</a></li>
     <li>This is also implemented in <a href="https://github.com/usnistgov/feasst">FEASST</a>, an open-source Monte Carlo simulation package</li>
     <li>Harmonizing Statistical Associating Fluid Theory (SAFT) with molecular simulations (coming soon!)</li>
+  </ul>
+
+  <h3>Selected Publications</h3>
+  <ul>
+    <li><a href="http://dx.doi.org/10.1063/1.4975331">"Predicting low-temperature free energy landscapes with flat-histogram monte carlo methods,"</a> N. A. Mahynski, M. A. Blanco, J. R. Errington, V. K. Shen, J. Chem. Phys. <b>146</b>, 074101 (2017).</li>
+    <li><a href="https://doi.org/10.1063/1.5026493">"Predicting structural properties of fluids by thermodynamic extrapolation,"</a> N. A. Mahynski, S. Jiao, H. W. Hatch, M. A. Blanco, V. K. Shen, J. Chem. Phys. <b>148</b>, 194105 (2018).</li>
+    <li><a href="https://doi.org/10.1021/acs.jctc.8b00534">"Flat-histogram monte carlo as an efficient tool to evaluate adsorption processes involving rigid and deformable molecules,"</a> M. Witman, N. A. Mahynski, B. Smit, J. Chem.  Theory Comput. <b>14</b>, 6149–6158 (2018).</li>
+    <li><a href="https://doi.org/10.1080/08927022.2020.1747617">"Flat-histogram extrapolation as a useful tool in the age of big data,"</a> N. A. Mahynski, H. W. Hatch, M. Witman, D. A. Sheen, J. R. Errington, V. K. Shen, Molecular Simulation 1–13 (2020).</li>
   </ul>
   <hr>
 </details>
