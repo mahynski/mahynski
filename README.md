@@ -36,7 +36,7 @@ Broad research areas include:
   <summary> :droplet: Predicting fluid phase thermodynamic properties with deep learning and coarse-grained modeling
   </summary>
   <hr>
-  Details
+  Details - thermoextrap @NIST
   <hr>
 </details>
 
@@ -45,7 +45,12 @@ Broad research areas include:
   claims with chemometric tools
   </summary>
   <hr>
-  Details
+  Details - OCC
+
+  <h3>Publications</h3>
+  <ul>
+    <li>Slovenian Case Study (coming soon!)</li>
+  </ul>
   <hr>
 </details>
 
@@ -54,6 +59,13 @@ Broad research areas include:
   </summary>
   <hr>
   Details
+
+  <h3>Publications</h3>
+  <ul>
+    <li>Seabirds and repo</li>
+    <li>Oysters (coming soon!)</li>
+    <li>Atlantic Salmon (coming soon!)</li>
+  </ul>
   <hr>
 </details>
 
@@ -61,7 +73,13 @@ Broad research areas include:
   <summary> :radioactive: <a href="https://dx.doi.org/10.1007/s10967-023-09024-x">Identifying materials</a> using nuclear spectroscopy methods
   </summary>
   <hr>
-  Details
+  Details - OCC
+
+  <h3>Publications</h3>
+  <ul>
+    <li>Chemometric models and repo</li>
+    <li>Deep learning (CNN) models and repo</li>
+  </ul>
   <hr>
 </details>
 
@@ -79,6 +97,11 @@ Broad research areas include:
   </summary>
   <hr>
   Details
+
+  <h3>Products Developed</h3>
+  <ul>
+    <li>Retrieval-Augmented Generation Document Summary Demo</li>
+  </ul>
   <hr>
 </details>
 
