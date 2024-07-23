@@ -18,7 +18,7 @@ Broad research areas include:
 ![](http://ForTheBadge.com/images/badges/built-with-science.svg)
 
 <details>
-  <summary> :atom: Developing tools for advanced trace element and <a href="https://www.nist.gov/programs-projects/isotope-metrology">stable isotope metrology</a>
+  <summary> :atom: Developing tools for advanced <a href="https://www.nist.gov/programs-projects/isotope-metrology">stable isotope</a> and trace element metrology
   </summary>
   <hr>
   <h3>tl;dr</h3> 
