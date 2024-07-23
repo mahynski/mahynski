@@ -19,10 +19,10 @@ Some recent projects include:
 * :atom: Developing tools for advanced [isotope metrology](https://www.nist.gov/programs-projects/isotope-metrology)
 
 <details>
-<summary> :atom: Developing tools for advanced [isotope metrology](https://www.nist.gov/programs-projects/isotope-metrology)
+<summary> :atom: Developing tools for advanced <a href="https://www.nist.gov/programs-projects/isotope-metrology">isotope metrology</a>
 </summary>
 <br>
-This is how you dropdown.
+Details
 </details>
 
 * :droplet: Predicting fluid phase thermodynamic properties with deep learning and coarse-grained modeling
