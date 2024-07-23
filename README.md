@@ -18,7 +18,7 @@ Broad research areas include:
 ![](http://ForTheBadge.com/images/badges/built-with-science.svg)
 
 <details>
-  <summary> :atom: Developing tools for advanced <a href="https://www.nist.gov/programs-projects/isotope-metrology">isotope metrology</a>
+  <summary> :atom: Developing tools for advanced trace element and <a href="https://www.nist.gov/programs-projects/isotope-metrology">stable isotope metrology</a>
   </summary>
   <hr>
   <h3>tl;dr</h3> 
@@ -28,6 +28,7 @@ Broad research areas include:
   <ul>
     <li><a href="https://pychemauth.readthedocs.io/en/latest/index.html">PyChemAuth</a></li>
     <li>A <a href="https://github.com/mahynski/chemometric-carpentry">short course</a> in chemometric carpentry to systematically build these tools</li>
+    <li><a href="https://chemometric-carpentry-periodic-table.streamlit.app/">Trace Element Correlation Explorer Demo</a></li>
     <li>SITE database @NIST (coming soon)</li>
   </ul>
   <hr>
@@ -62,11 +63,12 @@ Broad research areas include:
   claims with chemometric tools
   </summary>
   <hr>
-  Details - OCC
+  <h3>tl;dr</h3>
+  Food fraud refers to the deliberate substitution, addition, tampering, or misrepresentation of food with the express purpose of economic gain for the seller. This has been estimated to cost the global food industry more than $10 billion per year, although expert estimates from the US FDA put the cost as high as $40 billion per year, impacting 10% of all commercially sold food, creating a risk to public health and erosion of trust.  Accurate measurements and predictive models of food provenance are required to combat this. While there are many conventional chemometric tools designed for this task, the recent resurgence of interest in machine learning algorithms, which have achieved previously unparalleled accuracy on many predictive tasks, invites the question of whether similar gains can be made in this arena.  Here we build and compare state-of-the-art models for food authentication to determine the impact that AI/ML algorithms can have on field which is typically plagued by small amounts of reliable data, and require a high degree of explainability to be legally implemented.
 
   <h3>Publications</h3>
   <ul>
-    <li>Slovenian Case Study (coming soon!)</li>
+    <li><a href="">"Comparing Machine Learning Models to Chemometric Ones to Detect Food Fraud: A Case Study in Slovenian Fruits and Vegetables"</a> (coming soon!). Also see associated <a href="https://github.com/mahynski/slovenian-authentication">GitHub repo</a>.</li>
   </ul>
   <hr>
 </details>
