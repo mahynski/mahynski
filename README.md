@@ -38,10 +38,34 @@ claims with chemometric tools
 Details
 </details>
 
-* :bird: Analyzing [trends in biorepositories](https://pubs.acs.org/doi/full/10.1021/acs.est.2c01894) using explainable machine learning
-* :radioactive: [Identifying materials](https://dx.doi.org/10.1007/s10967-023-09024-x) using nuclear spectroscopy methods
-* :diamond_shape_with_a_dot_inside: Designing [colloidal self-assembly](https://doi.org/10.1063/5.0106131) by tiling [Escher](https://pubs.acs.org/doi/10.1021/acs.jctc.3c01284)-like patterns
-* :speech_balloon: Extractive summarization of scientific data and documents with large language models
+<details>
+<summary> :bird: Analyzing <a href="https://pubs.acs.org/doi/full/10.1021/acs.est.2c01894">trends in biorepositories</a> using explainable machine learning
+</summary>
+<br>
+Details
+</details>
+
+<details>
+<summary> :radioactive: <a href="https://dx.doi.org/10.1007/s10967-023-09024-x">Identifying materials</a> using nuclear spectroscopy methods
+</summary>
+<br>
+Details
+</details>
+
+<details>
+<summary> :diamond_shape_with_a_dot_inside: Designing <a href="https://doi.org/10.1063/5.0106131">colloidal self-assembly</a>
+by tiling <a href="https://pubs.acs.org/doi/10.1021/acs.jctc.3c01284">Escher</a>-like patterns
+</summary>
+<br>
+Details
+</details>
+
+<details>
+<summary> :speech_balloon: Extractive summarization of scientific data and documents with large language models
+</summary>
+<br>
+Details
+</details>
 
 :notebook_with_decorative_cover: Notes and HowTo are available as [Gists](https://gist.github.com/mahynski).
 
