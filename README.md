@@ -1,5 +1,4 @@
 ![image](https://github.com/mahynski/mahynski/assets/23516749/6db3de5e-8956-478a-8f80-9a7c8e93bc17)
-&#129303
 
 I am an engineer :gear: who specializes in designing, developing, and deploying computational tools to solve scientific problems alongside subject matter experts in a wide range of disciplines. I use AI/ML, molecular simulations, and other advanced modeling tools to make data-driven discoveries in fields like material science, nuclear chemistry, food science, and biology. <!--I also work on designing self-assembling functional materials using tools from art and architecture in novel ways to program colloidal crystal assembly.--> I have a PhD in Chemical Engineering with a concentration in computational thermodynamics and a certificate in Computational and Information Science. 
 I've worked in the field of chemometrics for most of my career. You can read more about ongoing research on [ResearchGate](https://www.researchgate.net/profile/Nathan-Mahynski).
@@ -106,6 +105,8 @@ Details
 [![Inkscape](https://img.shields.io/badge/Inkscape-e0e0e0?style=for-the-badge&logo=inkscape&logoColor=080A13)](https://inkscape.org/)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nathanmahynski/)
 [![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)](https://slack.com/)
+
+&#129303;
 
 <!--
 [![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=ResearchGate&logoColor=white)](https://www.researchgate.net/profile/Nathan-Mahynski)
