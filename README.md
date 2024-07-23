@@ -27,6 +27,7 @@ Broad research areas include:
   <h3>Products Developed</h3>
   <ul>
     <li><a href="https://pychemauth.readthedocs.io/en/latest/index.html">PyChemAuth</a></li>
+    <li>A <a href="https://github.com/mahynski/chemometric-carpentry">short course</a> in chemometric carpentry to systematically build these tools</li>
     <li>SITE database @NIST (coming soon)</li>
   </ul>
   <hr>
