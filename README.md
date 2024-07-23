@@ -17,6 +17,11 @@ Broad research areas include:
 
 Some recent projects include: 
 * :atom: Developing tools for advanced [isotope metrology](https://www.nist.gov/programs-projects/isotope-metrology)
+<details>
+<summary>How do I dropdown?</summary>
+<br>
+This is how you dropdown.
+</details>
 * :droplet: Predicting fluid phase thermodynamic properties with deep learning and coarse-grained modeling
 * :strawberry: [Authenticating food labeling](https://pychemauth.readthedocs.io/en/latest/index.html) claims with chemometric tools 
 * :bird: Analyzing [trends in biorepositories](https://pubs.acs.org/doi/full/10.1021/acs.est.2c01894) using explainable machine learning
