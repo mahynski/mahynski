@@ -15,7 +15,8 @@ Broad research areas include:
 
 <!-- <img src="https://private-user-images.githubusercontent.com/74038190/240815616-7b282ec6-fcc3-4600-90a7-2c3140549f58.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTMwMTk2NjksIm5iZiI6MTcxMzAxOTM2OSwicGF0aCI6Ii83NDAzODE5MC8yNDA4MTU2MTYtN2IyODJlYzYtZmNjMy00NjAwLTkwYTctMmMzMTQwNTQ5ZjU4LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA0MTMlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNDEzVDE0NDI0OVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTIxZjI1NWQ4MDU5NmUxMmJjMTAwNWU3MjVmN2JjODIyNzg3ZDU0YzEyN2IxZmUzMjRjNjY2YmQ4MDkxYTNkZmMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.aPT_HV23B9YcMogkQg6yn-R0c1HA907eyV-1cs8YBn4" height=100 /> <img src="https://user-images.githubusercontent.com/74038190/221352987-68da234d-4d62-4e9d-9d7f-098dc657c2dc.gif" height=100 /> -->
 
-Some recent projects ![](http://ForTheBadge.com/images/badges/built-with-science.svg) include: 
+![](http://ForTheBadge.com/images/badges/built-with-science.svg)
+
 <details>
 <summary> :atom: Developing tools for advanced <a href="https://www.nist.gov/programs-projects/isotope-metrology">isotope metrology</a>
 </summary>
