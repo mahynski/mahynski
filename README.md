@@ -152,7 +152,7 @@ Broad research areas include:
 [![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)](https://jupyter.org/)
 [![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/stable/index.html)
 [![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)](https://keras.io/)
-<a href=""><img src="https://huggingface.co/datasets/huggingface/badges/resolve/main/powered-by-huggingface-dark.svg" alt="HuggingFace" height=30 /></a>
+<a href="https://huggingface.co/mahynski"><img src="https://huggingface.co/datasets/huggingface/badges/resolve/main/powered-by-huggingface-dark.svg" alt="HuggingFace" height=30 /></a>
 [![WandB](https://img.shields.io/badge/Weights_&_Biases-FFBE00?style=for-the-badge&logo=WeightsAndBiases&logoColor=white)](https://wandb.ai/nathan-mahynski)
 [![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org/)
 [![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)](https://scipy.org/)
