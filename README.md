@@ -46,6 +46,7 @@ Broad research areas include:
     <li>Modern implementation of thermodynamic extrapolation tools @NIST can be found here: <a href="https://github.com/usnistgov/thermoextrap">thermoextrap</a></li>
     <li>This is also implemented in <a href="https://github.com/usnistgov/feasst">FEASST</a>, an open-source Monte Carlo simulation package</li>
     <li>Harmonizing Statistical Associating Fluid Theory (SAFT) with molecular simulations (coming soon!)</li>
+    <li><a href="http://fluidproperties.org/">Industrial Fluid Properties Simulation Challenge</a></li>
   </ul>
 
   <h3>Selected Publications</h3>
