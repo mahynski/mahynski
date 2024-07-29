@@ -190,8 +190,9 @@ Broad research areas include:
 | <img src="https://ollama.com/public/assets/c889cc0d-cb83-4c46-a98e-0d0e273151b9/42f6b28d-9117-48cd-ac0d-44baaf5c178e.png" height=23 align="left" valign="center" />[Ollama](https://ollama.com/) | [RDKit](https://www.rdkit.org/) | |
 -->
 
-
+<!--
 [![mahynski's github stats](https://github-readme-stats.vercel.app/api?username=mahynski&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/mahynski)
+-->
 
 <!-- <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" /> -->
 
