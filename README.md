@@ -156,6 +156,7 @@ Broad research areas include:
 <a href="https://huggingface.co/mahynski"><img src="https://huggingface.co/datasets/huggingface/badges/resolve/main/powered-by-huggingface-dark.svg" alt="HuggingFace" height=30 /></a>
 [![WandB](https://img.shields.io/badge/Weights_&_Biases-FFBE00?style=for-the-badge&logo=WeightsAndBiases&logoColor=white)](https://wandb.ai/nathan-mahynski)
 [![OpenAI](https://img.shields.io/badge/OpenAI-ffffff?logo=openai&style=for-the-badge&color=ffffff&logoColor=412991)](https://platform.openai.com/apps)
+[![LlamaIndex](https://img.shields.io/badge/LlamaIndex-ffffff?style=for-the-badge&color=000000)](https://docs.llamaindex.ai/en/stable/)
 [![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org/)
 [![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)](https://scipy.org/)
 [![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
@@ -182,7 +183,7 @@ Broad research areas include:
 | --------- | --------- | ----- | 
 | | [DeepChem](https://deepchem.io) | &#129499; [Dracula Theme](https://draculatheme.com/) |
 | [Langfuse Dashboard](https://cloud.langfuse.com/) | [PySCF](http://pyscf.org) | |
-| &#129433; [LlamaIndex](https://docs.llamaindex.ai/en/stable/) | [DeepMD-kit](https://docs.deepmodeling.com/projects/deepmd/en/r2/) | [SemVer 2.0](https://semver.org/) |
+| | [DeepMD-kit](https://docs.deepmodeling.com/projects/deepmd/en/r2/) | [SemVer 2.0](https://semver.org/) |
 | <img src="https://ollama.com/public/assets/c889cc0d-cb83-4c46-a98e-0d0e273151b9/42f6b28d-9117-48cd-ac0d-44baaf5c178e.png" height=23 align="left" valign="center" />[Ollama](https://ollama.com/) | [RDKit](https://www.rdkit.org/) | [GitFlow](https://jeffkreeftmeijer.com/git-flow/) |
 
 <!--
