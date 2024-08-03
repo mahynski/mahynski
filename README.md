@@ -133,8 +133,16 @@ Broad research areas include:
   </summary>
   <hr>
   <h3>tl;dr</h3>
-  Natural language processing (NLP) tools have seen incredible advances in recent years.  Modern AI tools enable text extraction, document summarization, and corpus querying using natural language that provides a new avenue to interact with data.  Retrieval augmented generation (RAG) is a particularly useful tool for interacting with data which has privacy concerns associated with it.  RAG systems enable one to parse, query and have a "conversation" with these documents enabling one to retrieve information, create summaries and extract data.
-  
+  Natural language processing (NLP) tools have seen incredible advances in recent years.  Modern AI tools enable text extraction, document summarization, and corpus querying using natural language that provides a new avenue to interact with data.  <a href="https://blogs.nvidia.com/blog/what-is-retrieval-augmented-generation/">Retrieval augmented generation (RAG)</a> is a particularly useful tool for interacting with data that has privacy concerns associated with it.  RAG systems enable one to parse, query and have a "conversation" with these documents enabling one to retrieve information, create summaries and extract data. RAGs are:
+
+<ul>
+  <li>Based on specific document(s)</li>
+  <li>Can cite their sources, making them more trustworthy</li>
+  <li>Do not require retraining or fine-tuning of an underlying large language model</li>
+</ul>
+
+With the right <a href="https://arxiv.org/pdf/2309.03409">prompt optimization</a> and <a href="https://maartengr.github.io/BERTopic/index.html">topic modeling</a> their performance can be increased even further for domain-specific applications.
+
   <h3>Products Developed</h3>
   <ul>
     <li>Retrieval-Augmented Generation Document Summary Demo</li>
