@@ -22,7 +22,7 @@ Broad research areas include:
   <h3>tl;dr</h3> 
     Stable isotope ratios of light elements (e.g., H, C, O, N, S) and trace elemental (SITE) composition profiles are often the preferred choice of features used to model determining geographic origin of many consumer products including food. They are correlated with biogeochemical fractionation processes associated with local climate, geology, and pedology resulting in different transfer rates from natural sources (e.g., water, soil, atmosphere) to plant or animal tissues. Accurate measurements and predictive models of provenance are required to validate origin and other characteristics (organic vs. conventional farming practices) of consumer products to secure supply chains.
   
-  <h3>Products Developed</h3>
+  <h3>Products</h3>
   <ul>
     <li><a href="https://pychemauth.readthedocs.io/en/latest/index.html">PyChemAuth</a></li>
     <li>A <a href="https://github.com/mahynski/chemometric-carpentry">short course</a> in chemometric carpentry to systematically build these tools</li>
