@@ -108,7 +108,23 @@ Broad research areas include:
   by tiling <a href="https://pubs.acs.org/doi/10.1021/acs.jctc.3c01284">Escher</a>-like patterns
   </summary>
   <hr>
-  Details
+  <h3>tl;dr</h3>
+  <a href="https://en.wikipedia.org/wiki/Colloid">Colloidal films</a> play a central role in technologies ranging from microelectronics to pharmaceutical delivery systems. The two-dimensional (2D) pattern of the film and its void fraction control material properties like catalytic activity, mass transfer resistance, optical properties, and hydrophobicity. Scalable production of these films relies on their <a href="https://en.wikipedia.org/wiki/Self-assembly_of_nanoparticles">self-assembly</a>, rather than directed assembly, to make them economical and practical. Engineering colloidal self-assembly to achieve specific designs often involves tuning the shape of a colloid and creating enthalpically interacting "patches" on its surface; however, the precise connection between these factors and the final self-assembled structure is still an active area of research. We developed an approach, based on a technique known as "Escherization," to design colloids in a way that enables <em>a priori</em> control over the final structure's porosity and symmetry simultaneously. This is inspired by the art and mathematics behind the Dutch graphic artist <a href="https://mcescher.com/">M. C. Escher</a>. Our techniques can also be used to enumerate different crystal structures and design "structure directing agents" to create arbitrary 2D patterns.
+  
+  <h3>Publications</h3>
+  <ul>
+    <li><a href="https://doi.org/10.1021/acs.jctc.3c01284">"Programming interfacial porosity and symmetry with Escherized colloids,"</a> N. A. Mahynski, V. K. Shen, J. Chem. Theory Comp. <b>20</b>, 2209–2218 (2024). Also see the associated <a href="https://github.com/usnistgov/escherized-colloids">GitHub repo</a>.</li>
+    <li><a href="https://doi.org/10.1063/5.0106131">"Derivable genetic programming for two-dimensional colloidal materials,"</a> N. A. Mahynski, B. Han, D. Markiewitz, J. Chem. Phys. <b>157</b>, 114112 (2022).</li>
+    <li><a href="https://doi.org/10.1039/d1sm00875g">"Symmetry-derived structure directing agents for two-dimensional crystals of arbitrary colloids,"</a> N. A. Mahynski, V. K. Shen, Soft Matter <b>17</b>, 7853-7866 (2021).</li>
+    <li><a href="https://doi.org/10.1039/c9sm02426c">"Grand canonical inverse design of multicomponent colloidal crystals,"</a> N. A. Mahynski, R. Mao, E. Pretti, V. K. Shen, J. Mittal, Soft Matter <b>16</b>, 3187 (2020).</li>
+    <li><a href="https://doi.org/10.1021/acs.jpca.0c00846">"Symmetry-based crystal structure enumeration in two dimensions,"</a> E. Pretti, V. K. Shen, J. Mittal, N. A. Mahynski, J. Phys. Chem. A. <b>124</b>, 3276-3285 (2020).</li>
+    <li><a href="https://doi.org/10.1038/s41467-019-10031-4">"Using symmetry to elucidate the importance of stoichiometry in colloidal crystal assembly,"</a> N. A. Mahynski, E. Pretti, V. K. Shen, J. Mittal, Nat. Commun. <b>10</b>, 2028 (2019).</li>
+  </ul>
+
+  <h3>More Information</h3>
+  <ul>
+    <li>For an interactive experience, check out <a href="https://isohedral.ca/">Craig Kaplan's</a> online <a href="https://isohedral.ca/software/tactile/">demo</a> of the tiles, and modifications thereof, this theory is built on.</li>
+  </ul>
   <hr>
 </details>
 
