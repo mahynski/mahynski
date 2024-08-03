@@ -132,8 +132,9 @@ Broad research areas include:
   <summary> :speech_balloon: Extractive summarization of scientific data and documents with large language models
   </summary>
   <hr>
-  Details
-
+  <h3>tl;dr</h3>
+  Natural language processing (NLP) tools have seen incredible advances in recent years.  Modern AI tools enable text extraction, document summarization, and corpus querying using natural language that provides a new avenue to interact with data.  Retrieval augmented generation (RAG) is a particularly useful tool for interacting with data which has privacy concerns associated with it.  RAG systems enable one to parse, query and have a "conversation" with these documents enabling one to retrieve information, create summaries and extract data.
+  
   <h3>Products Developed</h3>
   <ul>
     <li>Retrieval-Augmented Generation Document Summary Demo</li>
