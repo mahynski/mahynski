@@ -143,9 +143,9 @@ Broad research areas include:
 
 With the right <a href="https://arxiv.org/pdf/2309.03409">prompt optimization</a> and <a href="https://maartengr.github.io/BERTopic/index.html">topic modeling</a> their performance can be increased even further for domain-specific applications.
 
-  <h3>Products Developed</h3>
+  <h3>Products</h3>
   <ul>
-    <li>Retrieval-Augmented Generation Document Summary Demo</li>
+    <li>Retrieval-Augmented Generation Demo</li>
   </ul>
   <hr>
 </details>
