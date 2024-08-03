@@ -27,7 +27,7 @@ Broad research areas include:
     <li><a href="https://pychemauth.readthedocs.io/en/latest/index.html">PyChemAuth</a></li>
     <li>A <a href="https://github.com/mahynski/chemometric-carpentry">short course</a> in chemometric carpentry to systematically build these tools</li>
     <li><a href="https://chemometric-carpentry-periodic-table.streamlit.app/">Trace Element Correlation Explorer Demo</a></li>
-    <li>SITE database @NIST (coming soon)</li>
+    <li>SITE database @NIST (coming soon!)</li>
   </ul>
   <hr>
 </details>
@@ -67,7 +67,7 @@ Broad research areas include:
 
   <h3>Publications</h3>
   <ul>
-    <li><a href="">"Comparing Machine Learning Models to Chemometric Ones to Detect Food Fraud: A Case Study in Slovenian Fruits and Vegetables"</a> (coming soon!). Also see associated <a href="https://github.com/mahynski/slovenian-authentication">GitHub repo</a>.</li>
+    <li><a href="">"Comparing Machine Learning Models to Chemometric Ones to Detect Food Fraud: A Case Study in Slovenian Fruits and Vegetables"</a> (coming soon!). Also see the associated <a href="https://github.com/mahynski/slovenian-authentication">GitHub repo</a>.</li>
   </ul>
   <hr>
 </details>
@@ -76,13 +76,14 @@ Broad research areas include:
   <summary> :bird: Analyzing <a href="https://pubs.acs.org/doi/full/10.1021/acs.est.2c01894">trends in biorepositories</a> using explainable machine learning
   </summary>
   <hr>
-  Details
-
+  <h3>tl;dr</h3>
+  Environmental monitoring efforts often rely on the bioaccumulation of persistent, often anthropogenic, chemical compounds in organisms to create a spatiotemporal record of ecosystems. Samples from various species are collected and cryogenically stored in <a href="https://www.nist.gov/programs-projects/nist-biorepository">biobanks</a> to create a historical record. Compounds generally accumulate in upper trophic-level organisms due to biomagnification, reaching levels that can be detected with modern chemical instruments. However, finding proper indicators of global trends is complicated owing to the complex nature and size of many ecosystems of interest; e.g., the pacific ocean. Intercorrelation between compounds often results from the origin, uptake, and transport of these contaminants throughout the ecosystem and may be affected by organism-specific processes such as biotransformation.  We developed explainable machine-learning models which perform nearly as well as state-of-the-art "black boxes" to make predictions about the environment and the organisms within it. The benefits of interpretability usually outweigh the improved accuracy of more complex models, since they help reveal rational, explainable trends that engender trust in the models and are considered more reliable. 
+  
   <h3>Publications</h3>
   <ul>
-    <li>Seabirds and repo</li>
-    <li>Oysters (coming soon!)</li>
-    <li>Atlantic Salmon (coming soon!)</li>
+    <li><a href="https://doi.org/10.1021/acs.est.2c01894">"Building Interpretable Machine Learning Models to Identify Chemometric Trends in Seabirds of the North Pacific Ocean,"</a> N. A. Mahynski, J. M. Ragland, S. S. Schuur, V. K. Shen, Environ. Sci. Technol. <b>56</b>, 14361-14374 (2022). Also see the associated <a href="https://github.com/mahynski/stamp-dataset-1999-2010">GitHub repo</a>.</li>
+    <li>Predicting the Provenance of American Oysters (coming soon!)</li>
+    <li>Determining Fertility Biomarkers of Atlantic Salmon (coming soon!)</li>
   </ul>
   <hr>
 </details>
@@ -96,7 +97,7 @@ Broad research areas include:
   
   <h3>Publications</h3>
   <ul>
-    <li><a href="https://link.springer.com/article/10.1007/s10967-023-09024-x">"Classification and authentication of materials using prompt gamma ray activation analysis,"</a> N. A. Mahynski, J. I. Monroe, D. A. Sheen, R. L. Paul, H.-H. Chen-Mayer, V. K. Shen, J. of Radioanal. and Nucl. Chem. <b>332</b>, 3259–3271 (2023). Also see associated <a href="https://github.com/mahynski/pgaa-material-authentication">GitHub repo</a>.</li>
+    <li><a href="https://link.springer.com/article/10.1007/s10967-023-09024-x">"Classification and authentication of materials using prompt gamma ray activation analysis,"</a> N. A. Mahynski, J. I. Monroe, D. A. Sheen, R. L. Paul, H.-H. Chen-Mayer, V. K. Shen, J. of Radioanal. and Nucl. Chem. <b>332</b>, 3259–3271 (2023). Also see the associated <a href="https://github.com/mahynski/pgaa-material-authentication">GitHub repo</a>.</li>
     <li>Authenticating Materials with Imaged PGAA Spectra (coming soon!). Also see associated <a href="">GitHub repo</a>.</li>
   </ul>
   <hr>
