@@ -69,6 +69,7 @@ Broad research areas include:
   <ul>
     <li><a href="">"Comparing Machine Learning Models to Chemometric Ones to Detect Food Fraud: A Case Study in Slovenian Fruits and Vegetables"</a> (coming soon!). Also see the associated <a href="https://github.com/mahynski/slovenian-authentication">GitHub repo</a>.</li>
     <li>Predicting the Provenance of American Oysters (coming soon!)</li>
+    <li>Chemometric differentiating of Ginger species (coming soon!)</li>
     <li>Authenticating American Red Snapper (coming soon!)</li>
   </ul>
   <hr>
