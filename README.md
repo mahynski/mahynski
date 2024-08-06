@@ -68,6 +68,8 @@ Broad research areas include:
   <h3>Publications</h3>
   <ul>
     <li><a href="">"Comparing Machine Learning Models to Chemometric Ones to Detect Food Fraud: A Case Study in Slovenian Fruits and Vegetables"</a> (coming soon!). Also see the associated <a href="https://github.com/mahynski/slovenian-authentication">GitHub repo</a>.</li>
+    <li>Predicting the Provenance of American Oysters (coming soon!)</li>
+    <li>Authenticating American Red Snapper (coming soon!)</li>
   </ul>
   <hr>
 </details>
@@ -82,7 +84,6 @@ Broad research areas include:
   <h3>Publications</h3>
   <ul>
     <li><a href="https://doi.org/10.1021/acs.est.2c01894">"Building Interpretable Machine Learning Models to Identify Chemometric Trends in Seabirds of the North Pacific Ocean,"</a> N. A. Mahynski, J. M. Ragland, S. S. Schuur, V. K. Shen, Environ. Sci. Technol. <b>56</b>, 14361-14374 (2022). Also see the associated <a href="https://github.com/mahynski/stamp-dataset-1999-2010">GitHub repo</a>.</li>
-    <li>Predicting the Provenance of American Oysters (coming soon!)</li>
     <li>Determining Fertility Biomarkers of Atlantic Salmon (coming soon!)</li>
   </ul>
   <hr>
