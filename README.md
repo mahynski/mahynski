@@ -147,7 +147,7 @@ With the right <a href="https://arxiv.org/pdf/2309.03409">prompt optimization</a
 
   <h3>Products</h3>
   <ul>
-    <li><a href="https://huggingface.co/spaces/mahynski/RAG-demo">Retrieval-Augmented Generation Demo</a></li>
+    <li><a href="https://huggingface.co/spaces/mahynski/RAG">Retrieval-Augmented Generation Demo</a></li>
   </ul>
   <hr>
 </details>
