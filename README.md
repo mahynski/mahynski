@@ -80,6 +80,7 @@ Broad research areas include:
   </summary>
   <hr>
   <h3>tl;dr</h3>
+  <img src="https://github.com/mahynski/mahynski/blob/4aa6d8833c51a5b758128e0b6f4cd80aef7f9f09/img/stamp.png" align="right" width=300 />
   Environmental monitoring efforts often rely on the bioaccumulation of persistent, often anthropogenic, chemical compounds in organisms to create a spatiotemporal record of ecosystems. Samples from various species are collected and cryogenically stored in <a href="https://www.nist.gov/programs-projects/nist-biorepository">biobanks</a> to create a historical record. Compounds generally accumulate in upper trophic-level organisms due to biomagnification, reaching levels that can be detected with modern chemical instruments. However, finding proper indicators of global trends is complicated owing to the complex nature and size of many ecosystems of interest; e.g., the pacific ocean. Intercorrelation between compounds often results from the origin, uptake, and transport of these contaminants throughout the ecosystem and may be affected by organism-specific processes such as biotransformation.  We developed explainable machine-learning models which perform nearly as well as state-of-the-art "black boxes" to make predictions about the environment and the organisms within it. The benefits of interpretability usually outweigh the improved accuracy of more complex models, since they help reveal rational, explainable trends that engender trust in the models and are considered more reliable. 
   
   <h3>Publications</h3>
