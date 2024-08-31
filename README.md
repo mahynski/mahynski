@@ -189,6 +189,7 @@ With the right <a href="https://arxiv.org/pdf/2309.03409">prompt optimization</a
 [![OpenAI](https://img.shields.io/badge/OpenAI-ffffff?logo=openai&style=for-the-badge&color=ffffff&logoColor=412991)](https://platform.openai.com/apps)
 [![LlamaIndex](https://img.shields.io/badge/LlamaIndex-ffffff?style=for-the-badge&color=000000)](https://docs.llamaindex.ai/en/stable/)
 [![Langfuse](https://img.shields.io/badge/Langfuse-ffffff?style=for-the-badge&color=ce0000)](https://us.cloud.langfuse.com/)
+[![NVIDIA-AI-Workbench](https://img.shields.io/badge/nvidia%20ai%20workbench-brightgreen?style=for-the-badge&link=https%3A%2F%2Fwww.nvidia.com%2Fen-us%2Fdeep-learning-ai%2Fsolutions%2Fdata-science%2Fworkbench%2F)](https://www.nvidia.com/en-us/deep-learning-ai/solutions/data-science/workbench/)
 [![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org/)
 [![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)](https://scipy.org/)
 [![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
