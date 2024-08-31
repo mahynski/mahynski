@@ -187,7 +187,8 @@ With the right <a href="https://arxiv.org/pdf/2309.03409">prompt optimization</a
 <a href="https://huggingface.co/mahynski"><img src="https://huggingface.co/datasets/huggingface/badges/resolve/main/powered-by-huggingface-dark.svg" alt="HuggingFace" height=30 /></a>
 [![WandB](https://img.shields.io/badge/Weights_&_Biases-FFBE00?style=for-the-badge&logo=WeightsAndBiases&logoColor=white)](https://wandb.ai/nathan-mahynski)
 [![OpenAI](https://img.shields.io/badge/OpenAI-ffffff?logo=openai&style=for-the-badge&color=ffffff&logoColor=412991)](https://platform.openai.com/apps)
-[![LlamaIndex](https://img.shields.io/badge/LlamaIndex-ffffff?style=for-the-badge&color=000000)](https://docs.llamaindex.ai/en/stable/)
+[![LlamaIndex](https://img.shields.io/badge/Llama%20Index-ffffff?style=for-the-badge&color=000000)](https://docs.llamaindex.ai/en/stable/)
+[![LlamaParse](https://img.shields.io/badge/llama%20parse-ffa5ea?style=for-the-badge)](https://cloud.llamaindex.ai/)
 [![Langfuse](https://img.shields.io/badge/Langfuse-ffffff?style=for-the-badge&color=ce0000)](https://us.cloud.langfuse.com/)
 [![NVIDIA-AI-Workbench](https://img.shields.io/badge/nvidia%20ai%20workbench-brightgreen?style=for-the-badge&link=https%3A%2F%2Fwww.nvidia.com%2Fen-us%2Fdeep-learning-ai%2Fsolutions%2Fdata-science%2Fworkbench%2F)](https://www.nvidia.com/en-us/deep-learning-ai/solutions/data-science/workbench/)
 [![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org/)
