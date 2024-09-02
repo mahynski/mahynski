@@ -167,10 +167,8 @@ With the right <a href="https://arxiv.org/pdf/2309.03409">prompt optimization</a
 
 :notebook_with_decorative_cover: Notes and HowTo are available as [Gists](https://gist.github.com/mahynski).
 
----
-
 ~~~bash
-$ cat ~/.profile | more
+$ cat /home/mahynski/.profile | more
 ~~~
 
 [![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)](https://www.mozilla.org/en-US/firefox/new/)
@@ -222,8 +220,6 @@ $ cat ~/.profile | more
 [![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=ResearchGate&logoColor=white)](https://www.researchgate.net/profile/Nathan-Mahynski)
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/)
 -->
-
----
 
 <!--
 ## :computer: Solution Stack
