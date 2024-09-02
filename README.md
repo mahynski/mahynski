@@ -69,7 +69,7 @@ Developing reproducible, transparent modeling pipelines and methods requires sta
 </details>
 
 <details>
-  <summary> :strawberry: <a href="https://pychemauth.readthedocs.io/en/latest/index.html">Authenticating food labeling</a>
+  <summary> :strawberry: <a href="https://www.nist.gov/mml/csd/primary-focus-areas/food">Authenticating food labeling</a>
   claims with chemometric tools
   </summary>
   <hr>
