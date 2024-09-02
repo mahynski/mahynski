@@ -43,7 +43,7 @@ Developing reproducible, transparent modeling pipelines and methods requires sta
 </details>
 
 <details>
-  <summary> :droplet: Predicting fluid phase thermodynamic properties with deep learning and coarse-grained modeling
+  <summary> :droplet: <a href="https://www.nist.gov/programs-projects/machine-learning-fluid-equations-state">Predicting fluid phase thermodynamic properties</a> with deep learning and coarse-grained modeling
   </summary>
   <hr>
   <h3>tl;dr</h3>
@@ -87,7 +87,7 @@ Developing reproducible, transparent modeling pipelines and methods requires sta
 </details>
 
 <details>
-  <summary> :bird: Analyzing <a href="https://pubs.acs.org/doi/full/10.1021/acs.est.2c01894">trends in biorepositories</a> using explainable machine learning
+  <summary> :bird: Analyzing <a href="https://www.nist.gov/programs-projects/classification-methods-nist-biorepository">trends in biorepositories</a> using explainable machine learning
   </summary>
   <hr>
   <h3>tl;dr</h3>
