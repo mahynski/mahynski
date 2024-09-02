@@ -18,6 +18,10 @@ Broad research areas include:
 
 <!-- <img src="https://private-user-images.githubusercontent.com/74038190/240815616-7b282ec6-fcc3-4600-90a7-2c3140549f58.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTMwMTk2NjksIm5iZiI6MTcxMzAxOTM2OSwicGF0aCI6Ii83NDAzODE5MC8yNDA4MTU2MTYtN2IyODJlYzYtZmNjMy00NjAwLTkwYTctMmMzMTQwNTQ5ZjU4LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA0MTMlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNDEzVDE0NDI0OVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTIxZjI1NWQ4MDU5NmUxMmJjMTAwNWU3MjVmN2JjODIyNzg3ZDU0YzEyN2IxZmUzMjRjNjY2YmQ4MDkxYTNkZmMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.aPT_HV23B9YcMogkQg6yn-R0c1HA907eyV-1cs8YBn4" height=100 /> <img src="https://user-images.githubusercontent.com/74038190/221352987-68da234d-4d62-4e9d-9d7f-098dc657c2dc.gif" height=100 /> -->
 
+~~~bash
+$ man -a mahynski
+~~~
+
 Developing reproducible, transparent modeling pipelines and methods requires standardized open-source tools. [PyChemAuth](http://pychemauth.readthedocs.io) is the main package I have developed to help chemometricians, cheminformatics professionals, and other researchers build end-to-end data science workflows from [exploratory data analysis](https://pychemauth.readthedocs.io/en/latest/jupyter/api/eda.html), to [model optimzation and comparison](https://pychemauth.readthedocs.io/en/latest/jupyter/api/comparing_pipelines.html), to [public distribution](https://pychemauth.readthedocs.io/en/latest/jupyter/api/sharing_models.html). Most data-driven projects below rely on this package. Check out the [course](https://pychemauth.readthedocs.io/en/latest/carpentry.html) and [API Examples](https://pychemauth.readthedocs.io/en/latest/examples.html) for more information.
 
 <details>
