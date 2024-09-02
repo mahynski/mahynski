@@ -1,5 +1,9 @@
 ![image](https://github.com/mahynski/mahynski/assets/23516749/6db3de5e-8956-478a-8f80-9a7c8e93bc17)
 
+~~~bash
+$ whoami
+~~~
+
 I am an engineer :gear: who specializes in designing, developing, and deploying computational tools to solve scientific problems alongside subject matter experts in a wide range of disciplines. I use data science, AI/ML, molecular simulations, and other advanced modeling tools to make data-driven discoveries in fields like material science, nuclear chemistry, food science, and biology. <!--I also work on designing self-assembling functional materials using tools from art and architecture in novel ways to program colloidal crystal assembly.--> I have a PhD in Chemical Engineering with a concentration in computational thermodynamics and a certificate in Computational and Information Science. You can read more about ongoing research on [ResearchGate](https://www.researchgate.net/profile/Nathan-Mahynski).
 
 Broad research areas include: 
