@@ -69,8 +69,8 @@ Developing reproducible, transparent modeling pipelines and methods requires sta
 </details>
 
 <details>
-  <summary> :strawberry: <a href="https://www.nist.gov/mml/csd/primary-focus-areas/food">Authenticating food labeling</a>
-  claims with chemometric tools
+  <summary> :strawberry: <a href="https://www.nist.gov/programs-projects/machine-learning-predict-food-provenance">Authenticating food labeling</a>
+  claims with machine learning and statistical modeling
   </summary>
   <hr>
   <h3>tl;dr</h3>
