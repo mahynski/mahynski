@@ -107,6 +107,7 @@ Developing reproducible, transparent modeling pipelines and methods requires sta
   </summary>
   <hr>
   <h3>tl;dr</h3>
+  <img src="https://github.com/mahynski/mahynski/blob/ef0630993ed07469ba9e036def766a44be22af99/img/cnn.png" align="right" width=500 />
   Each year <a href="https://scarbroughglobal.com/u-s-customs-exams-explained/">less than 5%</a> of the <a href="https://www.cbp.gov/border-security/ports-entry/cargo-security">nearly 25 million containers arriving at US borders</a> are selected for physical examination facilitating the import of fraudulently labelled, adulterated, and illegal substances. This fraud circumvents antidumping and countervailing duties which has cost the US government <a href="https://www.whistleblowerllc.com/what-we-do/financial-fraud/customs-fraud/">nearly $5 billion</a> over the past 20 years and industries much more.  Automated high-throughput, non-destructive general purpose scanners that can identify materials could meet this need.  <a href="https://www.nist.gov/laboratories/tools-instruments/prompt-gamma-ray-activation-analysis-pgaa">Prompt gamma-ray activation analysis (PGAA)</a> is  a nuclear spectroscopy technique which meets these criteria, and can provide a spectral fingerprint identifying the isotopic composition of a sample.  We developed various statistical models, and CNN-based deep learning ones, illustrating that many materials can be positively identified using these spectral signals under real-world, "open set" conditions.
   
   <h3>Publications</h3>
