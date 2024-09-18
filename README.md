@@ -74,7 +74,7 @@ Developing reproducible, transparent modeling pipelines and methods requires sta
   </summary>
   <hr>
   <h3>tl;dr</h3>
-  <img src="https://github.com/mahynski/mahynski/blob/73e842893f1c1a8a1b366849dd7aa4fbf1f74b1d/img/dial.png" align="right" width=400 />
+  <img src="https://github.com/mahynski/mahynski/blob/73e842893f1c1a8a1b366849dd7aa4fbf1f74b1d/img/dial.png" align="right" width=300 />
   Food fraud refers to the deliberate substitution, addition, tampering, or misrepresentation of food with the express purpose of economic gain for the seller. This has been estimated to cost the global food industry more than $10 billion per year, although expert estimates from the US FDA put the cost as high as $40 billion per year, impacting 10% of all commercially sold food, creating a risk to public health and erosion of trust.  Accurate measurements and predictive models of food provenance are required to combat this. While there are many conventional chemometric tools designed for this task, the recent resurgence of interest in machine learning algorithms, which have achieved previously unparalleled accuracy on many predictive tasks, invites the question of whether similar gains can be made in this arena.  Here we build and compare state-of-the-art models for food authentication to determine the impact that AI/ML algorithms can have on field which is typically plagued by small amounts of reliable data, and require a high degree of explainability to be legally implemented.
 
   <h3>Publications</h3>
