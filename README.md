@@ -79,6 +79,7 @@ Developing reproducible, transparent modeling pipelines and methods requires sta
 
   <h3>Publications</h3>
   <ul>
+    <li><a href="https://huggingface.co/collections/mahynski/food-authenticity-66fb5fa3ecfbd9538190f2f8">Collection of datasets and models on HuggingFace.</a></li>
     <li><a href="">"Comparing Machine Learning Models to Chemometric Ones to Detect Food Fraud: A Case Study in Slovenian Fruits and Vegetables"</a> (coming soon!). Also see the associated <a href="https://github.com/mahynski/slovenian-authentication">GitHub repo</a>.</li>
     <li>Predicting the provenance of American oysters (coming soon!)</li>
     <li>Chemometric differentiation of Ginger species (coming soon!)</li>
