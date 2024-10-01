@@ -114,7 +114,7 @@ Developing reproducible, transparent modeling pipelines and methods requires sta
   
   <h3>Publications</h3>
   <ul>
-    <li><a href="https://huggingface.co/collections/mahynski/pgaa-spectra-classification">Collection of datasets and models on HuggingFace.</a></li>
+    <li><a href="https://huggingface.co/collections/mahynski/pgaa-spectra-classification-66f7fcd65ea4244ba1b9559b">Collection of datasets and models on HuggingFace.</a></li>
     <li><a href="https://link.springer.com/article/10.1007/s10967-023-09024-x">"Classification and authentication of materials using prompt gamma ray activation analysis,"</a> N. A. Mahynski, J. I. Monroe, D. A. Sheen, R. L. Paul, H.-H. Chen-Mayer, V. K. Shen, J. of Radioanal. and Nucl. Chem. <b>332</b>, 3259–3271 (2023). Also see the associated <a href="https://github.com/mahynski/pgaa-material-authentication">GitHub repo</a>.</li>
     <li>Authenticating Materials with Imaged PGAA Spectra (coming soon!). Also see associated <a href="">GitHub repo</a>.</li>
   </ul>
