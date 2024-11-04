@@ -254,6 +254,6 @@ $ quickstart
 </a>
 
 <a href="https://colab.research.google.com/">
-<img src="https://images.app.goo.gl/187CDdsRTUjRj6Kj7" height="100" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Google_Colaboratory_SVG_Logo.svg/800px-Google_Colaboratory_SVG_Logo.svg.png" height="100" />
 </a>
 
