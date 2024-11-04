@@ -172,8 +172,6 @@ With the right <a href="https://arxiv.org/pdf/2309.03409">prompt optimization</a
 
 :notebook_with_decorative_cover: Notes and HowTo are available as [Gists](https://gist.github.com/mahynski).
 
-<img src="https://raw.githubusercontent.com/huggingface/autotrain-advanced/main/src/autotrain/app/static/logo.png" width="200" />
-
 ~~~bash
 $ cat /home/mahynski/.profile | more
 ~~~
@@ -246,3 +244,12 @@ $ cat /home/mahynski/.profile | more
 -->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mahynski&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+~~~bash
+$ quickstart
+~~~
+
+<a href="https://colab.research.google.com/github/huggingface/autotrain-advanced/blob/main/colabs/AutoTrain.ipynb#scrollTo=4inccxUXWPRs">
+<img src="https://raw.githubusercontent.com/huggingface/autotrain-advanced/main/src/autotrain/app/static/logo.png" width="200" />
+</a>
+
