@@ -172,6 +172,8 @@ With the right <a href="https://arxiv.org/pdf/2309.03409">prompt optimization</a
 
 :notebook_with_decorative_cover: Notes and HowTo are available as [Gists](https://gist.github.com/mahynski).
 
+<img src="https://raw.githubusercontent.com/huggingface/autotrain-advanced/main/src/autotrain/app/static/logo.png" width="200" />
+
 ~~~bash
 $ cat /home/mahynski/.profile | more
 ~~~
