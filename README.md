@@ -250,10 +250,10 @@ $ quickstart
 ~~~
 
 <a href="https://colab.research.google.com/github/huggingface/autotrain-advanced/blob/main/colabs/AutoTrain.ipynb#scrollTo=4inccxUXWPRs">
-<img src="https://raw.githubusercontent.com/huggingface/autotrain-advanced/main/src/autotrain/app/static/logo.png" height="100" />
+<img src="https://raw.githubusercontent.com/huggingface/autotrain-advanced/main/src/autotrain/app/static/logo.png" height="50" />
 </a>
 
 <a href="https://colab.research.google.com/">
-<img src="https://images.app.goo.gl/187CDdsRTUjRj6Kj7" height="100">
+<img src="https://images.app.goo.gl/187CDdsRTUjRj6Kj7" height="100" />
 </a>
 
