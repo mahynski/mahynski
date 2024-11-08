@@ -81,7 +81,6 @@ Developing reproducible, transparent modeling pipelines and methods requires sta
   <ul>
     <li><a href="https://huggingface.co/collections/mahynski/food-authenticity-66fb5fa3ecfbd9538190f2f8">Collection of datasets and models on HuggingFace.</a></li>
     <li><a href="">"Comparing Machine Learning Models to Chemometric Ones to Detect Food Fraud: A Case Study in Slovenian Fruits and Vegetables"</a> (coming soon!). Also see the associated <a href="https://github.com/mahynski/slovenian-authentication">GitHub repo</a>.</li>
-    <li>Predicting the provenance of American oysters (coming soon!)</li>
     <li>Chemometric differentiation of Ginger species (coming soon!)</li>
     <!-- <li>Authenticating American Red Snapper (coming soon!)</li> -->
   </ul>
@@ -100,7 +99,25 @@ Developing reproducible, transparent modeling pipelines and methods requires sta
   <ul>
     <li><a href="https://huggingface.co/collections/mahynski/biorepository-modeling-66fb5ae309158714ab059f82">Collection of datasets and models on HuggingFace.</a></li>
     <li><a href="https://doi.org/10.1021/acs.est.2c01894">"Building Interpretable Machine Learning Models to Identify Chemometric Trends in Seabirds of the North Pacific Ocean,"</a> N. A. Mahynski, J. M. Ragland, S. S. Schuur, V. K. Shen, Environ. Sci. Technol. <b>56</b>, 14361-14374 (2022). Also see the associated <a href="https://github.com/mahynski/stamp-dataset-1999-2010">GitHub repo</a>.</li>
-    <li>Determining Fertility Biomarkers of Atlantic Salmon (coming soon!)</li>
+    <li>Predicting the geographic provenance of American oysters (coming soon!)</li>
+    <li>Determining fertility biomarkers of Atlantic Salmon (coming soon!)</li>
+  </ul>
+  <hr>
+</details>
+
+<details>
+  <summary> 🦠 Biomarkers and -omics applications
+  </summary>
+  <hr>
+  <h3>tl;dr</h3>
+  Understanding complex biochemical systems requires advanced tools, many of which have been greatly improved by advancements in artifical intelligence.  Much of background in this area invovles predicting or interpreting spectral measurements, such as mass spectra or <a href="https://en.wikipedia.org/wiki/Heteronuclear_single_quantum_coherence_spectroscopy">HSQC NMR</a>.  The majority of this work in ongoing and will be made available here when it is complete!
+  
+  <h3>Publications</h3>
+  <ul>
+    <li>Identifying compounds in complex biochemical mixtures using HSQC NMR (coming soon!)</li>
+    <li>Determining fertility biomarkers of Atlantic Salmon (coming soon!)</li>
+    <li>Using generative AI to predict mass spectra of chemical reference compounds (coming soon!)</li>
+    <li>Check out <a href="https://github.com/usnistgov/dimspec">Database Infrastructure for Mass Spectrometry (DIMSpec)<a> and associated <a href="https://pages.nist.gov/dimspec/docs/intro-start.html">training resources</a></li>
   </ul>
   <hr>
 </details>
