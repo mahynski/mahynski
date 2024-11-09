@@ -115,7 +115,7 @@ Developing reproducible, transparent modeling pipelines and methods requires sta
   </summary>
   <hr>
   <h3>tl;dr</h3>
-  Understanding complex biochemical systems requires advanced tools, many of which have been greatly improved by advancements in artifical intelligence.  Much of background in this area invovles predicting or interpreting spectral measurements, such as mass spectra or <a href="https://en.wikipedia.org/wiki/Heteronuclear_single_quantum_coherence_spectroscopy">HSQC NMR</a>.  The majority of this work in ongoing and will be made available here when it is complete!
+  Understanding complex biochemical systems requires advanced tools, many of which have been greatly improved by advancements in artifical intelligence.  Much of my background in this area involves predicting or interpreting spectral measurements, such as mass spectra or <a href="https://en.wikipedia.org/wiki/Heteronuclear_single_quantum_coherence_spectroscopy">HSQC NMR</a>.  The majority of this work in ongoing and will be made available here when it is complete!
   
   <h3>Publications</h3>
   <ul>
