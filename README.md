@@ -276,3 +276,17 @@ $ quickstart
 <a href="https://colab.research.google.com/github/huggingface/autotrain-advanced/blob/main/colabs/AutoTrain.ipynb#scrollTo=4inccxUXWPRs"><img src="https://raw.githubusercontent.com/huggingface/autotrain-advanced/main/src/autotrain/app/static/logo.png" height="30" /></a>
 <a href="https://drive.google.com/drive/my-drive"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Google_Drive_logo.png/600px-Google_Drive_logo.png?20220818055023" height="30"/></a>
 <a href="https://colab.research.google.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Google_Colaboratory_SVG_Logo.svg/800px-Google_Colaboratory_SVG_Logo.svg.png" height="30" /></a>
+
+
+
+
+<!--
+<table cellpadding="0px" cellspacing="0px" class="">
+    <tr class="">
+      <td width=150 align="center"><img src="https://github.com/mahynski/pychemauth/blob/ed26abc3ffb8f45e396e18b8661644db4a47b97b/docs/_static/logo_no.png" width=100 /> PyChemAuth</td>
+      <td width=150 align="center"><img src="https://github.com/mahynski/chemometric-carpentry/blob/058c0cb4593bbe28dc9985110bd5c5ea02d61520/logo.png" width=100 /></td>
+      <td width=150 align="center"><img src="https://github.com/mahynski/starlingrt/blob/df7fd4d5276ac00763db8b9ac10a6d1616b1f35b/docs/_static/logo.png" width=100 /></td>
+      <td width=150 align="center"><img src="https://github.com/mahynski/finchnmr/blob/d0c39a04c56056dd08dca8a0285711e6950bf5bc/docs/_static/logo_small.png" width=100 /></td>
+    </tr>
+</table>
+-->
