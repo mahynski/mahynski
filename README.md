@@ -120,7 +120,7 @@ Developing reproducible, transparent modeling pipelines and methods requires sta
   <h3>Publications</h3>
   <ul>
     <li><a href="https://github.com/mahynski/FINCHnmr/">FINCHnmr</a>: Identifying compounds in complex biochemical mixtures using HSQC NMR (coming soon!)</li>
-    <li><a href="https://github.com/mahynski/starlingrt/">STARLINGrt</a>: Interactive retention time visualization for gas chromatography (coming soon!)</li>
+    <li><a href="https://github.com/mahynski/starlingrt/">STARLINGrt</a>: Interactive retention time visualization for analyzing gas chromatography mass spectrometry (GCMS) retention times.</li>
     <li>Determining fertility biomarkers of Atlantic Salmon (coming soon!)</li>
     <li>Using generative AI to predict mass spectra of chemical reference compounds (coming soon!)</li>
     <li>Check out <a href="https://github.com/usnistgov/dimspec">Database Infrastructure for Mass Spectrometry (DIMSpec)<a> and associated <a href="https://pages.nist.gov/dimspec/docs/intro-start.html">training resources</a>.</li>
