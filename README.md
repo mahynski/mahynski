@@ -9,14 +9,23 @@ I am an engineer :gear: who specializes in designing, developing, and deploying 
 Broad research areas include: 
 🔥 [Thermodynamics](https://gist.github.com/mahynski/2533b0d5f39348e73d09b0a2bcfa33e8), :diamond_shape_with_a_dot_inside: [Material science](https://gist.github.com/mahynski/55116f939ae1b570b3a35abe37749c94), :sushi: [Food authenticity](https://gist.github.com/mahynski/6307ae08cf6dbd02db183c3ad8e0ffc7), :part_alternation_mark: [Machine Learning](https://huggingface.co/mahynski)
 
+<!--
 <p align="center">
   <a href="https://gist.github.com/mahynski/55116f939ae1b570b3a35abe37749c94"><img height="150" align="center" src="https://github.com/mahynski/mahynski/assets/23516749/25dd8cec-8266-49fe-9643-598155d30d1f"></a>
   <a href="https://gist.github.com/mahynski/2533b0d5f39348e73d09b0a2bcfa33e8"><img height="150" align="center" src="https://github.com/mahynski/mahynski/assets/23516749/bf6456fd-3e85-411e-af02-0b846ccd8db6"></a>
   <a href="https://gist.github.com/mahynski/63f73b6b07b80e030d45d61a7b3b72a7"><img height="150" align="center" src="https://github.com/mahynski/mahynski/assets/23516749/07aa03fb-1e61-49b8-b34a-98f433284d7f"></a>
   <a href="https://gist.github.com/mahynski/6307ae08cf6dbd02db183c3ad8e0ffc7"><img height="150" align="center" src="https://github.com/mahynski/mahynski/assets/23516749/e004c1ce-e824-4ea4-b2c3-2ea7f6b7b151"></a>
 </p>
+-->
 
-<!-- <img src="https://private-user-images.githubusercontent.com/74038190/240815616-7b282ec6-fcc3-4600-90a7-2c3140549f58.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTMwMTk2NjksIm5iZiI6MTcxMzAxOTM2OSwicGF0aCI6Ii83NDAzODE5MC8yNDA4MTU2MTYtN2IyODJlYzYtZmNjMy00NjAwLTkwYTctMmMzMTQwNTQ5ZjU4LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA0MTMlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNDEzVDE0NDI0OVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTIxZjI1NWQ4MDU5NmUxMmJjMTAwNWU3MjVmN2JjODIyNzg3ZDU0YzEyN2IxZmUzMjRjNjY2YmQ4MDkxYTNkZmMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.aPT_HV23B9YcMogkQg6yn-R0c1HA907eyV-1cs8YBn4" height=100 /> <img src="https://user-images.githubusercontent.com/74038190/221352987-68da234d-4d62-4e9d-9d7f-098dc657c2dc.gif" height=100 /> -->
+<table cellpadding="0px" cellspacing="0px" class="center">
+    <tr class="">
+      <td width=150 align="center"><a href="https://pychemauth.readthedocs.io/en/latest/index.html"><img src="https://github.com/mahynski/pychemauth/blob/ed26abc3ffb8f45e396e18b8661644db4a47b97b/docs/_static/logo_no.png" width=100 /> PyChemAuth</a></td>
+      <td width=150 align="center"><a href="https://github.com/mahynski/chemometric-carpentry"><img src="https://github.com/mahynski/chemometric-carpentry/blob/058c0cb4593bbe28dc9985110bd5c5ea02d61520/logo.png" width=100 /> Chemometric Carpentry</td>
+      <td width=150 align="center"><a href="https://starlingrt.readthedocs.io/en/latest/"><img src="https://github.com/mahynski/starlingrt/blob/df7fd4d5276ac00763db8b9ac10a6d1616b1f35b/docs/_static/logo.png" width=100 /> STARLINGrt</td>
+      <td width=150 align="center"><a href="https://github.com/mahynski/finchnmr"><img src="https://github.com/mahynski/finchnmr/blob/d0c39a04c56056dd08dca8a0285711e6950bf5bc/docs/_static/logo_small.png" width=100 /> FINCHnmr</td>
+    </tr>
+</table>
 
 ~~~bash
 $ man -a mahynski
@@ -276,17 +285,3 @@ $ quickstart
 <a href="https://colab.research.google.com/github/huggingface/autotrain-advanced/blob/main/colabs/AutoTrain.ipynb#scrollTo=4inccxUXWPRs"><img src="https://raw.githubusercontent.com/huggingface/autotrain-advanced/main/src/autotrain/app/static/logo.png" height="30" /></a>
 <a href="https://drive.google.com/drive/my-drive"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Google_Drive_logo.png/600px-Google_Drive_logo.png?20220818055023" height="30"/></a>
 <a href="https://colab.research.google.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Google_Colaboratory_SVG_Logo.svg/800px-Google_Colaboratory_SVG_Logo.svg.png" height="30" /></a>
-
-
-
-
-<!--
-<table cellpadding="0px" cellspacing="0px" class="">
-    <tr class="">
-      <td width=150 align="center"><a href="https://pychemauth.readthedocs.io/en/latest/index.html"><img src="https://github.com/mahynski/pychemauth/blob/ed26abc3ffb8f45e396e18b8661644db4a47b97b/docs/_static/logo_no.png" width=100 /> PyChemAuth</a></td>
-      <td width=150 align="center"><a href="https://github.com/mahynski/chemometric-carpentry"><img src="https://github.com/mahynski/chemometric-carpentry/blob/058c0cb4593bbe28dc9985110bd5c5ea02d61520/logo.png" width=100 /> Chemometric Carpentry</td>
-      <td width=150 align="center"><a href="https://starlingrt.readthedocs.io/en/latest/"><img src="https://github.com/mahynski/starlingrt/blob/df7fd4d5276ac00763db8b9ac10a6d1616b1f35b/docs/_static/logo.png" width=100 /> STARLINGrt</td>
-      <td width=150 align="center"><a href="https://github.com/mahynski/finchnmr"><img src="https://github.com/mahynski/finchnmr/blob/d0c39a04c56056dd08dca8a0285711e6950bf5bc/docs/_static/logo_small.png" width=100 /> FINCHnmr</td>
-    </tr>
-</table>
--->
