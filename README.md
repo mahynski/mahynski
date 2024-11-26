@@ -22,7 +22,7 @@ Broad research areas include:
     <tr class="">
       <td width=165 align="center"><a href="https://pychemauth.readthedocs.io/en/latest/index.html"><img src="https://github.com/mahynski/pychemauth/blob/ed26abc3ffb8f45e396e18b8661644db4a47b97b/docs/_static/logo_no.png" width=100 /> PyChemAuth</a></td>
       <td width=165 align="center"><a href="https://github.com/mahynski/chemometric-carpentry"><img src="https://github.com/mahynski/chemometric-carpentry/blob/058c0cb4593bbe28dc9985110bd5c5ea02d61520/logo.png" width=120 /> Chemometric Carpentry</td>
-      <td width=165 align="center"><a href="https://starlingrt.readthedocs.io/en/latest/"><img src="https://github.com/mahynski/starlingrt/blob/df7fd4d5276ac00763db8b9ac10a6d1616b1f35b/docs/_static/logo.png" width=130 /> STARLINGrt</td>
+      <td width=165 align="center"><a href="https://starlingrt.readthedocs.io/en/latest/"><img src="https://github.com/mahynski/starlingrt/blob/df7fd4d5276ac00763db8b9ac10a6d1616b1f35b/docs/_static/logo.png" width=120 /> STARLINGrt</td>
       <td width=165 align="center"><a href="https://github.com/mahynski/finchnmr"><img src="https://github.com/mahynski/finchnmr/blob/d0c39a04c56056dd08dca8a0285711e6950bf5bc/docs/_static/logo_small.png" width=150 /> FINCHnmr</td>
       <td width=165 align="center"><a href="https://huggingface.co/spaces/mahynski/RAG"><img src="https://github.com/mahynski/mahynski/blob/dd73cf13a47e67f1f0219f96e2b682b568293a88/img/raggiana-bird-of-paradise.png" width=140 /> RAG Extraction</td>
     </tr>
