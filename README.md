@@ -24,7 +24,7 @@ Broad research areas include:
       <td width=165 align="center"><a href="https://github.com/mahynski/chemometric-carpentry"><img src="https://github.com/mahynski/chemometric-carpentry/blob/058c0cb4593bbe28dc9985110bd5c5ea02d61520/logo.png" width=120 /> Chemometric Carpentry</a></td>
       <td width=165 align="center"><a href="https://starlingrt.readthedocs.io/en/latest/"><img src="https://github.com/mahynski/starlingrt/blob/df7fd4d5276ac00763db8b9ac10a6d1616b1f35b/docs/_static/logo.png" width=120 /> STARLINGrt</a></td>
       <td width=165 align="center"><a href="https://finchnmr.readthedocs.io/"><img src="https://github.com/mahynski/finchnmr/blob/d0c39a04c56056dd08dca8a0285711e6950bf5bc/docs/_static/logo_small.png" width=120 /> FINCHnmr</a></td>
-      <td width=165 align="center"><a href="https://huggingface.co/spaces/mahynski/RAG"><img src="https://github.com/mahynski/mahynski/blob/dd73cf13a47e67f1f0219f96e2b682b568293a88/img/raggiana-bird-of-paradise.png" width=120 /> RAG Extraction</a></td>
+      <td width=165 align="center"><a href="https://huggingface.co/spaces/mahynski/RAG-private"><img src="https://github.com/mahynski/mahynski/blob/dd73cf13a47e67f1f0219f96e2b682b568293a88/img/raggiana-bird-of-paradise.png" width=120 /></a> <a href="https://huggingface.co/spaces/mahynski/RAG">RAG Extraction</a></td>
       <td width=165 align="center"><a href="https://github.com/usnistgov/escherized-colloids"><img src="https://github.com/usnistgov/escherized-colloids/blob/bfcdbb7a4e613bf264d4262b7b9cc73b03ae2b04/logo.png" width=120 /> Escherized Colloids</a></td>
       
   </tr>   
