@@ -26,7 +26,7 @@ Broad research areas include:
       <td width=110 align="center"><a href="https://finchnmr.readthedocs.io/"><img src="https://github.com/mahynski/finchnmr/blob/d0c39a04c56056dd08dca8a0285711e6950bf5bc/docs/_static/logo_small.png" width=100 /> FINCHnmr</a></td>
     </tr>   
   <tr class="">
-    <td width=110 align="center"><a href="https://github.com/mahynski/cd2"><img src="https://github.com/mahynski/cd2/blob/3eac098b30d321121d8448984fcc90f4236b656a/docs/_static/logo.png" width=100 /> CD<sup>2</sup></a></td>
+    <td width=110 align="center"><a href="https://github.com/mahynski/cd2"><img src="https://github.com/mahynski/mahynski/blob/b0462747940a2d027fd1d47256bd749df87f6e0b/img/_tmp_cd2_public_logo.png" width=100 /> CD<sup>2</sup></a></td>
     <td width=110 align="center"><a href="https://huggingface.co/spaces/mahynski/RAG-private"><img src="https://github.com/mahynski/mahynski/blob/dd73cf13a47e67f1f0219f96e2b682b568293a88/img/raggiana-bird-of-paradise.png" width=140 /></a> <a href="https://huggingface.co/spaces/mahynski/RAG">RAG Extraction</a></td>
     <td width=110 align="center"><a href="https://github.com/usnistgov/escherized-colloids"><img src="https://github.com/usnistgov/escherized-colloids/blob/bfcdbb7a4e613bf264d4262b7b9cc73b03ae2b04/logo.png" width=100 /> Escherized Colloids</a></td>
     <td width=110 align="center"><a href="https://github.com/mahynski/my_package"><img src="https://github.com/mahynski/my_package/blob/979dde08000cc394207d28de4ea15a5fd5a09c39/docs/_static/logo.png" width=100 /> PyPI Template</a></td>
