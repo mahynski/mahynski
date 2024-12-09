@@ -24,14 +24,16 @@ Broad research areas include:
       <td width=110 align="center"><a href="https://github.com/mahynski/chemometric-carpentry"><img src="https://github.com/mahynski/chemometric-carpentry/blob/058c0cb4593bbe28dc9985110bd5c5ea02d61520/logo.png" width=80 /> Chemometric Carpentry</a></td>
       <td width=110 align="center"><a href="https://starlingrt.readthedocs.io/en/latest/"><img src="https://github.com/mahynski/starlingrt/blob/df7fd4d5276ac00763db8b9ac10a6d1616b1f35b/docs/_static/logo.png" width=100 /> STARLINGrt</a></td>
       <td width=110 align="center"><a href="https://finchnmr.readthedocs.io/"><img src="https://github.com/mahynski/finchnmr/blob/d0c39a04c56056dd08dca8a0285711e6950bf5bc/docs/_static/logo_small.png" width=100 /> FINCHnmr</a></td>
-      <td width=110 align="center"><a href="https://github.com/mahynski/cd2"><img src="https://github.com/mahynski/cd2/blob/3eac098b30d321121d8448984fcc90f4236b656a/docs/_static/logo.png" width=100 /> CD<sup>2</sup></a></td>
-  </tr>   
+    </tr>   
   <tr class="">
+    <td width=110 align="center"><a href="https://github.com/mahynski/cd2"><img src="https://github.com/mahynski/cd2/blob/3eac098b30d321121d8448984fcc90f4236b656a/docs/_static/logo.png" width=100 /> CD<sup>2</sup></a></td>
     <td width=110 align="center"><a href="https://huggingface.co/spaces/mahynski/RAG-private"><img src="https://github.com/mahynski/mahynski/blob/dd73cf13a47e67f1f0219f96e2b682b568293a88/img/raggiana-bird-of-paradise.png" width=120 /></a> <a href="https://huggingface.co/spaces/mahynski/RAG">RAG Extraction</a></td>
     <td width=110 align="center"><a href="https://github.com/usnistgov/escherized-colloids"><img src="https://github.com/usnistgov/escherized-colloids/blob/bfcdbb7a4e613bf264d4262b7b9cc73b03ae2b04/logo.png" width=100 /> Escherized Colloids</a></td>
     <td width=110 align="center"><a href="https://github.com/mahynski/my_package"><img src="https://github.com/mahynski/my_package/blob/979dde08000cc394207d28de4ea15a5fd5a09c39/docs/_static/logo.png" width=100 /> PyPI Template</a></td>
+  </tr>   
+  <tr class="">
     <td width=110 align="center"><a href="https://github.com/mahynski/project-template"><img src="https://github.com/mahynski/project-template/blob/96229676a2beafa92eb54d53b8a39f06b969de30/logo.png" width=75 /> Project Template</a></td>
-    <td width=110 align="center"><a href="https://github.com/mahynski/public-template"><img src="https://github.com/mahynski/public-template/blob/e83827fc18ffc38de74fbd67df0a613e90b7a9c9/logo.png" width=150 /> Project Release</a></td>
+    <td width=110 align="center"><a href="https://github.com/mahynski/public-template"><img src="https://github.com/mahynski/public-template/blob/e83827fc18ffc38de74fbd67df0a613e90b7a9c9/logo.png" width=100 /> Project Release</a></td>
   </tr>
   
 </table>
