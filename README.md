@@ -18,7 +18,7 @@ Broad research areas include:
 </p>
 -->
 
-<table cellpadding="0px" cellspacing="0px" class="center" width=550>
+<table cellpadding="0px" cellspacing="0px" class="center" width="550px">
     <tr class="">
       <td width=110 align="center"><a href="https://pychemauth.readthedocs.io/en/latest/index.html"><img src="https://github.com/mahynski/pychemauth/blob/ed26abc3ffb8f45e396e18b8661644db4a47b97b/docs/_static/logo_no.png" width=80 /> PyChemAuth</a></td>
       <td width=110 align="center"><a href="https://github.com/mahynski/chemometric-carpentry"><img src="https://github.com/mahynski/chemometric-carpentry/blob/058c0cb4593bbe28dc9985110bd5c5ea02d61520/logo.png" width=80 /> Chemometric Carpentry</a></td>
