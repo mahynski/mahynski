@@ -18,7 +18,7 @@ Broad research areas include:
 </p>
 -->
 
-<table cellpadding="0px" cellspacing="0px" class="center" width="550px">
+<table cellpadding="0px" cellspacing="0px" class="center">
     <tr class="">
       <td width=110 align="center"><a href="https://pychemauth.readthedocs.io/en/latest/index.html"><img src="https://github.com/mahynski/pychemauth/blob/ed26abc3ffb8f45e396e18b8661644db4a47b97b/docs/_static/logo_no.png" width=80 /> PyChemAuth</a></td>
       <td width=110 align="center"><a href="https://github.com/mahynski/chemometric-carpentry"><img src="https://github.com/mahynski/chemometric-carpentry/blob/058c0cb4593bbe28dc9985110bd5c5ea02d61520/logo.png" width=80 /> Chemometric Carpentry</a></td>
@@ -31,7 +31,7 @@ Broad research areas include:
     <td width=110 align="center"><a href="https://github.com/usnistgov/escherized-colloids"><img src="https://github.com/usnistgov/escherized-colloids/blob/bfcdbb7a4e613bf264d4262b7b9cc73b03ae2b04/logo.png" width=100 /> Escherized Colloids</a></td>
     <td width=110 align="center"><a href="https://github.com/mahynski/my_package"><img src="https://github.com/mahynski/my_package/blob/979dde08000cc394207d28de4ea15a5fd5a09c39/docs/_static/logo.png" width=100 /> PyPI Template</a></td>
     <td width=110 align="center"><a href="https://github.com/mahynski/project-template"><img src="https://github.com/mahynski/project-template/blob/96229676a2beafa92eb54d53b8a39f06b969de30/logo.png" width=75 /> Project Template</a></td>
-    <td width=110 align="center"><a href="https://github.com/mahynski/public-template"><img src="https://github.com/mahynski/public-template/blob/e83827fc18ffc38de74fbd67df0a613e90b7a9c9/logo.png" width=100 /> Project Release</a></td>
+    <td width=110 align="center"><a href="https://github.com/mahynski/public-template"><img src="https://github.com/mahynski/public-template/blob/e83827fc18ffc38de74fbd67df0a613e90b7a9c9/logo.png" width=150 /> Project Release</a></td>
   </tr>
   
 </table>
