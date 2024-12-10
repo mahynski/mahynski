@@ -30,7 +30,7 @@ Broad research areas include:
   </tr>   
   <tr class="">
     <td width=110 align="center"><a href="https://github.com/usnistgov/escherized-colloids"><img src="https://github.com/usnistgov/escherized-colloids/blob/bfcdbb7a4e613bf264d4262b7b9cc73b03ae2b04/logo.png" width=100 /> Escherized Colloids</a></td>
-    <td width=110 align="center"><a href="https://github.com/mahynski/my_package"><img src="https://github.com/mahynski/my_package/blob/979dde08000cc394207d28de4ea15a5fd5a09c39/docs/_static/logo.png" width=100 /> PyPI Template</a></td>
+    <td width=110 align="center"><a href="https://github.com/mahynski/my_package"><img src="https://github.com/mahynski/my_package/blob/fe173222dea5d9f1609948e9e2cdcec6475f2468/docs/_static/logo_transparent.png" width=85 /> PyPI Template</a></td>
     <td width=110 align="center"><a href="https://github.com/mahynski/project-template"><img src="https://github.com/mahynski/project-template/blob/96229676a2beafa92eb54d53b8a39f06b969de30/logo.png" width=75 /> Project Template</a></td>
     <td width=110 align="center"><a href="https://github.com/mahynski/public-template"><img src="https://github.com/mahynski/public-template/blob/e83827fc18ffc38de74fbd67df0a613e90b7a9c9/logo.png" width=100 /> Project Release</a></td>
   </tr>
