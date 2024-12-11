@@ -24,11 +24,11 @@ Broad research areas include:
     <td width=110 align="center"><a href="https://github.com/mahynski/chemometric-carpentry"><img src="https://github.com/mahynski/chemometric-carpentry/blob/058c0cb4593bbe28dc9985110bd5c5ea02d61520/logo.png" width=80 /> Chemometric Carpentry</a></td>
     <td width=110 align="center"><a href="https://starlingrt.readthedocs.io/en/latest/"><img src="https://github.com/mahynski/starlingrt/blob/7bbef5e033929c8d54c1142c21d5b2291bdf5444/docs/_static/logo_transparent.png" width=100 /> STARLINGrt</a></td>
     <td width=110 align="center"><a href="https://finchnmr.readthedocs.io/"><img src="https://github.com/mahynski/finchnmr/blob/48c9f21a7a816cab23b393da3e65bff61e649630/docs/_static/logo_small_oval.png" width=70 /> FINCHnmr</a></td>
-    <td width=110 align="center"><a href="https://github.com/mahynski/cd2"><img src="https://github.com/mahynski/cd2/blob/634e57781ce62ff55ccb1ed0a7bdfb3b94e19e68/docs/_static/logo_transparent.png" width=110 /> CD<sup>2</sup></a></td>
     <td width=110 align="center"><a href="https://huggingface.co/spaces/mahynski/RAG-private"><img src="https://github.com/mahynski/mahynski/blob/dd73cf13a47e67f1f0219f96e2b682b568293a88/img/raggiana-bird-of-paradise.png" width=110 /></a> <a href="https://huggingface.co/spaces/mahynski/RAG">RAG Extraction</a></td>
     <td width=110 align="center"><a href="https://github.com/mahynski/apo"><img src="https://github.com/mahynski/mahynski/blob/51814ad1dbd92ed50f4069ea960f821031f51000/img/_tmp_apo_public_logo.png" width=60 /> Auto Prompt Optimization</a></td>
   </tr>   
   <tr class="">
+    <td width=110 align="center"><a href="https://github.com/mahynski/cd2"><img src="https://github.com/mahynski/cd2/blob/634e57781ce62ff55ccb1ed0a7bdfb3b94e19e68/docs/_static/logo_transparent.png" width=110 /> CD<sup>2</sup></a></td>
     <td width=110 align="center"><a href="https://github.com/usnistgov/escherized-colloids"><img src="https://github.com/usnistgov/escherized-colloids/blob/bfcdbb7a4e613bf264d4262b7b9cc73b03ae2b04/logo.png" width=100 /> Escherized Colloids</a></td>
     <td width=110 align="center"><a href="https://github.com/mahynski/my_package"><img src="https://github.com/mahynski/my_package/blob/fe173222dea5d9f1609948e9e2cdcec6475f2468/docs/_static/logo_transparent.png" width=85 /> PyPI Template</a></td>
     <td width=110 align="center"><a href="https://github.com/mahynski/project-template"><img src="https://github.com/mahynski/project-template/blob/96229676a2beafa92eb54d53b8a39f06b969de30/logo.png" width=75 /> Project Template</a></td>
