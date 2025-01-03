@@ -26,6 +26,7 @@ Broad research areas include:
     <td width=110 align="center"><a href="https://finchnmr.readthedocs.io/"><img src="https://github.com/mahynski/finchnmr/blob/48c9f21a7a816cab23b393da3e65bff61e649630/docs/_static/logo_small_oval.png" width=70 /> FINCHnmr</a></td>
     <td width=110 align="center"><a href="https://huggingface.co/spaces/mahynski/RAG-private"><img src="https://github.com/mahynski/mahynski/blob/dd73cf13a47e67f1f0219f96e2b682b568293a88/img/raggiana-bird-of-paradise.png" width=110 /></a> <a href="https://huggingface.co/spaces/mahynski/RAG">RAG Data Extraction</a></td>
     <td width=110 align="center"><a href="https://github.com/mahynski/apo"><img src="https://github.com/mahynski/mahynski/blob/51814ad1dbd92ed50f4069ea960f821031f51000/img/_tmp_apo_public_logo.png" width=60 /> Auto Prompt Optimization</a></td>
+    <td width=110 align="center"><a href="https://github.com/mahynski/pinn-library"><img src="https://github.com/mahynski/pinn-library/blob/0635b365c523e405982fa0b06cb12df28a50bd78/logo_no.png" width=80 /> PINN Library</a></td>
   </tr>   
   <tr class="">
     <td width=110 align="center"><a href="https://github.com/mahynski/cd2"><img src="https://github.com/mahynski/cd2/blob/634e57781ce62ff55ccb1ed0a7bdfb3b94e19e68/docs/_static/logo_transparent.png" width=110 /> CD<sup>2</sup></a></td>
