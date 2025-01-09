@@ -29,7 +29,7 @@ Broad research areas include:
     <td width=110 align="center"><a href="https://github.com/mahynski/pinn-library"><img src="https://github.com/mahynski/pinn-library/blob/0635b365c523e405982fa0b06cb12df28a50bd78/logo_no.png" width=80 /> PINN Library</a></td>
   </tr>   
   <tr class="">
-    <td width=110 align="center"><a href="https://github.com/mahynski/cd2"><img src="https://github.com/mahynski/cd2/blob/634e57781ce62ff55ccb1ed0a7bdfb3b94e19e68/docs/_static/logo_transparent.png" width=110 /> CD<sup>2</sup></a></td>
+    <td width=110 align="center"><a href="https://github.com/mahynski/cd2"><img src="https://github.com/mahynski/mahynski/blob/35f84999f03354be6cf31c5bfbe02dea059e06fa/img/_tmp_cd2_public_logo.png" width=110 /> CD<sup>2</sup></a></td>
     <td width=110 align="center"><a href="https://github.com/usnistgov/escherized-colloids"><img src="https://github.com/usnistgov/escherized-colloids/blob/bfcdbb7a4e613bf264d4262b7b9cc73b03ae2b04/logo.png" width=100 /> Escherized Colloids</a></td>
     <td width=110 align="center"><a href="https://github.com/mahynski/my_package"><img src="https://github.com/mahynski/my_package/blob/fe173222dea5d9f1609948e9e2cdcec6475f2468/docs/_static/logo_transparent.png" width=85 /> PyPI Template</a></td>
     <td width=110 align="center"><a href="https://github.com/mahynski/project-template"><img src="https://github.com/mahynski/project-template/blob/96229676a2beafa92eb54d53b8a39f06b969de30/logo.png" width=75 /> Project Template</a></td>
