@@ -1,4 +1,6 @@
+<!--
 ![image](https://github.com/mahynski/mahynski/assets/23516749/6db3de5e-8956-478a-8f80-9a7c8e93bc17)
+-->
 
 ~~~bash
 $ whoami
