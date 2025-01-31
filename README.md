@@ -6,9 +6,9 @@
 $ whoami
 ~~~
 
-I am an engineer :gear: who specializes in designing, developing, and deploying computational tools to solve scientific problems alongside subject matter experts in a wide range of disciplines. I use data science, AI/ML, molecular simulations, and other advanced modeling tools to make data-driven discoveries in fields like material science, nuclear chemistry, food science, and biology. <!--I also work on designing self-assembling functional materials using tools from art and architecture in novel ways to program colloidal crystal assembly.--> I have a PhD in Chemical Engineering with a concentration in computational thermodynamics and a certificate in Computational and Information Science. You can read more about ongoing research on [ResearchGate](https://www.researchgate.net/profile/Nathan-Mahynski).
+I specialize in designing, developing, and deploying computational tools to solve problems alongside subject matter experts in a wide range of disciplines. My career began with using data science, AI/ML, molecular simulations, and other advanced modeling tools to make data-driven discoveries in fields like material science, nuclear chemistry, food science, and biology; later I moved into building data-accelerated analytic, operations, and engineering solutions for partners in the cyber, aeronautical, and astronautical industries. I have a PhD in Chemical Engineering with a concentration in computational thermodynamics and a certificate in Computational and Information Science. You can read more about my public research projects on [ResearchGate](https://www.researchgate.net/profile/Nathan-Mahynski).
 
-Broad research areas include: 
+Broad research areas included: 
 🔥 [Thermodynamics](https://gist.github.com/mahynski/2533b0d5f39348e73d09b0a2bcfa33e8), :diamond_shape_with_a_dot_inside: [Material science](https://gist.github.com/mahynski/55116f939ae1b570b3a35abe37749c94), :sushi: [Food authenticity](https://gist.github.com/mahynski/6307ae08cf6dbd02db183c3ad8e0ffc7), :part_alternation_mark: [Machine Learning](https://huggingface.co/mahynski)
 
 <!--
@@ -113,7 +113,7 @@ Developing reproducible, transparent modeling pipelines and methods requires sta
   <ul>
     <li><a href="https://huggingface.co/collections/mahynski/food-authenticity-66fb5fa3ecfbd9538190f2f8">Collection of datasets and models on HuggingFace.</a></li>
     <li><a href="">"Comparing Machine Learning Models to Chemometric Ones to Detect Food Fraud: A Case Study in Slovenian Fruits and Vegetables"</a> (coming soon!). Also see the associated <a href="https://github.com/mahynski/slovenian-authentication">GitHub repo</a>.</li>
-    <li>Chemometric differentiation of Ginger species (coming soon!)</li>
+    <li>Chemometric differentiation of ginseng species (coming soon!)</li>
     <!-- <li>Authenticating American Red Snapper (coming soon!)</li> -->
     <li>Thanks to all the great folks from the <a href="https://www.iaea.org/">IAEA's<a> CRP D52042 <a href="https://nucleus.iaea.org/sites/nafa-projects/crp-D52042/SitePages/Home.aspx">Implementation of Nuclear Techniques for AuthentiCaTion of Foods with High-Value Labelling Claims (INTACT Food) Project</a>!</li>
      <br/> 
