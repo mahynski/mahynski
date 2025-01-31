@@ -6,18 +6,12 @@
 $ whoami
 ~~~
 
-I specialize in designing, developing, and deploying computational tools to solve problems alongside subject matter experts in a wide range of disciplines. My career began with using data science, AI/ML, molecular simulations, and other advanced modeling tools to make data-driven discoveries in fields like material science, nuclear chemistry, food science, and biology @NIST; later I moved into building data-accelerated analytic, operations, and engineering solutions for partners in the cyber, aeronautical, and astronautical industries. I have a PhD in Chemical Engineering with a concentration in computational thermodynamics and a certificate in Computational and Information Science. You can read more about my public research projects on [ResearchGate](https://www.researchgate.net/profile/Nathan-Mahynski).
+I specialize in designing, developing, and deploying computational tools to solve problems alongside subject matter experts in a wide range of disciplines. My career began with using data science, AI/ML, molecular simulations, and other advanced modeling tools to make data-driven discoveries in fields like material science, nuclear chemistry, food science, and biology @NIST; later I moved into building data-accelerated analytic, operations, and engineering solutions for partners in the cyber, aeronautical, and astronautical industries. I have a PhD in Chemical Engineering with a concentration in computational thermodynamics and a certificate in Computational and Information Science. 
+
+<!-- You can read more about my public research projects on [ResearchGate](https://www.researchgate.net/profile/Nathan-Mahynski).
 
 Broad research areas included: 
-🔥 [Thermodynamics](https://gist.github.com/mahynski/2533b0d5f39348e73d09b0a2bcfa33e8), :diamond_shape_with_a_dot_inside: [Material science](https://gist.github.com/mahynski/55116f939ae1b570b3a35abe37749c94), :sushi: [Food authenticity](https://gist.github.com/mahynski/6307ae08cf6dbd02db183c3ad8e0ffc7), :part_alternation_mark: [Machine Learning](https://huggingface.co/mahynski)
-
-<!--
-<p align="center">
-  <a href="https://gist.github.com/mahynski/55116f939ae1b570b3a35abe37749c94"><img height="150" align="center" src="https://github.com/mahynski/mahynski/assets/23516749/25dd8cec-8266-49fe-9643-598155d30d1f"></a>
-  <a href="https://gist.github.com/mahynski/2533b0d5f39348e73d09b0a2bcfa33e8"><img height="150" align="center" src="https://github.com/mahynski/mahynski/assets/23516749/bf6456fd-3e85-411e-af02-0b846ccd8db6"></a>
-  <a href="https://gist.github.com/mahynski/63f73b6b07b80e030d45d61a7b3b72a7"><img height="150" align="center" src="https://github.com/mahynski/mahynski/assets/23516749/07aa03fb-1e61-49b8-b34a-98f433284d7f"></a>
-  <a href="https://gist.github.com/mahynski/6307ae08cf6dbd02db183c3ad8e0ffc7"><img height="150" align="center" src="https://github.com/mahynski/mahynski/assets/23516749/e004c1ce-e824-4ea4-b2c3-2ea7f6b7b151"></a>
-</p>
+🔥 [Thermodynamics](https://gist.github.com/mahynski/2533b0d5f39348e73d09b0a2bcfa33e8), :diamond_shape_with_a_dot_inside: [Material science](https://gist.github.com/mahynski/55116f939ae1b570b3a35abe37749c94), :sushi: [Food authenticity](https://gist.github.com/mahynski/6307ae08cf6dbd02db183c3ad8e0ffc7), :part_alternation_mark: [Chemical Intelligence](https://huggingface.co/mahynski)
 -->
 
 <table cellpadding="0px" cellspacing="0px" class="center">
@@ -259,7 +253,6 @@ $ cat /home/mahynski/.profile | more
 [![Arize Phoenix](https://img.shields.io/badge/Arize%20Phoenix-ffffff?style=for-the-badge&color=02a5b9)](https://app.phoenix.arize.com/)
 [![Langfuse](https://img.shields.io/badge/Langfuse-ffffff?style=for-the-badge&color=ce0000)](https://us.cloud.langfuse.com/)
 [![DeepChem](https://img.shields.io/badge/DeepChem-EB3F48?style=for-the-badge)](https://deepchem.io/)
-[![NVIDIA-AI-Workbench](https://img.shields.io/badge/nvidia%20ai%20workbench-brightgreen?style=for-the-badge&link=https%3A%2F%2Fwww.nvidia.com%2Fen-us%2Fdeep-learning-ai%2Fsolutions%2Fdata-science%2Fworkbench%2F)](https://www.nvidia.com/en-us/deep-learning-ai/solutions/data-science/workbench/)
 [![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org/)
 [![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)](https://scipy.org/)
 [![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
@@ -278,6 +271,7 @@ $ cat /home/mahynski/.profile | more
 [![Inkscape](https://img.shields.io/badge/Inkscape-e0e0e0?style=for-the-badge&logo=inkscape&logoColor=080A13)](https://inkscape.org/)
 [![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=ResearchGate&logoColor=white)](https://www.researchgate.net/profile/Nathan-Mahynski)
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/)
+[![NVIDIA-AI-Workbench](https://img.shields.io/badge/nvidia%20ai%20workbench-brightgreen?style=for-the-badge&link=https%3A%2F%2Fwww.nvidia.com%2Fen-us%2Fdeep-learning-ai%2Fsolutions%2Fdata-science%2Fworkbench%2F)](https://www.nvidia.com/en-us/deep-learning-ai/solutions/data-science/workbench/)
 -->
 
 <!--
