@@ -97,6 +97,8 @@ $ cat /home/mahynski/.profile | more
 [![NVIDIA-AI-Workbench](https://img.shields.io/badge/nvidia%20ai%20workbench-brightgreen?style=for-the-badge&link=https%3A%2F%2Fwww.nvidia.com%2Fen-us%2Fdeep-learning-ai%2Fsolutions%2Fdata-science%2Fworkbench%2F)](https://www.nvidia.com/en-us/deep-learning-ai/solutions/data-science/workbench/)
 -->
 
+## Previous Work
+
 ~~~bash
 $ tar -xzvf mahynski.archive.tar.gz
 ~~~
