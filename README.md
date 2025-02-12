@@ -71,6 +71,7 @@ $ cat /home/mahynski/.profile | more
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)](https://www.tensorflow.org/)
 [![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)](https://pytorch.org/)
 <a href="https://huggingface.co/mahynski"><img src="https://huggingface.co/datasets/huggingface/badges/resolve/main/powered-by-huggingface-dark.svg" alt="HuggingFace" height=30 /></a>
+<a href="https://auto.gluon.ai/stable/index.html"><img src="https://auto.gluon.ai/stable/_static/autogluon-w.png" alt="AutoGluon" height=30 /></a>
 [![OpenAI](https://img.shields.io/badge/OpenAI-ffffff?logo=openai&style=for-the-badge&color=ffffff&logoColor=412991)](https://platform.openai.com/apps)
 [![LlamaIndex](https://img.shields.io/badge/Llama%20Index-ffffff?style=for-the-badge&color=000000)](https://docs.llamaindex.ai/en/stable/)
 [![LlamaParse](https://img.shields.io/badge/llama%20parse-ffa5ea?style=for-the-badge)](https://cloud.llamaindex.ai/)
