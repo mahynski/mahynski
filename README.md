@@ -33,6 +33,8 @@ As you can see, I tend to name code after birds 🐦; check out the public aviar
   </tr>
 </table>
 
+---
+
 ~~~bash
 $ quickstart
 ~~~
