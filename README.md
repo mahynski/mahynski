@@ -8,13 +8,17 @@
 $ whoami
 ~~~
 
-I specialize in designing, developing, and deploying computational tools to solve problems alongside subject matter experts in a wide range of disciplines. My career began with using data science, AI/ML, molecular simulations, and other advanced modeling tools to make data-driven discoveries in fields like material science, nuclear chemistry, food science, and biology [@NIST](https://www.nist.gov/); later I moved into building data-accelerated analytic, operations, and engineering solutions for partners in the cyber, aeronautical, and astronautical industries. My formal training includes a PhD in Chemical Engineering with a concentration in computational thermodynamics and a certificate in Computational and Information Science [@Princeton](https://www.princeton.edu/).   As you can see, I tend to name code after birds; check out the public aviary below.
+I specialize in designing, developing, and deploying computational tools to solve problems alongside subject matter experts in a wide range of disciplines. My career began with using data science, AI/ML, molecular simulations, and other advanced modeling tools to make data-driven discoveries in fields like material science, nuclear chemistry, food science, and biology [@NIST](https://www.nist.gov/); later I moved into building data-accelerated analytic, operations, and engineering solutions for partners in the cyber, aeronautical, and astronautical industries. My formal training includes a PhD in Chemical Engineering with a concentration in computational thermodynamics and a certificate in Computational and Information Science [@Princeton](https://www.princeton.edu/).   
 
 <!-- You can read more about my public research projects on [ResearchGate](https://www.researchgate.net/profile/Nathan-Mahynski).
 
 Broad research areas included: 
 🔥 [Thermodynamics](https://gist.github.com/mahynski/2533b0d5f39348e73d09b0a2bcfa33e8), :diamond_shape_with_a_dot_inside: [Material science](https://gist.github.com/mahynski/55116f939ae1b570b3a35abe37749c94), :sushi: [Food authenticity](https://gist.github.com/mahynski/6307ae08cf6dbd02db183c3ad8e0ffc7), :part_alternation_mark: [Chemical Intelligence](https://huggingface.co/mahynski)
 -->
+
+---
+
+As you can see, I tend to name code after birds 🐦; check out the public aviary :sunrise_over_mountains: below. 
 
 <table cellpadding="0px" cellspacing="0px" class="center">   
   <tr class="">
