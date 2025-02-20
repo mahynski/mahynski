@@ -18,7 +18,7 @@ Broad research areas included:
 
 ---
 
-As you can see, I tend to name code after birds 🐦; check out the public aviary :sunrise_over_mountains: below. 
+As you can see, I tend to name code after birds 🐦; what I can share is in the aviary :sunrise_over_mountains: below. 
 
 <table cellpadding="0px" cellspacing="0px" class="center">   
   <tr class="">
