@@ -183,8 +183,6 @@ Developing reproducible, transparent modeling pipelines and methods requires sta
   <ul>
     <li><a href="https://huggingface.co/collections/mahynski/food-authenticity-66fb5fa3ecfbd9538190f2f8">Collection of datasets and models on HuggingFace.</a></li>
     <li><a href="">"Comparing Machine Learning Models to Chemometric Ones to Detect Food Fraud: A Case Study in Slovenian Fruits and Vegetables"</a> (coming soon!). Also see the associated <a href="https://github.com/mahynski/slovenian-authentication">GitHub repo</a>.</li>
-    <li>Chemometric differentiation of ginseng species (coming soon!)</li>
-    <!-- <li>Authenticating American Red Snapper (coming soon!)</li> -->
     <li>Thanks to all the great folks from the <a href="https://www.iaea.org/">IAEA's<a> CRP D52042 <a href="https://nucleus.iaea.org/sites/nafa-projects/crp-D52042/SitePages/Home.aspx">Implementation of Nuclear Techniques for AuthentiCaTion of Foods with High-Value Labelling Claims (INTACT Food) Project</a>!</li>
      <br/> 
      <img src="https://github.com/user-attachments/assets/0e0d5a6d-d938-4007-8054-db90e6d1c9bf" />
