@@ -155,7 +155,7 @@ Developing reproducible, transparent modeling pipelines and methods requires sta
   <ul>
     <li>Modern implementation of thermodynamic extrapolation tools @NIST can be found here: <a href="https://github.com/usnistgov/thermoextrap">thermoextrap</a></li>
     <li>This is also implemented in <a href="https://github.com/usnistgov/feasst">FEASST</a>, an open-source Monte Carlo simulation package</li>
-    <li>Harmonizing Statistical Associating Fluid Theory (SAFT) with molecular simulations (coming soon!)</li>
+    <li><a href="https://doi.org/10.1021/acs.jpcb.5c00536">"Development of SAFT-Based Coarse-Grained Models of Carbon Dioxide and Nitrogen,"</a> A. Chremos, W. P. Krekelberg, H. W. Hatch, D. W. Siderius, N. A. Mahynski, V. K. Shen, J. Phys. Chem. B <b>129</b>, 3443-3453 (2025).</li>
     <li><a href="http://fluidproperties.org/">Industrial Fluid Properties Simulation Challenge</a></li>
   </ul>
 
@@ -182,7 +182,7 @@ Developing reproducible, transparent modeling pipelines and methods requires sta
   <h3>Publications</h3>
   <ul>
     <li><a href="https://huggingface.co/collections/mahynski/food-authenticity-66fb5fa3ecfbd9538190f2f8">Collection of datasets and models on HuggingFace.</a></li>
-    <li><a href="">"Comparing Machine Learning Models to Chemometric Ones to Detect Food Fraud: A Case Study in Slovenian Fruits and Vegetables"</a> (coming soon!). Also see the associated <a href="https://github.com/mahynski/slovenian-authentication">GitHub repo</a>.</li>
+    <li><a href="https://doi.org/10.1016/j.foodchem.2025.144569">"Comparing Machine Learning Models to Chemometric Ones to Detect Food Fraud: A Case Study in Slovenian Fruits and Vegetables,"</a> N. A. Mahynski, L. Strojnik, V. K. Shen, N. Ogrinc, Food Chemistry <b>486</b>, 144569 (2025). Also see the associated <a href="https://github.com/mahynski/slovenian-authentication">GitHub repo</a>.</li>
     <li>Thanks to all the great folks from the <a href="https://www.iaea.org/">IAEA's<a> CRP D52042 <a href="https://nucleus.iaea.org/sites/nafa-projects/crp-D52042/SitePages/Home.aspx">Implementation of Nuclear Techniques for AuthentiCaTion of Foods with High-Value Labelling Claims (INTACT Food) Project</a>!</li>
      <br/> 
      <img src="https://github.com/user-attachments/assets/0e0d5a6d-d938-4007-8054-db90e6d1c9bf" />
