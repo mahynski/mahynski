@@ -20,7 +20,7 @@ Broad research areas included:
 
 ---
 
-As you can see, I tend to name code after birds 🐦; personal code that I can share is in the aviary :sunrise_over_mountains: below. 
+As you can see, I tend to name code after birds 🐦; personal code that I can share (which is not much these days) is in the aviary :sunrise_over_mountains: below. 
 
 <table cellpadding="0px" cellspacing="0px" class="center">   
   <tr class="">
