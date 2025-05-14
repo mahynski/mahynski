@@ -84,6 +84,7 @@ $ cat /home/mahynski/.profile | more
 [![LlamaIndex](https://img.shields.io/badge/Llama%20Index-ffffff?style=for-the-badge&color=000000)](https://docs.llamaindex.ai/en/stable/)
 [![LlamaParse](https://img.shields.io/badge/llama%20parse-ffa5ea?style=for-the-badge)](https://cloud.llamaindex.ai/)
 [![WandB](https://img.shields.io/badge/Weights_&_Biases-FFBE00?style=for-the-badge&logo=WeightsAndBiases&logoColor=white)](https://wandb.ai/nathan-mahynski)
+[![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue)](https://mlflow.org)
 [![Arize Phoenix](https://img.shields.io/badge/Arize%20Phoenix-ffffff?style=for-the-badge&color=02a5b9)](https://app.phoenix.arize.com/)
 [![Langfuse](https://img.shields.io/badge/Langfuse-ffffff?style=for-the-badge&color=ce0000)](https://us.cloud.langfuse.com/)
 [![DeepChem](https://img.shields.io/badge/DeepChem-EB3F48?style=for-the-badge)](https://deepchem.io/)
