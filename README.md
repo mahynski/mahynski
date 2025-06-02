@@ -72,6 +72,7 @@ $ cat /home/mahynski/.profile | more
 [![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)](https://www.latex-project.org/)
 [![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://us-east-2.console.aws.amazon.com/console/home?region=us-east-2)
 <a href="https://aws.amazon.com/sagemaker"><img src="https://github.com/mahynski/mahynski/blob/89529d180ce95d92fa39abf6eb364cf51cee3df2/img/SageMaker.png" alt="SageMaker" height=28 /></a>
+<a href="https://aws.amazon.com/bedrock"><img src="https://github.com/mahynski/mahynski/blob/fbf55d039dcfbc527a7e29395041a3d16ca2d210/img/bedrock-color.png" alt="Bedrock" height=28 /></a>
 [![Google Colab](https://img.shields.io/badge/Google%20Colab-%23F9A825.svg?style=for-the-badge&logo=googlecolab&logoColor=white)](https://colab.research.google.com/)
 <a href='https://console.paperspace.com/t9nl3c8mxy/projects'><img src='https://assets.paperspace.io/img/gradient-badge.svg' alt='Run on Gradient' height=27 /></a>
 [![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)](https://www.anaconda.com/)
