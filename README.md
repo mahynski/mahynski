@@ -119,6 +119,7 @@ $ cat /home/mahynski/.profile | more
 [![Streamlit](https://img.shields.io/badge/Streamlit-ffffff?logo=streamlit&style=for-the-badge&color=000000&logoColor=FF4B4B)](https://share.streamlit.io/)
 <a href="https://bokeh.org/"><img src="https://static.bokeh.org/logos/logotype.svg" height=25 alt="Bokeh"/></a>
 [![Dracula](https://img.shields.io/badge/Dracula-Theme-ffffff?style=for-the-badge&color=723cbd)](https://draculatheme.com/)
+<a href="https://arxiv.org/"><img src="https://info.arxiv.org/brand/images/brand-logo-primary.jpg" height=28 /></a>
 <a href="https://www.mendeley.com/reference-manager/library/all-references"><img src="https://brandslogos.com/wp-content/uploads/images/large/mendeley-logo-1.png" height=28 /></a>
 <a href="https://excalidraw.com/"><img src="https://th.bing.com/th/id/OIP.9HNQxIRe-LS0EVmTRhy6SgHaHa?rs=1&pid=ImgDetMain" height=28 /></a>
 <a href="https://music.apple.com/us/new"><img src="https://cdn.pnggallery.com/wp-content/uploads/apple-music-logo-05.png" height=28 /></a>
