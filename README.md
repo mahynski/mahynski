@@ -52,7 +52,7 @@ $ quickstart
   <tr class="">
     <td width=200 align="center"><a href="https://github.com/mahynski/agents-template"><img src="https://github.com/mahynski/mahynski/blob/585315552abe8a85c52e3bb906613cb1f670f253/img/_tmp_ag_logo.png" height=70 /> </a></td>
     <td width=200 align="center"><a href="https://github.com/mahynski/pinn-template"><img src="https://github.com/mahynski/pinn-template/blob/850dc62533b8c3d619c89f46679e56f006eac65b/logo.png" width=70 /> </a></td>
-    <td width=200 align="center"><a href="https://github.com/mahynski/gis-template"><img src="https://github.com/mahynski/gis-template/blob/8d775a2add53fefb18b8ac16b2ad4f228009b0a2/logo.png" width=120 /> </a></td>
+    <td width=200 align="center"><a href="https://github.com/mahynski/gis-template"><img src="https://github.com/mahynski/mahynski/blob/2aca22507699b86cb8cb7b0864ed31d630e38493/img/_tmp_gis_logo.png" width=120 /> </a></td>
     <td width=200 align="center">
       <a href="https://github.com/mahynski/autotrain-template"><img src="https://raw.githubusercontent.com/huggingface/autotrain-advanced/main/src/autotrain/app/static/logo.png" width=250 /> </a>
       <a href="https://huggingface.co/mahynski"><img src="https://huggingface.co/datasets/huggingface/badges/resolve/main/powered-by-huggingface-dark.svg" width=180 /> </a>
