@@ -50,7 +50,7 @@ $ quickstart
 
 <table cellpadding="0px" cellspacing="0px" class="center">   
   <tr class="">
-    <td width=200 align="center"><a href="https://github.com/mahynski/agents-template"><img src="https://github.com/mahynski/agents-template/blob/2da5620d33d142145edb929abef31686962277e3/logo.png" height=70 /> </a></td>
+    <td width=200 align="center"><a href="https://github.com/mahynski/agents-template"><img src="https://github.com/mahynski/mahynski/blob/585315552abe8a85c52e3bb906613cb1f670f253/img/_tmp_ag_logo.png" height=70 /> </a></td>
     <td width=200 align="center"><a href="https://github.com/mahynski/pinn-template"><img src="https://github.com/mahynski/pinn-template/blob/850dc62533b8c3d619c89f46679e56f006eac65b/logo.png" width=70 /> </a></td>
     <td width=200 align="center"><a href="https://github.com/mahynski/gis-template"><img src="https://github.com/mahynski/gis-template/blob/8d775a2add53fefb18b8ac16b2ad4f228009b0a2/logo.png" width=120 /> </a></td>
     <td width=200 align="center">
