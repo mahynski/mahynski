@@ -24,7 +24,7 @@ As you can see, I tend to name code after birds 🐦; personal code that I can s
 
 <table cellpadding="0px" cellspacing="0px" class="center">   
   <tr class="">
-    <td width=110 align="center"><a href="https://github.com/mahynski/conda-project-template"><img src="https://github.com/mahynski/project-template/blob/22d2fc9b39172e8dd6534e72bbc9b407c46fd37d/logo.png" width=85 /> Project Template</a></td>
+    <td width=110 align="center"><a href="https://github.com/mahynski/uv-project-template"><img src="https://github.com/mahynski/project-template/blob/22d2fc9b39172e8dd6534e72bbc9b407c46fd37d/logo.png" width=85 /> Project Template</a></td>
     <td width=110 align="center"><a href="https://github.com/mahynski/public-template"><img src="https://github.com/mahynski/public-template/blob/5bcbdc0fd86db295cde89b39304118cac14b07c7/logo.png" width=80 /> Project Release</a></td>
     <td width=110 align="center"><a href="https://github.com/mahynski/my_package"><img src="https://github.com/mahynski/my_package/blob/fe173222dea5d9f1609948e9e2cdcec6475f2468/docs/_static/logo_transparent.png" width=85 /> PyPI Template</a></td>
     <td width=110 align="center"><a href="https://github.com/mahynski/latex-jam"><img src="https://github.com/mahynski/latex-jam/blob/78b4bad272b18ac69ae74560041f7bfb0184fc0e/logo.png" width=80 /> LaTeX-Jam</a>
