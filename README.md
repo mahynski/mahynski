@@ -110,7 +110,7 @@ $ cat /home/mahynski/.profile | more
 [![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue)](https://mlflow.org)
 [![Arize Phoenix](https://img.shields.io/badge/Arize%20Phoenix-ffffff?style=for-the-badge&color=02a5b9)](https://app.phoenix.arize.com/)
 [![Langfuse](https://img.shields.io/badge/Langfuse-ffffff?style=for-the-badge&color=ce0000)](https://us.cloud.langfuse.com/)
-<a href="https://www.crewai.com"><img src="https://fbellame.github.io/images/crewai-logo.png" height=28 /></a>
+<a href="https://www.crewai.com"><img src="https://github.com/crewAIInc/crewAI/raw/main/docs/images/crewai_logo.png" height=28 /></a>
 [![DeepChem](https://img.shields.io/badge/DeepChem-EB3F48?style=for-the-badge)](https://deepchem.io/)
 [![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org/)
 [![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)](https://scipy.org/)
