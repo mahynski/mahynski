@@ -50,7 +50,7 @@ $ quickstart
 
 <table cellpadding="0px" cellspacing="0px" class="center">   
   <tr class="">
-    <td width=200 align="center"><a href="https://github.com/mahynski/uv-agents-template"><img src="https://github.com/crewAIInc/crewAI/raw/main/docs/images/crewai_logo.png" height=50 /> </a></td>
+    <td width=200 align="center"><a href="https://github.com/mahynski/uv-agents-template"><img src="https://github.com/crewAIInc/crewAI/raw/main/docs/images/crewai_logo.png" width=120 /> </a></td>
     <td width=200 align="center"><a href="https://github.com/mahynski/pinn-template"><img src="https://github.com/mahynski/mahynski/blob/235c75f41ec4aee81cee49bca1c160ee2d35fe1c/img/_tmp_pinn_logo.png" width=70 /> </a></td>
     <td width=200 align="center"><a href="https://github.com/mahynski/gis-template"><img src="https://github.com/mahynski/mahynski/blob/2aca22507699b86cb8cb7b0864ed31d630e38493/img/_tmp_gis_logo.png" width=120 /> </a></td>
     <td width=200 align="center">
