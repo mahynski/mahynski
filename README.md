@@ -107,6 +107,7 @@ $ cat /home/mahynski/.profile | more
 <a href="https://lmstudio.ai/"><img src="https://avatars.githubusercontent.com/u/133744619?s=200&v=4" height=28 /></a>
 <a href="https://ollama.com/"><img src="https://github.com/ollama/ollama/assets/3325447/0d0b44e2-8f4a-4e99-9b52-a5c1c741c8f7" height=28 /></a>
 <a href="https://www.trychroma.com/"><img src="https://ai-infrastructure.org/wp-content/uploads/2023/08/ChromaDB-Logo.png" height=28 /></a>
+[![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com)
 [![LlamaIndex](https://img.shields.io/badge/Llama%20Index-ffffff?style=for-the-badge&color=000000)](https://docs.llamaindex.ai/en/stable/)
 [![LlamaParse](https://img.shields.io/badge/llama%20parse-ffa5ea?style=for-the-badge)](https://cloud.llamaindex.ai/)
 [![WandB](https://img.shields.io/badge/Weights_&_Biases-FFBE00?style=for-the-badge&logo=WeightsAndBiases&logoColor=white)](https://wandb.ai/nathan-mahynski)
