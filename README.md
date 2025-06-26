@@ -18,8 +18,6 @@ Broad research areas included:
 🔥 [Thermodynamics](https://gist.github.com/mahynski/2533b0d5f39348e73d09b0a2bcfa33e8), :diamond_shape_with_a_dot_inside: [Material science](https://gist.github.com/mahynski/55116f939ae1b570b3a35abe37749c94), :sushi: [Food authenticity](https://gist.github.com/mahynski/6307ae08cf6dbd02db183c3ad8e0ffc7), :part_alternation_mark: [Chemical Intelligence](https://huggingface.co/mahynski)
 -->
 
----
-
 <!--
 As you can see, I tend to name code after birds 🐦; personal code that I can share (which is not much these days) is in the aviary :sunrise_over_mountains: below. 
 
@@ -52,11 +50,11 @@ $ quickstart
 
 <table cellpadding="0px" cellspacing="0px" class="center">   
   <tr class="">
-    <td width=200 align="center"><a href="https://github.com/mahynski/ai-ml-library/blob/main/README.md"><img src="https://github.com/mahynski/mahynski/blob/aec8b5cd8cef3a8279e7f86db96fb1370e86fc19/img/_tmp_ai_ml_library_logo.png" width=80 /> AI/ML Library</a>
-    <td width=200 align="center"><a href="https://github.com/mahynski/uv-project-template"><img src="https://github.com/mahynski/project-template/blob/22d2fc9b39172e8dd6534e72bbc9b407c46fd37d/logo.png" width=85 /> Project Template</a></td>
-    <td width=200 align="center"><a href="https://github.com/mahynski/uv-agents-template"><img src="https://github.com/crewAIInc/crewAI/raw/main/docs/images/crewai_logo.png" width=120 /> Agents</a></td>
-    <td width=200 align="center"><a href="https://github.com/mahynski/pinn-template"><img src="https://github.com/mahynski/mahynski/blob/235c75f41ec4aee81cee49bca1c160ee2d35fe1c/img/_tmp_pinn_logo.png" width=70 /> PINNs</a></td>
-    <td width=200 align="center"><a href="https://github.com/mahynski/gis-template"><img src="https://github.com/mahynski/mahynski/blob/2aca22507699b86cb8cb7b0864ed31d630e38493/img/_tmp_gis_logo.png" width=120 /> Deep GIS</a></td>
+    <td width=150 align="center"><a href="https://github.com/mahynski/ai-ml-library/blob/main/README.md"><img src="https://github.com/mahynski/mahynski/blob/aec8b5cd8cef3a8279e7f86db96fb1370e86fc19/img/_tmp_ai_ml_library_logo.png" width=80 /> AI/ML Library</a>
+    <td width=150 align="center"><a href="https://github.com/mahynski/uv-project-template"><img src="https://github.com/mahynski/project-template/blob/22d2fc9b39172e8dd6534e72bbc9b407c46fd37d/logo.png" width=85 /> Project Template</a></td>
+    <td width=150 align="center"><a href="https://github.com/mahynski/uv-agents-template"><img src="https://github.com/crewAIInc/crewAI/raw/main/docs/images/crewai_logo.png" width=120 /> Agents</a></td>
+    <td width=150 align="center"><a href="https://github.com/mahynski/pinn-template"><img src="https://github.com/mahynski/mahynski/blob/235c75f41ec4aee81cee49bca1c160ee2d35fe1c/img/_tmp_pinn_logo.png" width=70 /> PINNs</a></td>
+    <td width=150 align="center"><a href="https://github.com/mahynski/gis-template"><img src="https://github.com/mahynski/mahynski/blob/2aca22507699b86cb8cb7b0864ed31d630e38493/img/_tmp_gis_logo.png" width=120 /> Deep GIS</a></td>
     <td width=200 align="center">
       <a href="https://github.com/mahynski/autotrain-template"><img src="https://raw.githubusercontent.com/huggingface/autotrain-advanced/main/src/autotrain/app/static/logo.png" width=250 /> </a>
       <a href="https://huggingface.co/mahynski"><img src="https://huggingface.co/datasets/huggingface/badges/resolve/main/powered-by-huggingface-dark.svg" width=180 /> </a>
