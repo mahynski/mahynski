@@ -54,9 +54,9 @@ $ quickstart
   <tr class="">
     <td width=200 align="center"><a href="https://github.com/mahynski/ai-ml-library/blob/main/README.md"><img src="https://github.com/mahynski/mahynski/blob/aec8b5cd8cef3a8279e7f86db96fb1370e86fc19/img/_tmp_ai_ml_library_logo.png" width=80 /> AI/ML Library</a>
     <td width=200 align="center"><a href="https://github.com/mahynski/uv-project-template"><img src="https://github.com/mahynski/project-template/blob/22d2fc9b39172e8dd6534e72bbc9b407c46fd37d/logo.png" width=85 /> Project Template</a></td>
-    <td width=200 align="center"><a href="https://github.com/mahynski/uv-agents-template"><img src="https://github.com/crewAIInc/crewAI/raw/main/docs/images/crewai_logo.png" width=120 /> </a></td>
-    <td width=200 align="center"><a href="https://github.com/mahynski/pinn-template"><img src="https://github.com/mahynski/mahynski/blob/235c75f41ec4aee81cee49bca1c160ee2d35fe1c/img/_tmp_pinn_logo.png" width=70 /> </a></td>
-    <td width=200 align="center"><a href="https://github.com/mahynski/gis-template"><img src="https://github.com/mahynski/mahynski/blob/2aca22507699b86cb8cb7b0864ed31d630e38493/img/_tmp_gis_logo.png" width=120 /> </a></td>
+    <td width=200 align="center"><a href="https://github.com/mahynski/uv-agents-template"><img src="https://github.com/crewAIInc/crewAI/raw/main/docs/images/crewai_logo.png" width=120 /> Agents</a></td>
+    <td width=200 align="center"><a href="https://github.com/mahynski/pinn-template"><img src="https://github.com/mahynski/mahynski/blob/235c75f41ec4aee81cee49bca1c160ee2d35fe1c/img/_tmp_pinn_logo.png" width=70 /> PINNs</a></td>
+    <td width=200 align="center"><a href="https://github.com/mahynski/gis-template"><img src="https://github.com/mahynski/mahynski/blob/2aca22507699b86cb8cb7b0864ed31d630e38493/img/_tmp_gis_logo.png" width=120 /> Deep GIS</a></td>
     <td width=200 align="center">
       <a href="https://github.com/mahynski/autotrain-template"><img src="https://raw.githubusercontent.com/huggingface/autotrain-advanced/main/src/autotrain/app/static/logo.png" width=250 /> </a>
       <a href="https://huggingface.co/mahynski"><img src="https://huggingface.co/datasets/huggingface/badges/resolve/main/powered-by-huggingface-dark.svg" width=180 /> </a>
@@ -162,7 +162,8 @@ $ tar -xzvf mahynski.archive.tar.gz
     <td width=110 align="center"><a href="https://github.com/mahynski/apo"><img src="https://github.com/mahynski/mahynski/blob/51814ad1dbd92ed50f4069ea960f821031f51000/img/_tmp_apo_public_logo.png" width=60 /> Auto Prompt Optimization</a></td>
     <td width=110 align="center"><a href="https://huggingface.co/spaces/mahynski/RAG-private"><img src="https://github.com/mahynski/mahynski/blob/dd73cf13a47e67f1f0219f96e2b682b568293a88/img/raggiana-bird-of-paradise.png" width=110 /></a> <a href="https://huggingface.co/spaces/mahynski/RAG">RAG Data Extraction</a></td>
     <td width=110 align="center"><a href="https://github.com/mahynski/cd2"><img src="https://github.com/mahynski/mahynski/blob/35f84999f03354be6cf31c5bfbe02dea059e06fa/img/_tmp_cd2_public_logo.png" width=110 /> CD<sup>2</sup></a></td>
-  </tr>   
+    <td width=110 align="center"><a href="https://github.com/mahynski/my_package"><img src="https://github.com/mahynski/my_package/blob/fe173222dea5d9f1609948e9e2cdcec6475f2468/docs/_static/logo_transparent.png" width=85 /> PyPI Template</a></td>
+</tr>   
 </table>
 
 Developing reproducible, transparent modeling pipelines and methods requires standardized open-source tools. While working @NIST, I developed [PyChemAuth](http://pychemauth.readthedocs.io) to help chemometricians, cheminformatics professionals, and other researchers build end-to-end data science workflows from [exploratory data analysis](https://pychemauth.readthedocs.io/en/latest/jupyter/api/eda.html), to [model optimization and comparison](https://pychemauth.readthedocs.io/en/latest/jupyter/api/comparing_pipelines.html), to [public distribution](https://pychemauth.readthedocs.io/en/latest/jupyter/api/sharing_models.html). Most data-driven projects below rely on this package. Check out the [workshop](https://pychemauth.readthedocs.io/en/latest/carpentry.html) and [API Examples](https://pychemauth.readthedocs.io/en/latest/examples.html) for more information if you find it helpful.
