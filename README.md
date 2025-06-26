@@ -20,6 +20,7 @@ Broad research areas included:
 
 ---
 
+<!--
 As you can see, I tend to name code after birds 🐦; personal code that I can share (which is not much these days) is in the aviary :sunrise_over_mountains: below. 
 
 <table cellpadding="0px" cellspacing="0px" class="center">   
@@ -34,6 +35,7 @@ As you can see, I tend to name code after birds 🐦; personal code that I can s
     <td width=110 align="center"><a href="https://github.com/mahynski/cd2"><img src="https://github.com/mahynski/mahynski/blob/35f84999f03354be6cf31c5bfbe02dea059e06fa/img/_tmp_cd2_public_logo.png" width=110 /> CD<sup>2</sup></a></td>
   </tr>
 </table>
+-->
 
 ---
 
@@ -50,6 +52,8 @@ $ quickstart
 
 <table cellpadding="0px" cellspacing="0px" class="center">   
   <tr class="">
+    <td width=200 align="center"><a href="https://github.com/mahynski/ai-ml-library/blob/main/README.md"><img src="https://github.com/mahynski/mahynski/blob/aec8b5cd8cef3a8279e7f86db96fb1370e86fc19/img/_tmp_ai_ml_library_logo.png" width=80 /> AI/ML Library</a>
+    <td width=200 align="center"><a href="https://github.com/mahynski/uv-project-template"><img src="https://github.com/mahynski/project-template/blob/22d2fc9b39172e8dd6534e72bbc9b407c46fd37d/logo.png" width=85 /> Project Template</a></td>
     <td width=200 align="center"><a href="https://github.com/mahynski/uv-agents-template"><img src="https://github.com/crewAIInc/crewAI/raw/main/docs/images/crewai_logo.png" width=120 /> </a></td>
     <td width=200 align="center"><a href="https://github.com/mahynski/pinn-template"><img src="https://github.com/mahynski/mahynski/blob/235c75f41ec4aee81cee49bca1c160ee2d35fe1c/img/_tmp_pinn_logo.png" width=70 /> </a></td>
     <td width=200 align="center"><a href="https://github.com/mahynski/gis-template"><img src="https://github.com/mahynski/mahynski/blob/2aca22507699b86cb8cb7b0864ed31d630e38493/img/_tmp_gis_logo.png" width=120 /> </a></td>
@@ -57,10 +61,10 @@ $ quickstart
       <a href="https://github.com/mahynski/autotrain-template"><img src="https://raw.githubusercontent.com/huggingface/autotrain-advanced/main/src/autotrain/app/static/logo.png" width=250 /> </a>
       <a href="https://huggingface.co/mahynski"><img src="https://huggingface.co/datasets/huggingface/badges/resolve/main/powered-by-huggingface-dark.svg" width=180 /> </a>
     </td>
-    <td width=150 align="center">
+    <!-- <td width=150 align="center">
       <a href="https://colab.research.google.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Google_Colaboratory_SVG_Logo.svg/800px-Google_Colaboratory_SVG_Logo.svg.png" width=90 /> </a>
       <a href="https://drive.google.com/drive/my-drive"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Google_Drive_logo.png/600px-Google_Drive_logo.png?20220818055023" width=45 /> </a>
-    </td>
+    </td> -->
   </tr>
 </table>
 
@@ -155,6 +159,9 @@ $ tar -xzvf mahynski.archive.tar.gz
     <td width=110 align="center"><a href="https://starlingrt.readthedocs.io/en/latest/"><img src="https://github.com/mahynski/starlingrt/blob/7bbef5e033929c8d54c1142c21d5b2291bdf5444/docs/_static/logo_transparent.png" width=100 /> STARLINGrt</a></td>
     <td width=110 align="center"><a href="https://finchnmr.readthedocs.io/"><img src="https://github.com/mahynski/finchnmr/blob/48c9f21a7a816cab23b393da3e65bff61e649630/docs/_static/logo_small_oval.png" width=70 /> FINCHnmr</a></td>
     <td width=110 align="center"><a href="https://github.com/usnistgov/escherized-colloids"><img src="https://github.com/usnistgov/escherized-colloids/blob/bfcdbb7a4e613bf264d4262b7b9cc73b03ae2b04/logo.png" width=100 /> Escherized Colloids</a></td>
+    <td width=110 align="center"><a href="https://github.com/mahynski/apo"><img src="https://github.com/mahynski/mahynski/blob/51814ad1dbd92ed50f4069ea960f821031f51000/img/_tmp_apo_public_logo.png" width=60 /> Auto Prompt Optimization</a></td>
+    <td width=110 align="center"><a href="https://huggingface.co/spaces/mahynski/RAG-private"><img src="https://github.com/mahynski/mahynski/blob/dd73cf13a47e67f1f0219f96e2b682b568293a88/img/raggiana-bird-of-paradise.png" width=110 /></a> <a href="https://huggingface.co/spaces/mahynski/RAG">RAG Data Extraction</a></td>
+    <td width=110 align="center"><a href="https://github.com/mahynski/cd2"><img src="https://github.com/mahynski/mahynski/blob/35f84999f03354be6cf31c5bfbe02dea059e06fa/img/_tmp_cd2_public_logo.png" width=110 /> CD<sup>2</sup></a></td>
   </tr>   
 </table>
 
