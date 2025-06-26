@@ -8,7 +8,9 @@
 $ whoami
 ~~~
 
-I am a Principal AI Scientist at [Altamira Technologies Corporation](https://www.altamiracorp.com/); I specialize in designing, developing, and deploying computational tools to solve problems alongside subject matter experts in a wide range of disciplines.  At Altamira, I help create data-accelerated analytic, operations, and engineering solutions for partners in the intelligence, space, and defense industries. My career began [@NIST](https://www.nist.gov/) using data science, AI/ML, molecular simulations, and other advanced modeling tools to make data-driven discoveries in fields like material science, nuclear chemistry, detection of food fraud, and environmental monitoring.  My formal training includes a PhD in Chemical Engineering with a concentration in computational thermodynamics and a certificate in Computational and Information Science [@Princeton](https://www.princeton.edu/).  
+I am a Principal AI Scientist at [Altamira Technologies Corporation](https://www.altamiracorp.com/); I specialize in designing, developing, and deploying computational tools to solve problems alongside subject matter experts in a wide range of disciplines.  
+At Altamira, I help create data-accelerated analytic, operations, and engineering solutions for partners in the intelligence :satellite:, space :rocket:, and defense :boom: industries. 
+My career began [@NIST](https://www.nist.gov/) using data science, AI/ML, molecular simulations, and other advanced modeling tools to make data-driven discoveries in fields like material science, nuclear chemistry, detection of food fraud, and environmental monitoring.  My formal training includes a PhD in Chemical Engineering with a concentration in computational thermodynamics and a certificate in Computational and Information Science [@Princeton](https://www.princeton.edu/).  
 
 📃 CV available upon <a href="mailto:nathan.mahynski@gmail.com">request</a>.
 
