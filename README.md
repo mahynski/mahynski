@@ -75,31 +75,28 @@ $ quickstart
 $ cat /home/mahynski/.profile | more
 ~~~
 
-[![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/drive/my-drive)
+[![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
+[![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
 [![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](https://ubuntu.com/)
 [![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mahynski)
 [![GitFlow](https://img.shields.io/badge/GitFlow-ffffff?logo=github&style=for-the-badge&color=00ada0&logoColor=181717)](https://jeffkreeftmeijer.com/git-flow/)
 [![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)](https://docs.github.com/en/actions)
-[![Pytest](https://img.shields.io/badge/pytest-%23ffffff.svg?style=for-the-badge&logo=pytest&logoColor=2f9fe3)](https://docs.pytest.org/en/stable/)
 [![CodeCov](https://img.shields.io/badge/codecov-%23ff0077.svg?style=for-the-badge&logo=codecov&logoColor=white)](https://about.codecov.io/)
-[![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
-[![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
+[![Pytest](https://img.shields.io/badge/pytest-%23ffffff.svg?style=for-the-badge&logo=pytest&logoColor=2f9fe3)](https://docs.pytest.org/en/stable/)
 [![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)](https://fastapi.tiangolo.com/)
 [![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)](https://www.w3schools.com/c/c_intro.php)
 [![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://www.w3schools.com/cpp/default.asp)
 [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org/)
 [![PyPi](https://img.shields.io/badge/pypi-%23ececec.svg?style=for-the-badge&logo=pypi&logoColor=1f73b7)](https://pypi.org/)
 [![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://www.geeksforgeeks.org/introduction-linux-shell-shell-scripting/)
-[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/)
 [![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white)](https://cmake.org/)
 [![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)](https://www.markdownguide.org/)
 [![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)](https://www.latex-project.org/)
 [![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://us-east-2.console.aws.amazon.com/console/home?region=us-east-2)
 <a href="https://aws.amazon.com/sagemaker"><img src="https://github.com/mahynski/mahynski/blob/89529d180ce95d92fa39abf6eb364cf51cee3df2/img/SageMaker.png" alt="SageMaker" height=28 /></a>
 <a href="https://aws.amazon.com/bedrock"><img src="https://github.com/mahynski/mahynski/blob/fbf55d039dcfbc527a7e29395041a3d16ca2d210/img/bedrock-color.png" alt="Bedrock" height=28 /></a>
-[![Google Colab](https://img.shields.io/badge/Google%20Colab-%23F9A825.svg?style=for-the-badge&logo=googlecolab&logoColor=white)](https://colab.research.google.com/)
-<a href='https://console.paperspace.com/t9nl3c8mxy/projects'><img src='https://assets.paperspace.io/img/gradient-badge.svg' alt='Run on Gradient' height=27 /></a>
+[![Google Colab](https://img.shields.io/badge/Google%20Colab-%23F9A825.svg?style=for-the-badge&logo=googlecolab&logoColor=white)](https://colab.research.google.com/) <!--<a href='https://console.paperspace.com/t9nl3c8mxy/projects'><img src='https://assets.paperspace.io/img/gradient-badge.svg' alt='Run on Gradient' height=27 /></a>-->
 [![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)](https://www.anaconda.com/)
 [![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)](https://jupyter.org/)
 [![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/stable/index.html)
@@ -123,7 +120,6 @@ $ cat /home/mahynski/.profile | more
 [![Langfuse](https://img.shields.io/badge/Langfuse-ffffff?style=for-the-badge&color=ce0000)](https://us.cloud.langfuse.com/)
 <a href="https://www.crewai.com"><img src="https://github.com/crewAIInc/crewAI/raw/main/docs/images/crewai_logo.png" height=28 /></a>
 [![Brave](https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&logo=Brave&logoColor=white)](https://brave.com/search/api/)
-[![DeepChem](https://img.shields.io/badge/DeepChem-EB3F48?style=for-the-badge)](https://deepchem.io/)
 [![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org/)
 [![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)](https://scipy.org/)
 [![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
@@ -131,7 +127,10 @@ $ cat /home/mahynski/.profile | more
 [![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)](https://plotly.com/)
 [![Streamlit](https://img.shields.io/badge/Streamlit-ffffff?logo=streamlit&style=for-the-badge&color=000000&logoColor=FF4B4B)](https://share.streamlit.io/)
 <a href="https://bokeh.org/"><img src="https://static.bokeh.org/logos/logotype.svg" height=25 alt="Bokeh"/></a>
+[![DeepChem](https://img.shields.io/badge/DeepChem-EB3F48?style=for-the-badge)](https://deepchem.io/)
 [![Dracula](https://img.shields.io/badge/Dracula-Theme-ffffff?style=for-the-badge&color=723cbd)](https://draculatheme.com/)
+[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/)
+[![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/drive/my-drive)
 <a href="https://arxiv.org/"><img src="https://info.arxiv.org/brand/images/brand-logo-primary.jpg" height=28 /></a>
 <a href="https://www.mendeley.com/reference-manager/library/all-references"><img src="https://brandslogos.com/wp-content/uploads/images/large/mendeley-logo-1.png" height=28 /></a>
 <a href="https://excalidraw.com/"><img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimages.sftcdn.net%2Fimages%2Ft_app-icon-s%2Fp%2F461133ae-5ef5-4368-bd64-6a77d13788fb%2F2999859783%2Fexcalidraw-online-whiteboard-logo&f=1&nofb=1&ipt=4c4f71f787a4860832a956606221d63a8064e294f179d1104d6c6c40760c795e" height=28 /></a>
