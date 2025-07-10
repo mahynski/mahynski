@@ -110,10 +110,10 @@ $ cat /home/mahynski/.profile | more
 <a href="https://huggingface.co/mahynski"><img src="https://huggingface.co/datasets/huggingface/badges/resolve/main/powered-by-huggingface-dark.svg" alt="HuggingFace" height=30 /></a>
 <a href="https://auto.gluon.ai/stable/index.html"><img src="https://auto.gluon.ai/stable/_static/autogluon-w.png" alt="AutoGluon" height=30 /></a>
 [![OpenAI](https://img.shields.io/badge/OpenAI-ffffff?logo=openai&style=for-the-badge&color=ffffff&logoColor=412991)](https://platform.openai.com/apps)
-<a href="https://console.groq.com/home"><img src="https://groq.com/wp-content/uploads/2024/03/PBG-mark1-color.svg" alt="Powered by Groq for fast inference." height=30 /></a>
+<a href="https://console.groq.com/home"><img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.ciscoinvestments.com%2Fassets%2Flogos%2Fgroq-logo.png&f=1&nofb=1&ipt=a956043982e689b8956a9ace0bc29dc9559e77bb7f872f08da53f7802180638f" alt="Powered by Groq for fast inference." height=30 /></a>
 <a href="https://lmstudio.ai/"><img src="https://avatars.githubusercontent.com/u/133744619?s=200&v=4" height=28 /></a>
 <a href="https://ollama.com/"><img src="https://github.com/ollama/ollama/assets/3325447/0d0b44e2-8f4a-4e99-9b52-a5c1c741c8f7" height=28 /></a>
-<a href="https://www.trychroma.com/"><img src="https://ai-infrastructure.org/wp-content/uploads/2023/08/ChromaDB-Logo.png" height=28 /></a>
+<a href="https://www.trychroma.com/"><img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%2Fid%2FOIP.Djc9EYMV8F3bZ-MxeG09cwHaCn%3Fpid%3DApi&f=1&ipt=09bb03ada3eb42cda6bc718a3b2537928dee77c748df99745c02286d92462786" height=28 /></a>
 [![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com)
 [![LlamaIndex](https://img.shields.io/badge/Llama%20Index-ffffff?style=for-the-badge&color=000000)](https://docs.llamaindex.ai/en/stable/)
 [![LlamaParse](https://img.shields.io/badge/llama%20parse-ffa5ea?style=for-the-badge)](https://cloud.llamaindex.ai/)
@@ -134,7 +134,7 @@ $ cat /home/mahynski/.profile | more
 [![Dracula](https://img.shields.io/badge/Dracula-Theme-ffffff?style=for-the-badge&color=723cbd)](https://draculatheme.com/)
 <a href="https://arxiv.org/"><img src="https://info.arxiv.org/brand/images/brand-logo-primary.jpg" height=28 /></a>
 <a href="https://www.mendeley.com/reference-manager/library/all-references"><img src="https://brandslogos.com/wp-content/uploads/images/large/mendeley-logo-1.png" height=28 /></a>
-<a href="https://excalidraw.com/"><img src="https://th.bing.com/th/id/OIP.9HNQxIRe-LS0EVmTRhy6SgHaHa?rs=1&pid=ImgDetMain" height=28 /></a>
+<a href="https://excalidraw.com/"><img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimages.sftcdn.net%2Fimages%2Ft_app-icon-s%2Fp%2F461133ae-5ef5-4368-bd64-6a77d13788fb%2F2999859783%2Fexcalidraw-online-whiteboard-logo&f=1&nofb=1&ipt=4c4f71f787a4860832a956606221d63a8064e294f179d1104d6c6c40760c795e" height=28 /></a>
 <a href="https://music.apple.com/us/new"><img src="https://cdn.pnggallery.com/wp-content/uploads/apple-music-logo-05.png" height=28 /></a>
 
 <!--
