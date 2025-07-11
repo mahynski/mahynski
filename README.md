@@ -126,7 +126,7 @@ $ cat /home/mahynski/.profile | more
 [![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)](https://matplotlib.org/)
 [![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)](https://plotly.com/)
 [![Streamlit](https://img.shields.io/badge/Streamlit-ffffff?logo=streamlit&style=for-the-badge&color=000000&logoColor=FF4B4B)](https://share.streamlit.io/)
-<a href="https://bokeh.org/"><img src="https://static.bokeh.org/logos/logotype.svg" height=25 alt="Bokeh"/></a>
+<a href="https://bokeh.org/"<img src="https://th.bing.com/th/id/R.ff248ef1d4db342d69541ed36aeddb7e?rik=1eXwiFOYim2V6A&riu=http%3a%2f%2fstatic.bokeh.org%2fog%2flogotype-on-hex.png&ehk=aWo198xX1ocrjdx%2fr6Tq37pHWZx%2fs3s9NvIXLiUSY7M%3d&risl=&pid=ImgRaw&r=0" height=25 /></a>
 [![DeepChem](https://img.shields.io/badge/DeepChem-EB3F48?style=for-the-badge)](https://deepchem.io/)
 [![Dracula](https://img.shields.io/badge/Dracula-Theme-ffffff?style=for-the-badge&color=723cbd)](https://draculatheme.com/)
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/)
