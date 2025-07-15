@@ -5,6 +5,13 @@
 ## A Brief Bio
 
 ~~~bash
+$ tl;dr
+~~~
+
+* 10 years of experience developing AI/ML/data science tools and algorithms including physics encoded models (e.g., physics-informed neural networks), signal-based outlier detection, and generative AI tools for threat and fraud detection.
+* Group Leader at Chemical Informatics Group, National Institute of Standards and Technology, 2015 – 2025 with 15 years of experience designing and building numerical algorithms for applications such as molecular dynamics and other physics-based simulations.
+
+~~~bash
 $ whoami
 ~~~
 
