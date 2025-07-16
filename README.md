@@ -128,6 +128,8 @@ $ cat /home/mahynski/.profile | more
 [![Langfuse](https://img.shields.io/badge/Langfuse-ffffff?style=for-the-badge&color=ce0000)](https://us.cloud.langfuse.com/)
 <a href="https://www.crewai.com"><img src="https://github.com/crewAIInc/crewAI/raw/main/docs/images/crewai_logo.png" height=28 /></a>
 [![Brave](https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&logo=Brave&logoColor=white)](https://brave.com/search/api/)
+<a href="https://serper.dev/login"><img src="https://github.com/user-attachments/assets/e342ac16-05c0-4723-8997-b58d97147ee7" height=28 /></a>
+<a href="https://app.linkup.so/sign-in?destination=%2Fhome"><img src="https://github.com/user-attachments/assets/77c6cbdc-6ea9-479c-9e56-7c8ec9b5968b" height=28 /></a>
 [![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org/)
 [![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)](https://scipy.org/)
 [![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
