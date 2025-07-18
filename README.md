@@ -36,8 +36,8 @@ As you can see, I tend to name code after birds 🐦; personal code that I can s
 
 <table cellpadding="0px" cellspacing="0px" class="center">   
   <tr class="">
-    <td width=110 align="center"><a href="https://github.com/mahynski/uv-project-template"><img src="https://github.com/mahynski/project-template/blob/22d2fc9b39172e8dd6534e72bbc9b407c46fd37d/logo.png" width=85 /> Project Template</a></td>
-    <td width=110 align="center"><a href="https://github.com/mahynski/public-template"><img src="https://github.com/mahynski/public-template/blob/5bcbdc0fd86db295cde89b39304118cac14b07c7/logo.png" width=80 /> Project Release</a></td>
+    <td width=110 align="center"><a href="https://github.com/mahynski/uv-project-template"><img src="https://github.com/mahynski/template-project/blob/22d2fc9b39172e8dd6534e72bbc9b407c46fd37d/logo.png" width=85 /> Project Template</a></td>
+    <td width=110 align="center"><a href="https://github.com/mahynski/public-template"><img src="https://github.com/mahynski/template-public/blob/5bcbdc0fd86db295cde89b39304118cac14b07c7/logo.png" width=80 /> Project Release</a></td>
     <td width=110 align="center"><a href="https://github.com/mahynski/my_package"><img src="https://github.com/mahynski/my_package/blob/fe173222dea5d9f1609948e9e2cdcec6475f2468/docs/_static/logo_transparent.png" width=85 /> PyPI Template</a></td>
     <td width=110 align="center"><a href="https://github.com/mahynski/latex-jam"><img src="https://github.com/mahynski/latex-jam/blob/78b4bad272b18ac69ae74560041f7bfb0184fc0e/logo.png" width=80 /> LaTeX-Jam</a>
     <td width=110 align="center"><a href="https://github.com/mahynski/ai-ml-library/blob/main/README.md"><img src="https://github.com/mahynski/mahynski/blob/aec8b5cd8cef3a8279e7f86db96fb1370e86fc19/img/_tmp_ai_ml_library_logo.png" width=80 /> AI/ML Library</a>
@@ -64,13 +64,13 @@ $ quickstart
 <table cellpadding="0px" cellspacing="0px" class="center">   
   <tr class="">
     <td width=120 align="center"><a href="https://github.com/mahynski/ai-ml-library/blob/main/README.md"><img src="https://github.com/mahynski/mahynski/blob/aec8b5cd8cef3a8279e7f86db96fb1370e86fc19/img/_tmp_ai_ml_library_logo.png" width=80 /> AI/ML Library</a>
-    <td width=120 align="center"><a href="https://github.com/mahynski/uv-project-template"><img src="https://github.com/mahynski/project-template/blob/22d2fc9b39172e8dd6534e72bbc9b407c46fd37d/logo.png" width=85 /> Project Template</a></td>
-    <td width=120 align="center"><a href="https://github.com/mahynski/uv-agents-template"><img src="https://github.com/crewAIInc/crewAI/raw/main/docs/images/crewai_logo.png" width=120 /> Agents</a></td>
-    <td width=120 align="center"><a href="https://github.com/mahynski/pinn-template"><img src="https://github.com/mahynski/mahynski/blob/235c75f41ec4aee81cee49bca1c160ee2d35fe1c/img/_tmp_pinn_logo.png" width=70 /> PINNs</a></td>
-    <td width=120 align="center"><a href="https://github.com/mahynski/gis-template"><img src="https://github.com/mahynski/mahynski/blob/2aca22507699b86cb8cb7b0864ed31d630e38493/img/_tmp_gis_logo.png" width=120 /> Deep GIS</a></td>
+    <td width=120 align="center"><a href="https://github.com/mahynski/template-uv-project"><img src="https://github.com/mahynski/template-project/blob/22d2fc9b39172e8dd6534e72bbc9b407c46fd37d/logo.png" width=85 /> Project Template</a></td>
+    <td width=120 align="center"><a href="https://github.com/mahynski/template-uv-agents"><img src="https://github.com/crewAIInc/crewAI/raw/main/docs/images/crewai_logo.png" width=120 /> Agents</a></td>
+    <td width=120 align="center"><a href="https://github.com/mahynski/template-pinn"><img src="https://github.com/mahynski/mahynski/blob/235c75f41ec4aee81cee49bca1c160ee2d35fe1c/img/_tmp_pinn_logo.png" width=70 /> PINNs</a></td>
+    <td width=120 align="center"><a href="https://github.com/mahynski/template-gis"><img src="https://github.com/mahynski/mahynski/blob/2aca22507699b86cb8cb7b0864ed31d630e38493/img/_tmp_gis_logo.png" width=120 /> Deep GIS</a></td>
     <td width=250 align="center">
       <a href="https://huggingface.co/mahynski"><img src="https://huggingface.co/datasets/huggingface/badges/resolve/main/powered-by-huggingface-dark.svg" width=180 /> </a>
-      <a href="https://github.com/mahynski/autotrain-template"><img src="https://raw.githubusercontent.com/huggingface/autotrain-advanced/main/src/autotrain/app/static/logo.png" width=250 /> Foundation Models</a>
+      <a href="https://github.com/mahynski/template-autotrain"><img src="https://raw.githubusercontent.com/huggingface/autotrain-advanced/main/src/autotrain/app/static/logo.png" width=250 /> Foundation Models</a>
     </td>
     <!-- <td width=150 align="center">
       <a href="https://colab.research.google.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Google_Colaboratory_SVG_Logo.svg/800px-Google_Colaboratory_SVG_Logo.svg.png" width=90 /> </a>
