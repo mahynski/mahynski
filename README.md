@@ -8,18 +8,18 @@
 $ tl;dr
 ~~~
 
-* 15 years total experience developing AI/ML/data science tools and computer simulations including physics encoded models (e.g., physics-informed neural networks), signal-based outlier detection, and generative AI tools for threat and fraud detection.
-* NIST | 2015 – 2025, Group Leader at Chemical Informatics Group, 10 years of experience designing numerical algorithms for applications in soft matter physics and thermodynamics.
-* Princeton Univ. | 2010 - 2015, Ph.D., M.A. Chem. Engineering
+* 🕙 15 years total experience developing AI/ML/data science tools and computer simulations including physics encoded models (e.g., physics-informed neural networks), signal-based outlier detection, and generative AI tools for threat and fraud detection.
+* 📏 NIST | 2015 – 2025, Group Leader at Chemical Informatics Group, 10 years of experience designing numerical algorithms for applications in soft matter physics and thermodynamics.
+* 🐅 Princeton Univ. | 2010 - 2015, Ph.D., M.A. Chem. Engineering
 
 ~~~bash
 $ whoami
 ~~~
 
 I am a Principal AI Scientist at [Altamira Technologies Corporation](https://www.altamiracorp.com/); I specialize in designing, developing, and deploying computational tools to solve problems alongside subject matter experts in a wide range of disciplines. At Altamira, I help create data-accelerated analytic, operations, and engineering solutions for partners in the 
-* intelligence :satellite:,
-* space :rocket:, and
-* defense :boom: industries.
+* :satellite: intelligence,
+* :rocket: space, and
+* :boom: defense industries.
 
 My career began [@NIST](https://www.nist.gov/) using data science, AI/ML, molecular simulations, and other advanced modeling tools to make data-driven discoveries in fields like material science, nuclear chemistry, detection of food fraud, and environmental monitoring. These topics are described in more detail below. My formal training includes a Ph.D. in Chemical Engineering with a concentration in computational thermodynamics and a certificate in Computational and Information Science [@Princeton](https://www.princeton.edu/).  
 
