@@ -10,7 +10,7 @@ $ tl;dr
 
 * 🕙 15 years total experience developing AI/ML/data science tools and computer simulations including physics encoded models (e.g., physics-informed neural networks), signal-based outlier detection, and generative AI tools for threat and fraud detection.
 * 📏 NIST | 2015 – 2025, Group Leader at Chemical Informatics Group, 10 years of experience designing numerical algorithms for applications in soft matter physics and thermodynamics.
-* 🐅 Princeton Univ. | 2010 - 2015, Ph.D., M.A. Chem. Engineering, Computational & Information Science
+* 🐅 Princeton Univ. | 2010 - 2015, Ph.D. & M.A. Chem. Engineering, Computational & Information Science
 
 ~~~bash
 $ whoami
