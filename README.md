@@ -66,7 +66,7 @@ $ quickstart
   <tr class="">
     <td width=120 align="center"><a href="https://github.com/mahynski/ai-ml-library/blob/main/README.md"><img src="https://github.com/mahynski/mahynski/blob/aec8b5cd8cef3a8279e7f86db96fb1370e86fc19/img/_tmp_ai_ml_library_logo.png" width=80 /> AI/ML Library</a>
     <td width=120 align="center"><a href="https://github.com/mahynski/template-uv-project"><img src="https://github.com/mahynski/mahynski/blob/85e65f3b2523d9f8041fd6e0c75370bcc4f1e179/img/_tmp_projects_logo.png" width=85 /> Project Template</a></td>
-    <td width=120 align="center"><a href="https://github.com/mahynski/template-uv-agents"><img src="https://github.com/crewAIInc/crewAI/raw/main/docs/images/crewai_logo.png" width=120 /> Agents</a></td>
+    <td width=120 align="center"><a href="https://github.com/mahynski/template-uv-agents"><img src="https://github.com/mahynski/mahynski/blob/143f0e96c52eb7e26dee1d3b015fa89d892e1e2e/img/_tmp_agenticai_logo.png" width=120 /> Agents</a></td>
     <td width=120 align="center"><a href="https://github.com/mahynski/template-pinn"><img src="https://github.com/mahynski/mahynski/blob/235c75f41ec4aee81cee49bca1c160ee2d35fe1c/img/_tmp_pinn_logo.png" width=70 /> PINNs</a></td>
     <td width=120 align="center"><a href="https://github.com/mahynski/template-gis"><img src="https://github.com/mahynski/mahynski/blob/2aca22507699b86cb8cb7b0864ed31d630e38493/img/_tmp_gis_logo.png" width=120 /> Deep GIS</a></td>
     <td width=250 align="center">
