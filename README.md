@@ -144,7 +144,6 @@ $ cat /home/mahynski/.profile | more
 <a href="https://bokeh.org/"><img src="https://th.bing.com/th/id/R.ff248ef1d4db342d69541ed36aeddb7e?rik=1eXwiFOYim2V6A&riu=http%3a%2f%2fstatic.bokeh.org%2fog%2flogotype-on-hex.png&ehk=aWo198xX1ocrjdx%2fr6Tq37pHWZx%2fs3s9NvIXLiUSY7M%3d&risl=&pid=ImgRaw&r=0" height=28 /></a>
 [![DeepChem](https://img.shields.io/badge/DeepChem-EB3F48?style=for-the-badge)](https://deepchem.io/)
 [![Dracula](https://img.shields.io/badge/Dracula-Theme-ffffff?style=for-the-badge&color=723cbd)](https://draculatheme.com/)
-[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/)
 [![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/drive/my-drive)
 <a href="https://arxiv.org/"><img src="https://info.arxiv.org/brand/images/brand-logo-primary.jpg" height=28 /></a>
 <a href="https://www.mendeley.com/reference-manager/library/all-references"><img src="https://brandslogos.com/wp-content/uploads/images/large/mendeley-logo-1.png" height=28 /></a>
@@ -153,6 +152,7 @@ $ cat /home/mahynski/.profile | more
 
 <!--
 <a href="https://dev.to/?signin=true"><img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="DEV Profile" height="30" width="30"></a>
+[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nathanmahynski/)
 [![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)](https://slack.com/)
 [![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)](https://www.blender.org/)
