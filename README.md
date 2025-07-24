@@ -65,7 +65,8 @@ $ quickstart
 <table cellpadding="0px" cellspacing="0px" class="center">   
   <tr class="">
     <td width=120 align="center"><a href="https://github.com/mahynski/ai-ml-library/blob/main/README.md"><img src="https://github.com/mahynski/mahynski/blob/aec8b5cd8cef3a8279e7f86db96fb1370e86fc19/img/_tmp_ai_ml_library_logo.png" width=80 /> AI/ML Library</a>
-    <td width=120 align="center"><a href="https://github.com/mahynski/template-uv-project"><img src="https://github.com/mahynski/mahynski/blob/a11fb4eac8e676173fb9b3c190208ce2a8724eb6/img/_tmp_projects_logo_uv.png" width=85 /> Project Template</a></td>
+    <td width=120 align="center"><a href="https://github.com/mahynski/template-uv-project"><img src="https://github.com/mahynski/mahynski/blob/a11fb4eac8e676173fb9b3c190208ce2a8724eb6/img/_tmp_projects_logo_uv.png" width=85 /> Project Template (UV)</a></td>
+    <td width=120 align="center"><a href="https://github.com/mahynski/template-uv-project"><img src="https://github.com/mahynski/mahynski/blob/a11fb4eac8e676173fb9b3c190208ce2a8724eb6/img/_tmp_projects_logo_uv.png" width=85 /> Project Template (Conda)</a></td>
     <td width=120 align="center"><a href="https://github.com/mahynski/template-uv-agents"><img src="https://github.com/mahynski/mahynski/blob/0d0972c793b28f2fd2091f1ac9dd5b8d9d57cabb/img/_tmp_agenticai_logo.png" width=120 /> Agentic AI</a></td>
     <td width=240 align="center">
       <a href="https://huggingface.co/mahynski"><img src="https://huggingface.co/datasets/huggingface/badges/resolve/main/powered-by-huggingface-dark.svg" width=180 /> </a>
