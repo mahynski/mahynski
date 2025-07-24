@@ -107,6 +107,7 @@ $ cat /home/mahynski/.profile | more
 <a href="https://aws.amazon.com/sagemaker"><img src="https://github.com/mahynski/mahynski/blob/89529d180ce95d92fa39abf6eb364cf51cee3df2/img/SageMaker.png" alt="SageMaker" height=28 /></a>
 <a href="https://aws.amazon.com/bedrock"><img src="https://github.com/mahynski/mahynski/blob/fbf55d039dcfbc527a7e29395041a3d16ca2d210/img/bedrock-color.png" alt="Bedrock" height=28 /></a>
 [![Google Colab](https://img.shields.io/badge/Google%20Colab-%23F9A825.svg?style=for-the-badge&logo=googlecolab&logoColor=white)](https://colab.research.google.com/) <!--<a href='https://console.paperspace.com/t9nl3c8mxy/projects'><img src='https://assets.paperspace.io/img/gradient-badge.svg' alt='Run on Gradient' height=27 /></a>-->
+<a href="https://docs.astral.sh/uv/"><img src="https://miro.medium.com/v2/resize:fit:1358/1*eSnM1h_RX2tgE10fyE3w4Q.png" height=28 /></a>
 [![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)](https://www.anaconda.com/)
 [![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)](https://jupyter.org/)
 [![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/stable/index.html)
@@ -148,7 +149,6 @@ $ cat /home/mahynski/.profile | more
 <a href="https://excalidraw.com/"><img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimages.sftcdn.net%2Fimages%2Ft_app-icon-s%2Fp%2F461133ae-5ef5-4368-bd64-6a77d13788fb%2F2999859783%2Fexcalidraw-online-whiteboard-logo&f=1&nofb=1&ipt=4c4f71f787a4860832a956606221d63a8064e294f179d1104d6c6c40760c795e" height=28 /></a>
 <a href="https://music.apple.com/us/new"><img src="https://cdn.pnggallery.com/wp-content/uploads/apple-music-logo-05.png" height=28 /></a>
 
-<a href="https://docs.astral.sh/uv/"><img src="https://miro.medium.com/v2/resize:fit:1358/1*eSnM1h_RX2tgE10fyE3w4Q.png" height=28 /></a>
 <!--
 <a href="https://dev.to/?signin=true"><img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="DEV Profile" height="30" width="30"></a>
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nathanmahynski/)
