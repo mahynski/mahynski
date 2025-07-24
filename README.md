@@ -116,6 +116,7 @@ $ cat /home/mahynski/.profile | more
 [![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)](https://pytorch.org/)
 <a href="https://lightning.ai/docs/pytorch/stable/"><img src="https://camo.githubusercontent.com/93ac31ef9326af1877666811854be95ddf521f2bb846671b4d439cf09925a004/68747470733a2f2f706c2d626f6c74732d646f632d696d616765732e73332e75732d656173742d322e616d617a6f6e6177732e636f6d2f6170702d322f70746c5f62616e6e65722e706e67" height=28 /></a>
 <a href="https://huggingface.co/mahynski"><img src="https://huggingface.co/datasets/huggingface/badges/resolve/main/powered-by-huggingface-dark.svg" alt="HuggingFace" height=28 /></a>
+<a href="https://unsloth.ai"><img src="https://debuggercafe.com/wp-content/uploads/2024/12/unsloth-logo-1.png" height=28 /></a>
 <a href="https://auto.gluon.ai/stable/index.html"><img src="https://auto.gluon.ai/stable/_static/autogluon-w.png" alt="AutoGluon" height=28 /></a>
 [![OpenAI](https://img.shields.io/badge/OpenAI-ffffff?logo=openai&style=for-the-badge&color=ffffff&logoColor=412991)](https://platform.openai.com/apps)
 <a href="https://console.groq.com/home"><img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.ciscoinvestments.com%2Fassets%2Flogos%2Fgroq-logo.png&f=1&nofb=1&ipt=a956043982e689b8956a9ace0bc29dc9559e77bb7f872f08da53f7802180638f" alt="Powered by Groq for fast inference." height=28 /></a>
