@@ -67,12 +67,12 @@ $ quickstart
     <td width=120 align="center"><a href="https://github.com/mahynski/ai-ml-library/blob/main/README.md"><img src="https://github.com/mahynski/mahynski/blob/aec8b5cd8cef3a8279e7f86db96fb1370e86fc19/img/_tmp_ai_ml_library_logo.png" width=80 /> AI/ML Library</a>
     <td width=120 align="center"><a href="https://github.com/mahynski/template-uv-project"><img src="https://github.com/mahynski/mahynski/blob/85e65f3b2523d9f8041fd6e0c75370bcc4f1e179/img/_tmp_projects_logo.png" width=85 /> Project Template</a></td>
     <td width=120 align="center"><a href="https://github.com/mahynski/template-uv-agents"><img src="https://github.com/mahynski/mahynski/blob/0d0972c793b28f2fd2091f1ac9dd5b8d9d57cabb/img/_tmp_agenticai_logo.png" width=120 /> Agentic AI</a></td>
-    <td width=120 align="center"><a href="https://github.com/mahynski/template-pinn"><img src="https://github.com/mahynski/mahynski/blob/235c75f41ec4aee81cee49bca1c160ee2d35fe1c/img/_tmp_pinn_logo.png" width=70 /> PINNs</a></td>
-    <td width=120 align="center"><a href="https://github.com/mahynski/template-gis"><img src="https://github.com/mahynski/mahynski/blob/2aca22507699b86cb8cb7b0864ed31d630e38493/img/_tmp_gis_logo.png" width=120 /> Deep GIS</a></td>
     <td width=250 align="center">
       <a href="https://huggingface.co/mahynski"><img src="https://huggingface.co/datasets/huggingface/badges/resolve/main/powered-by-huggingface-dark.svg" width=180 /> </a>
       <a href="https://github.com/mahynski/template-autotrain"><img src="https://raw.githubusercontent.com/huggingface/autotrain-advanced/main/src/autotrain/app/static/logo.png" width=250 /> Foundation Models</a>
     </td>
+    <td width=120 align="center"><a href="https://github.com/mahynski/template-pinn"><img src="https://github.com/mahynski/mahynski/blob/235c75f41ec4aee81cee49bca1c160ee2d35fe1c/img/_tmp_pinn_logo.png" width=70 /> PINNs</a></td>
+    <td width=120 align="center"><a href="https://github.com/mahynski/template-gis"><img src="https://github.com/mahynski/mahynski/blob/2aca22507699b86cb8cb7b0864ed31d630e38493/img/_tmp_gis_logo.png" width=120 /> Deep GIS</a></td>
     <!-- <td width=150 align="center">
       <a href="https://colab.research.google.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Google_Colaboratory_SVG_Logo.svg/800px-Google_Colaboratory_SVG_Logo.svg.png" width=90 /> </a>
       <a href="https://drive.google.com/drive/my-drive"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Google_Drive_logo.png/600px-Google_Drive_logo.png?20220818055023" width=45 /> </a>
