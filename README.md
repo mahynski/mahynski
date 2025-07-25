@@ -67,7 +67,7 @@ $ quickstart
     <td width=120 align="center"><a href="https://github.com/mahynski/ai-ml-library/blob/main/README.md"><img src="https://github.com/mahynski/mahynski/blob/aec8b5cd8cef3a8279e7f86db96fb1370e86fc19/img/_tmp_ai_ml_library_logo.png" width=80 /> AI/ML Library</a>
     <td width=120 align="center"><a href="https://github.com/mahynski/template-uv-project"><img src="https://github.com/mahynski/mahynski/blob/a11fb4eac8e676173fb9b3c190208ce2a8724eb6/img/_tmp_projects_logo_uv.png" width=85 /> UV Template</a></td>
     <td width=120 align="center"><a href="https://github.com/mahynski/template-conda-project"><img src="https://github.com/mahynski/mahynski/blob/ba436bf1fe00ca3cbd32b660da94ab77effa3707/img/_tmp_projects_logo_conda.png" width=85 /> Conda Template</a></td>
-    <td width=120 align="center"><a href="https://github.com/mahynski/template-uv-agents"><img src="https://github.com/mahynski/mahynski/blob/81332290796fb2cc6bea3aae1ac16703c6771522/img/_tmp_agenticai_logo.png" width=85 /> Agentic AI</a></td>
+    <td width=120 align="center"><a href="https://github.com/mahynski/template-uv-agents"><img src="https://github.com/mahynski/mahynski/blob/e65a16410bcd63e6a5b8c282cb71b06670208896/img/_tmp_agenticai_logo.png" width=85 /> Agentic AI</a></td>
     <td width=240 align="center">
       <a href="https://huggingface.co/mahynski"><img src="https://huggingface.co/datasets/huggingface/badges/resolve/main/powered-by-huggingface-dark.svg" width=180 /> </a>
       <a href="https://github.com/mahynski/template-autotrain"><img src="https://raw.githubusercontent.com/huggingface/autotrain-advanced/main/src/autotrain/app/static/logo.png" width=250 /> Foundation Models</a>
