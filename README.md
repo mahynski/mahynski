@@ -72,7 +72,7 @@ $ quickstart
       <a href="https://huggingface.co/mahynski"><img src="https://huggingface.co/datasets/huggingface/badges/resolve/main/powered-by-huggingface-dark.svg" width=180 /> </a>
       <a href="https://github.com/mahynski/template-autotrain"><img src="https://raw.githubusercontent.com/huggingface/autotrain-advanced/main/src/autotrain/app/static/logo.png" width=250 /> Foundation Models</a>
     </td>
-    <td width=120 align="center"><a href=""><img src="https://github.com/mahynski/mahynski/blob/44915d15d89f77835c578403d0f24369473198a8/img/_tmp_automl_logo.png" width=120 /> AutoML</a></td>
+    <td width=120 align="center"><a href=""><img src="https://github.com/mahynski/mahynski/blob/e0d787454184710db164566dd779a79667d468d2/img/_tmp_automl_logo.png" width=120 /> AutoML</a></td>
     <td width=120 align="center"><a href="https://github.com/mahynski/template-pinn"><img src="https://github.com/mahynski/mahynski/blob/235c75f41ec4aee81cee49bca1c160ee2d35fe1c/img/_tmp_pinn_logo.png" width=70 /> PINNs</a></td>
     <td width=120 align="center"><a href="https://github.com/mahynski/template-gis"><img src="https://github.com/mahynski/mahynski/blob/2aca22507699b86cb8cb7b0864ed31d630e38493/img/_tmp_gis_logo.png" width=120 /> Deep-GIS</a></td>
     <!-- <td width=150 align="center">
