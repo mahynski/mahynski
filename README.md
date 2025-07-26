@@ -63,7 +63,7 @@ $ quickstart
 -->
 
 <table cellpadding="0px" cellspacing="0px" class="center">   
-  <col style="width: 12%;" />
+  <col style="width: 12%; align: center" />
   <col style="width: 12%;" />
   <col style="width: 12%;" />
   <col style="width: 12%;" />
