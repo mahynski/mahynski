@@ -63,14 +63,6 @@ $ quickstart
 -->
 
 <table cellpadding="0px" cellspacing="0px" class="center">   
-  <col style="width: 12%; align: center" />
-  <col style="width: 12%;" />
-  <col style="width: 12%;" />
-  <col style="width: 12%;" />
-  <col style="width: 12%;" />
-  <col style="width: 12%;" />
-  <col style="width: 12%;" />
-  <col style="width: 12%;" />
   <tr class="">
     <td align="center" width="12%"><a href="https://github.com/mahynski/ai-ml-library/blob/main/README.md"><img src="https://github.com/mahynski/mahynski/blob/aec8b5cd8cef3a8279e7f86db96fb1370e86fc19/img/_tmp_ai_ml_library_logo.png" width=80 /> AI/ML Library</a></td>
     <td align="center" width="12%"><a href="https://github.com/mahynski/template-uv-project"><img src="https://github.com/mahynski/mahynski/blob/a11fb4eac8e676173fb9b3c190208ce2a8724eb6/img/_tmp_projects_logo_uv.png" width=85 /> UV Template</a></td>
