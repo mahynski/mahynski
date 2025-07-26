@@ -72,14 +72,14 @@ $ quickstart
   <col style="width: 12%;" />
   <col style="width: 12%;" />
   <tr class="">
-    <td width=120 align="center"><a href="https://github.com/mahynski/ai-ml-library/blob/main/README.md"><img src="https://github.com/mahynski/mahynski/blob/aec8b5cd8cef3a8279e7f86db96fb1370e86fc19/img/_tmp_ai_ml_library_logo.png" width=80 /> AI/ML Library</a>
-    <td width=120 align="center"><a href="https://github.com/mahynski/template-uv-project"><img src="https://github.com/mahynski/mahynski/blob/a11fb4eac8e676173fb9b3c190208ce2a8724eb6/img/_tmp_projects_logo_uv.png" width=85 /> UV Template</a></td>
-    <td width=120 align="center"><a href="https://github.com/mahynski/template-conda-project"><img src="https://github.com/mahynski/mahynski/blob/ba436bf1fe00ca3cbd32b660da94ab77effa3707/img/_tmp_projects_logo_conda.png" width=85 /> Conda Template</a></td>
-    <td width=120 align="center"><a href="https://github.com/mahynski/template-uv-agents"><img src="https://github.com/mahynski/mahynski/blob/de99e92ea74abb6f084d52e5073e7968181da4d7/img/_tmp_agenticai_logo.png" width=85 /> Agentic AI</a></td>
-    <td width=120 align="center"><a href="https://github.com/mahynski/template-finetuning"><img src="https://github.com/mahynski/mahynski/blob/5f60a979abdb29c1314549066b7c520ca05c042f/img/_tmp_autotrain_logo.png" width=85 /> Finetuning</a></td>
-    <td width=120 align="center"><a href="https://github.com/mahynski/template-automl"><img src="https://github.com/mahynski/mahynski/blob/e0d787454184710db164566dd779a79667d468d2/img/_tmp_automl_logo.png" width=85 /> AutoML</a></td>
-    <td width=120 align="center"><a href="https://github.com/mahynski/template-pinn"><img src="https://github.com/mahynski/mahynski/blob/235c75f41ec4aee81cee49bca1c160ee2d35fe1c/img/_tmp_pinn_logo.png" width=70 /> PINNs</a></td>
-    <td width=120 align="center"><a href="https://github.com/mahynski/template-gis"><img src="https://github.com/mahynski/mahynski/blob/2aca22507699b86cb8cb7b0864ed31d630e38493/img/_tmp_gis_logo.png" width=120 /> Deep-GIS</a></td>
+    <td align="center"><a href="https://github.com/mahynski/ai-ml-library/blob/main/README.md"><img src="https://github.com/mahynski/mahynski/blob/aec8b5cd8cef3a8279e7f86db96fb1370e86fc19/img/_tmp_ai_ml_library_logo.png" width=80 /> AI/ML Library</a>
+    <td align="center"><a href="https://github.com/mahynski/template-uv-project"><img src="https://github.com/mahynski/mahynski/blob/a11fb4eac8e676173fb9b3c190208ce2a8724eb6/img/_tmp_projects_logo_uv.png" width=85 /> UV Template</a></td>
+    <td align="center"><a href="https://github.com/mahynski/template-conda-project"><img src="https://github.com/mahynski/mahynski/blob/ba436bf1fe00ca3cbd32b660da94ab77effa3707/img/_tmp_projects_logo_conda.png" width=85 /> Conda Template</a></td>
+    <td align="center"><a href="https://github.com/mahynski/template-uv-agents"><img src="https://github.com/mahynski/mahynski/blob/de99e92ea74abb6f084d52e5073e7968181da4d7/img/_tmp_agenticai_logo.png" width=85 /> Agentic AI</a></td>
+    <td align="center"><a href="https://github.com/mahynski/template-finetuning"><img src="https://github.com/mahynski/mahynski/blob/5f60a979abdb29c1314549066b7c520ca05c042f/img/_tmp_autotrain_logo.png" width=85 /> Finetuning</a></td>
+    <td align="center"><a href="https://github.com/mahynski/template-automl"><img src="https://github.com/mahynski/mahynski/blob/e0d787454184710db164566dd779a79667d468d2/img/_tmp_automl_logo.png" width=85 /> AutoML</a></td>
+    <td align="center"><a href="https://github.com/mahynski/template-pinn"><img src="https://github.com/mahynski/mahynski/blob/235c75f41ec4aee81cee49bca1c160ee2d35fe1c/img/_tmp_pinn_logo.png" width=70 /> PINNs</a></td>
+    <td align="center"><a href="https://github.com/mahynski/template-gis"><img src="https://github.com/mahynski/mahynski/blob/2aca22507699b86cb8cb7b0864ed31d630e38493/img/_tmp_gis_logo.png" width=120 /> Deep-GIS</a></td>
     <!-- <td width=150 align="center">
       <a href="https://colab.research.google.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Google_Colaboratory_SVG_Logo.svg/800px-Google_Colaboratory_SVG_Logo.svg.png" width=90 /> </a>
       <a href="https://drive.google.com/drive/my-drive"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Google_Drive_logo.png/600px-Google_Drive_logo.png?20220818055023" width=45 /> </a>
