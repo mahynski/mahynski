@@ -69,7 +69,7 @@ $ quickstart
     <td align="center" width="12%"><a href="https://github.com/mahynski/template-conda-project"><img src="https://github.com/mahynski/mahynski/blob/ba436bf1fe00ca3cbd32b660da94ab77effa3707/img/_tmp_projects_logo_conda.png" width=85 /> Conda Template</a></td>
     <td align="center" width="12%"><a href="https://github.com/mahynski/template-uv-agents"><img src="https://github.com/mahynski/mahynski/blob/de99e92ea74abb6f084d52e5073e7968181da4d7/img/_tmp_agenticai_logo.png" width=85 /> Agentic AI</a></td>
     <td align="center" width="12%"><a href="https://github.com/mahynski/template-finetuning"><img src="https://github.com/mahynski/mahynski/blob/5f60a979abdb29c1314549066b7c520ca05c042f/img/_tmp_autotrain_logo.png" width=85 /> Finetuning</a></td>
-    <td align="center" width="12%"><a href="https://github.com/mahynski/template-automl"><img src="https://github.com/mahynski/mahynski/blob/e0d787454184710db164566dd779a79667d468d2/img/_tmp_automl_logo.png" width=85 /> AutoML</a></td>
+    <td align="center" width="12%"><a href="https://github.com/mahynski/template-automl"><img src="https://github.com/mahynski/mahynski/blob/32ad841baa7c7b75eab1b11cf9a756d6cfd82446/img/_tmp_automl_logo.png" width=85 /> AutoML</a></td>
     <td align="center" width="12%"><a href="https://github.com/mahynski/template-pinn"><img src="https://github.com/mahynski/mahynski/blob/b3c4a78aa052e70909280b4a846695c8710bc5ce/img/_tmp_logo_pinn.png" width=85 /> PINNs</a></td>
     <td align="center" width="12%"><a href="https://github.com/mahynski/template-gis"><img src="https://github.com/mahynski/mahynski/blob/f145dbb0cec11207d027ca722f8f3ba8a1efae01/img/_tmp_gis_logo.png" width=85 /> Deep-GIS</a></td>
     <!-- <td width=150 align="center">
