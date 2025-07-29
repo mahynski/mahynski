@@ -71,7 +71,7 @@ $ quickstart
     <td align="center" width="12%"><a href="https://github.com/mahynski/template-finetuning"><img src="https://github.com/mahynski/mahynski/blob/5f60a979abdb29c1314549066b7c520ca05c042f/img/_tmp_autotrain_logo.png" width=85 /> Finetuning</a></td>
     <td align="center" width="12%"><a href="https://github.com/mahynski/template-automl"><img src="https://github.com/mahynski/mahynski/blob/e0d787454184710db164566dd779a79667d468d2/img/_tmp_automl_logo.png" width=85 /> AutoML</a></td>
     <td align="center" width="12%"><a href="https://github.com/mahynski/template-pinn"><img src="https://github.com/mahynski/mahynski/blob/b3c4a78aa052e70909280b4a846695c8710bc5ce/img/_tmp_logo_pinn.png" width=85 /> PINNs</a></td>
-    <td align="center" width="12%"><a href="https://github.com/mahynski/template-gis"><img src="https://github.com/mahynski/mahynski/blob/0ac86cdbdbcd2aa41bbd07a3adf204ade890c299/img/_tmp_gis_logo.png" width=85 /> Deep-GIS</a></td>
+    <td align="center" width="12%"><a href="https://github.com/mahynski/template-gis"><img src="https://github.com/mahynski/mahynski/blob/f145dbb0cec11207d027ca722f8f3ba8a1efae01/img/_tmp_gis_logo.png" width=85 /> Deep-GIS</a></td>
     <!-- <td width=150 align="center">
       <a href="https://colab.research.google.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Google_Colaboratory_SVG_Logo.svg/800px-Google_Colaboratory_SVG_Logo.svg.png" width=90 /> </a>
       <a href="https://drive.google.com/drive/my-drive"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Google_Drive_logo.png/600px-Google_Drive_logo.png?20220818055023" width=45 /> </a>
