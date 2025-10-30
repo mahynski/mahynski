@@ -117,6 +117,7 @@ $ cat /home/mahynski/.profile | more
 <a href="https://auto.gluon.ai/stable/index.html"><img src="https://auto.gluon.ai/stable/_static/autogluon-w.png" alt="AutoGluon" height=28 /></a>
 <a href="https://huggingface.co/mahynski"><img src="https://huggingface.co/datasets/huggingface/badges/resolve/main/powered-by-huggingface-dark.svg" alt="HuggingFace" height=28 /></a>
 <a href="https://unsloth.ai"><img src="https://debuggercafe.com/wp-content/uploads/2024/12/unsloth-logo-1.png" height=28 /></a>
+<a href="https://openrouter.ai/"><img src="https://github.com/mahynski/mahynski/blob/f3b75924b6de4ab09517e7eb7d8e52873a7eb9c5/img/openrouter.svg" height=28 /></a>
 [![OpenAI](https://img.shields.io/badge/OpenAI-ffffff?logo=openai&style=for-the-badge&color=ffffff&logoColor=412991)](https://platform.openai.com/apps)
 <a href="https://console.groq.com/home"><img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.ciscoinvestments.com%2Fassets%2Flogos%2Fgroq-logo.png&f=1&nofb=1&ipt=a956043982e689b8956a9ace0bc29dc9559e77bb7f872f08da53f7802180638f" alt="Powered by Groq for fast inference." height=28 /></a>
 <a href="https://lmstudio.ai/"><img src="https://avatars.githubusercontent.com/u/133744619?s=200&v=4" height=28 /></a>
