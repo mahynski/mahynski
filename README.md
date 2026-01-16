@@ -131,7 +131,6 @@ $ cat /home/mahynski/.profile | more
 [![WandB](https://img.shields.io/badge/Weights_&_Biases-FFBE00?style=for-the-badge&logo=WeightsAndBiases&logoColor=white)](https://wandb.ai/nathan-mahynski)
 [![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue)](https://mlflow.org)
 [![Arize Phoenix](https://img.shields.io/badge/Arize%20Phoenix-ffffff?style=for-the-badge&color=02a5b9)](https://app.phoenix.arize.com/)
-[![Langfuse](https://img.shields.io/badge/Langfuse-ffffff?style=for-the-badge&color=ce0000)](https://us.cloud.langfuse.com/)
 <a href="https://www.crewai.com"><img src="https://github.com/crewAIInc/crewAI/raw/main/docs/images/crewai_logo.png" height=28 /></a>
 [![Brave](https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&logo=Brave&logoColor=white)](https://brave.com/search/api/)
 <a href="https://serper.dev/login"><img src="https://github.com/user-attachments/assets/e342ac16-05c0-4723-8997-b58d97147ee7" height=28 /></a>
@@ -153,6 +152,7 @@ $ cat /home/mahynski/.profile | more
 <a href="https://music.apple.com/us/new"><img src="https://cdn.pnggallery.com/wp-content/uploads/apple-music-logo-05.png" height=28 /></a>
 
 <!--
+[![Langfuse](https://img.shields.io/badge/Langfuse-ffffff?style=for-the-badge&color=ce0000)](https://us.cloud.langfuse.com/)
 <a href="https://dev.to/?signin=true"><img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="DEV Profile" height="30" width="30"></a>
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nathanmahynski/)
