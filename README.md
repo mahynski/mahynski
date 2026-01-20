@@ -1,7 +1,3 @@
-<!--
-![image](https://github.com/mahynski/mahynski/assets/23516749/6db3de5e-8956-478a-8f80-9a7c8e93bc17)
--->
-
 ## A Brief Bio
 
 ~~~bash
@@ -9,7 +5,7 @@ $ tl;dr
 ~~~
 
 * :computer: 15+ years total experience developing AI/ML/data science tools and computer simulations including physics encoded models (e.g., physics-informed neural networks), signal-based outlier detection, and generative AI tools for threat and fraud detection.
-* :robot: Altamira | 2025 - present, Principal AI Scientist, Building Agentic AI & AutoML solutions.
+* **:robot: Altamira | 2025 - present, Principal AI Scientist**, Building Agentic AI & AutoML solutions.
 * 📏 NIST | 2015 – 2025, Group Leader at Chemical Informatics Group, 10 years of experience designing numerical algorithms for applications in soft matter physics and thermodynamics.
 * 🐅 Princeton Univ. | 2010 - 2015, Ph.D. & M.A. Chem. Engineering, Computational & Information Science.
 
@@ -22,33 +18,9 @@ I am a Principal AI Scientist at [Altamira Technologies Corporation](https://www
 * :rocket: space, and
 * :boom: defense industries.
 
-My career began [@NIST](https://www.nist.gov/) using data science, AI/ML, molecular simulations, and other advanced modeling tools to make data-driven discoveries in fields like material science, nuclear chemistry, detection of food fraud, and environmental monitoring. These topics are described in more detail below. 
-<!-- My formal training includes a Ph.D. in Chemical Engineering with a concentration in computational thermodynamics and a certificate in Computational and Information Science [@Princeton](https://www.princeton.edu/).  -->
+My career began [@NIST](https://www.nist.gov/) using data science, AI/ML, molecular simulations, and other advanced modeling tools to make data-driven discoveries in fields like material science, nuclear chemistry, detection of food fraud, and environmental monitoring. These topics are described in more detail below.
 
 📃 CV available upon <a href="mailto:nathan.mahynski@gmail.com">request</a>.
-
-<!-- You can read more about my public research projects on [ResearchGate](https://www.researchgate.net/profile/Nathan-Mahynski).
-
-Broad research areas included: 
-🔥 [Thermodynamics](https://gist.github.com/mahynski/2533b0d5f39348e73d09b0a2bcfa33e8), :diamond_shape_with_a_dot_inside: [Material science](https://gist.github.com/mahynski/55116f939ae1b570b3a35abe37749c94), :sushi: [Food authenticity](https://gist.github.com/mahynski/6307ae08cf6dbd02db183c3ad8e0ffc7), :part_alternation_mark: [Chemical Intelligence](https://huggingface.co/mahynski)
--->
-
-<!--
-As you can see, I tend to name code after birds 🐦; personal code that I can share (which is not much these days) is in the aviary :sunrise_over_mountains: below. 
-
-<table cellpadding="0px" cellspacing="0px" class="center">   
-  <tr class="">
-    <td width=110 align="center"><a href="https://github.com/mahynski/uv-project-template"><img src="https://github.com/mahynski/template-project/blob/22d2fc9b39172e8dd6534e72bbc9b407c46fd37d/logo.png" width=85 /> Project Template</a></td>
-    <td width=110 align="center"><a href="https://github.com/mahynski/public-template"><img src="https://github.com/mahynski/template-public/blob/5bcbdc0fd86db295cde89b39304118cac14b07c7/logo.png" width=80 /> Project Release</a></td>
-    <td width=110 align="center"><a href="https://github.com/mahynski/my_package"><img src="https://github.com/mahynski/my_package/blob/fe173222dea5d9f1609948e9e2cdcec6475f2468/docs/_static/logo_transparent.png" width=85 /> PyPI Template</a></td>
-    <td width=110 align="center"><a href="https://github.com/mahynski/latex-jam"><img src="https://github.com/mahynski/latex-jam/blob/78b4bad272b18ac69ae74560041f7bfb0184fc0e/logo.png" width=80 /> LaTeX-Jam</a>
-    <td width=110 align="center"><a href="https://github.com/mahynski/ai-ml-library/blob/main/README.md"><img src="https://github.com/mahynski/mahynski/blob/aec8b5cd8cef3a8279e7f86db96fb1370e86fc19/img/_tmp_ai_ml_library_logo.png" width=80 /> AI/ML Library</a>
-    <td width=110 align="center"><a href="https://github.com/mahynski/apo"><img src="https://github.com/mahynski/mahynski/blob/51814ad1dbd92ed50f4069ea960f821031f51000/img/_tmp_apo_public_logo.png" width=60 /> Auto Prompt Optimization</a></td>
-    <td width=110 align="center"><a href="https://huggingface.co/spaces/mahynski/RAG-private"><img src="https://github.com/mahynski/mahynski/blob/dd73cf13a47e67f1f0219f96e2b682b568293a88/img/raggiana-bird-of-paradise.png" width=110 /></a> <a href="https://huggingface.co/spaces/mahynski/RAG">RAG Data Extraction</a></td>
-    <td width=110 align="center"><a href="https://github.com/mahynski/cd2"><img src="https://github.com/mahynski/mahynski/blob/35f84999f03354be6cf31c5bfbe02dea059e06fa/img/_tmp_cd2_public_logo.png" width=110 /> CD<sup>2</sup></a></td>
-  </tr>
-</table>
--->
 
 ---
 
@@ -56,28 +28,16 @@ As you can see, I tend to name code after birds 🐦; personal code that I can s
 $ quickstart
 ~~~
 
-<!-- 
-<a href="https://colab.research.google.com/github/huggingface/autotrain-advanced/blob/main/colabs/AutoTrain.ipynb#scrollTo=4inccxUXWPRs"><img src="https://raw.githubusercontent.com/huggingface/autotrain-advanced/main/src/autotrain/app/static/logo.png" height="30" /></a> 
-<a href="https://drive.google.com/drive/my-drive"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Google_Drive_logo.png/600px-Google_Drive_logo.png?20220818055023" height="30"/></a> 
-<a href="https://colab.research.google.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Google_Colaboratory_SVG_Logo.svg/800px-Google_Colaboratory_SVG_Logo.svg.png" height="30" /></a>
-<a href="https://huggingface.co/mahynski"><img src="https://huggingface.co/datasets/huggingface/badges/resolve/main/powered-by-huggingface-dark.svg" height="30" /></a>
--->
-
 <table cellpadding="0px" cellspacing="0px" class="center">   
   <tr class="">
     <td align="center" width="12%"><a href="https://github.com/mahynski/ai-ml-library/blob/main/README.md"><img src="https://github.com/mahynski/mahynski/blob/7d367f5bed3292feb8ade0c23d1eca4cea52f312/img/_tmp_ai_ml_library_logo.png" width=70 /> Library</a></td>
     <td align="center" width="12%"><a href="https://github.com/mahynski/template-uv-project"><img src="https://github.com/mahynski/mahynski/blob/46a696206e93b612d93720ad0e196e54047d855c/img/_tmp_projects_logo_uv.png" width=70 /> Template</a></td>
-    <!-- <td align="center" width="12%"><a href="https://github.com/mahynski/template-conda-project"><img src="https://github.com/mahynski/mahynski/blob/5e77ca3bf176532f72d8a9a8401354b9be105f5a/img/_tmp_projects_logo_conda.png" width=70 /> Template</a></td> -->
     <td align="center" width="12%"><a href="https://github.com/mahynski/template-uv-agents"><img src="https://github.com/mahynski/mahynski/blob/de99e92ea74abb6f084d52e5073e7968181da4d7/img/_tmp_agenticai_logo.png" width=70 /> Agentic AI</a></td>
     <td align="center" width="12%"><a href="https://github.com/mahynski/template-finetuning"><img src="https://github.com/mahynski/mahynski/blob/1c58718b03062296495358b7a1ed07f1dceb33e0/img/_tmp_autotrain_logo.png" width=70 /> Finetuning</a></td>
     <td align="center" width="12%"><a href="https://github.com/mahynski/template-automl"><img src="https://github.com/mahynski/mahynski/blob/32ad841baa7c7b75eab1b11cf9a756d6cfd82446/img/_tmp_automl_logo.png" width=70 /> AutoML</a></td>
     <td align="center" width="12%"><a href="https://github.com/mahynski/template-pinn"><img src="https://github.com/mahynski/mahynski/blob/b3c4a78aa052e70909280b4a846695c8710bc5ce/img/_tmp_logo_pinn.png" width=70 /> PIML</a></td>
     <td align="center" width="12%"><a href="https://github.com/mahynski/template-csp"><img src="https://github.com/mahynski/mahynski/blob/7a665c276bc0f41ef4e84e93726865322084326a/img/_tmp_csp_logo.png" width=70 /> CSP</a></td>
     <td align="center" width="12%"><a href="https://github.com/mahynski/template-gis"><img src="https://github.com/mahynski/mahynski/blob/7e8eefc2cb3c709bffbae880325db6b2a671cdfc/img/_tmp_gis_logo.png" width=70 /> Deep-GIS</a></td>
-    <!-- <td width=150 align="center">
-      <a href="https://colab.research.google.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Google_Colaboratory_SVG_Logo.svg/800px-Google_Colaboratory_SVG_Logo.svg.png" width=90 /> </a>
-      <a href="https://drive.google.com/drive/my-drive"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Google_Drive_logo.png/600px-Google_Drive_logo.png?20220818055023" width=45 /> </a>
-    </td> -->
   </tr>
 </table>
 
@@ -95,6 +55,7 @@ $ cat /home/mahynski/.profile | more
 [![CodeCov](https://img.shields.io/badge/codecov-%23ff0077.svg?style=for-the-badge&logo=codecov&logoColor=white)](https://about.codecov.io/)
 [![Pytest](https://img.shields.io/badge/pytest-%23ffffff.svg?style=for-the-badge&logo=pytest&logoColor=2f9fe3)](https://docs.pytest.org/en/stable/)
 [![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)](https://fastapi.tiangolo.com/)
+
 [![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)](https://www.w3schools.com/c/c_intro.php)
 [![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://www.w3schools.com/cpp/default.asp)
 [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org/)
@@ -103,13 +64,15 @@ $ cat /home/mahynski/.profile | more
 [![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white)](https://cmake.org/)
 [![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)](https://www.markdownguide.org/)
 [![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)](https://www.latex-project.org/)
+
 [![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://us-east-2.console.aws.amazon.com/console/home?region=us-east-2)
 <a href="https://aws.amazon.com/sagemaker"><img src="https://github.com/mahynski/mahynski/blob/89529d180ce95d92fa39abf6eb364cf51cee3df2/img/SageMaker.png" alt="SageMaker" height=28 /></a>
 <a href="https://aws.amazon.com/bedrock"><img src="https://github.com/mahynski/mahynski/blob/fbf55d039dcfbc527a7e29395041a3d16ca2d210/img/bedrock-color.png" alt="Bedrock" height=28 /></a>
-[![Google Colab](https://img.shields.io/badge/Google%20Colab-%23F9A825.svg?style=for-the-badge&logo=googlecolab&logoColor=white)](https://colab.research.google.com/) <!--<a href='https://console.paperspace.com/t9nl3c8mxy/projects'><img src='https://assets.paperspace.io/img/gradient-badge.svg' alt='Run on Gradient' height=27 /></a>-->
+[![Google Colab](https://img.shields.io/badge/Google%20Colab-%23F9A825.svg?style=for-the-badge&logo=googlecolab&logoColor=white)](https://colab.research.google.com/)
 <a href="https://docs.astral.sh/uv/"><img src="https://miro.medium.com/v2/resize:fit:1358/1*eSnM1h_RX2tgE10fyE3w4Q.png" height=28 /></a>
 [![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)](https://www.anaconda.com/)
 [![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)](https://jupyter.org/)
+
 [![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/stable/index.html)
 [![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)](https://keras.io/)
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)](https://www.tensorflow.org/)
@@ -118,23 +81,28 @@ $ cat /home/mahynski/.profile | more
 <a href="https://auto.gluon.ai/stable/index.html"><img src="https://auto.gluon.ai/stable/_static/autogluon-w.png" alt="AutoGluon" height=28 /></a>
 <a href="https://huggingface.co/mahynski"><img src="https://huggingface.co/datasets/huggingface/badges/resolve/main/powered-by-huggingface-dark.svg" alt="HuggingFace" height=28 /></a>
 <a href="https://unsloth.ai"><img src="https://debuggercafe.com/wp-content/uploads/2024/12/unsloth-logo-1.png" height=28 /></a>
+[![DeepChem](https://img.shields.io/badge/DeepChem-EB3F48?style=for-the-badge)](https://deepchem.io/)
+
 <a href="https://openrouter.ai/"><img src="https://github.com/mahynski/mahynski/blob/f3b75924b6de4ab09517e7eb7d8e52873a7eb9c5/img/openrouter.svg" height=28 /></a>
 <a href="https://claude.ai/"><img height="28" alt="image" src="https://github.com/user-attachments/assets/0681aec2-7c4d-4bb2-ad41-efdd4856af8e" /></a>
 [![OpenAI](https://img.shields.io/badge/OpenAI-ffffff?logo=openai&style=for-the-badge&color=ffffff&logoColor=412991)](https://platform.openai.com/apps)
 <a href="https://console.groq.com/home"><img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.ciscoinvestments.com%2Fassets%2Flogos%2Fgroq-logo.png&f=1&nofb=1&ipt=a956043982e689b8956a9ace0bc29dc9559e77bb7f872f08da53f7802180638f" alt="Powered by Groq for fast inference." height=28 /></a>
 <a href="https://lmstudio.ai/"><img src="https://avatars.githubusercontent.com/u/133744619?s=200&v=4" height=28 /></a>
 <a href="https://ollama.com/"><img src="https://github.com/ollama/ollama/assets/3325447/0d0b44e2-8f4a-4e99-9b52-a5c1c741c8f7" height=28 /></a>
+
 <a href="https://www.trychroma.com/"><img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%2Fid%2FOIP.Djc9EYMV8F3bZ-MxeG09cwHaCn%3Fpid%3DApi&f=1&ipt=09bb03ada3eb42cda6bc718a3b2537928dee77c748df99745c02286d92462786" height=28 /></a>
 [![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com)
 [![LlamaIndex](https://img.shields.io/badge/Llama%20Index-ffffff?style=for-the-badge&color=000000)](https://docs.llamaindex.ai/en/stable/)
 [![LlamaParse](https://img.shields.io/badge/llama%20parse-ffa5ea?style=for-the-badge)](https://cloud.llamaindex.ai/)
-[![WandB](https://img.shields.io/badge/Weights_&_Biases-FFBE00?style=for-the-badge&logo=WeightsAndBiases&logoColor=white)](https://wandb.ai/nathan-mahynski)
-[![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue)](https://mlflow.org)
-[![Arize Phoenix](https://img.shields.io/badge/Arize%20Phoenix-ffffff?style=for-the-badge&color=02a5b9)](https://app.phoenix.arize.com/)
 <a href="https://www.crewai.com"><img src="https://github.com/crewAIInc/crewAI/raw/main/docs/images/crewai_logo.png" height=28 /></a>
 [![Brave](https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&logo=Brave&logoColor=white)](https://brave.com/search/api/)
 <a href="https://serper.dev/login"><img src="https://github.com/user-attachments/assets/e342ac16-05c0-4723-8997-b58d97147ee7" height=28 /></a>
 <a href="https://app.linkup.so/sign-in?destination=%2Fhome"><img src="https://github.com/user-attachments/assets/77c6cbdc-6ea9-479c-9e56-7c8ec9b5968b" height=28 /></a>
+
+[![WandB](https://img.shields.io/badge/Weights_&_Biases-FFBE00?style=for-the-badge&logo=WeightsAndBiases&logoColor=white)](https://wandb.ai/nathan-mahynski)
+[![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue)](https://mlflow.org)
+[![Arize Phoenix](https://img.shields.io/badge/Arize%20Phoenix-ffffff?style=for-the-badge&color=02a5b9)](https://app.phoenix.arize.com/)
+
 [![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org/)
 [![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)](https://scipy.org/)
 [![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
@@ -143,27 +111,13 @@ $ cat /home/mahynski/.profile | more
 [![Streamlit](https://img.shields.io/badge/Streamlit-ffffff?logo=streamlit&style=for-the-badge&color=000000&logoColor=FF4B4B)](https://share.streamlit.io/)
 <a href="https://panel.holoviz.org"><img src="https://panel.holoviz.org/_static/logo_horizontal_light_theme.png" height=28 /></a>
 <a href="https://bokeh.org/"><img src="https://th.bing.com/th/id/R.ff248ef1d4db342d69541ed36aeddb7e?rik=1eXwiFOYim2V6A&riu=http%3a%2f%2fstatic.bokeh.org%2fog%2flogotype-on-hex.png&ehk=aWo198xX1ocrjdx%2fr6Tq37pHWZx%2fs3s9NvIXLiUSY7M%3d&risl=&pid=ImgRaw&r=0" height=28 /></a>
-[![DeepChem](https://img.shields.io/badge/DeepChem-EB3F48?style=for-the-badge)](https://deepchem.io/)
-[![Dracula](https://img.shields.io/badge/Dracula-Theme-ffffff?style=for-the-badge&color=723cbd)](https://draculatheme.com/)
+
 [![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/drive/my-drive)
 <a href="https://arxiv.org/"><img src="https://info.arxiv.org/brand/images/brand-logo-primary.jpg" height=28 /></a>
 <a href="https://www.mendeley.com/reference-manager/library/all-references"><img src="https://brandslogos.com/wp-content/uploads/images/large/mendeley-logo-1.png" height=28 /></a>
 <a href="https://excalidraw.com/"><img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimages.sftcdn.net%2Fimages%2Ft_app-icon-s%2Fp%2F461133ae-5ef5-4368-bd64-6a77d13788fb%2F2999859783%2Fexcalidraw-online-whiteboard-logo&f=1&nofb=1&ipt=4c4f71f787a4860832a956606221d63a8064e294f179d1104d6c6c40760c795e" height=28 /></a>
+[![Dracula](https://img.shields.io/badge/Dracula-Theme-ffffff?style=for-the-badge&color=723cbd)](https://draculatheme.com/)
 <a href="https://music.apple.com/us/new"><img src="https://cdn.pnggallery.com/wp-content/uploads/apple-music-logo-05.png" height=28 /></a>
-
-<!--
-[![Langfuse](https://img.shields.io/badge/Langfuse-ffffff?style=for-the-badge&color=ce0000)](https://us.cloud.langfuse.com/)
-<a href="https://dev.to/?signin=true"><img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="DEV Profile" height="30" width="30"></a>
-[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nathanmahynski/)
-[![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)](https://slack.com/)
-[![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)](https://www.blender.org/)
-[![Gimp Gnu Image Manipulation Program](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF)](https://www.gimp.org/)
-[![Inkscape](https://img.shields.io/badge/Inkscape-e0e0e0?style=for-the-badge&logo=inkscape&logoColor=080A13)](https://inkscape.org/)
-[![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=ResearchGate&logoColor=white)](https://www.researchgate.net/profile/Nathan-Mahynski)
-[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/)
-[![NVIDIA-AI-Workbench](https://img.shields.io/badge/nvidia%20ai%20workbench-brightgreen?style=for-the-badge&link=https%3A%2F%2Fwww.nvidia.com%2Fen-us%2Fdeep-learning-ai%2Fsolutions%2Fdata-science%2Fworkbench%2F)](https://www.nvidia.com/en-us/deep-learning-ai/solutions/data-science/workbench/)
--->
 
 ## Previous Work
 
@@ -351,15 +305,3 @@ With the right <a href="https://arxiv.org/pdf/2309.03409">prompt optimization</a
   </ul>
   <hr>
 </details>
-
-<!--
-:notebook_with_decorative_cover: Notes and HowTo are available as [Gists](https://gist.github.com/mahynski).
--->
-
-<!--
-[![mahynski's github stats](https://github-readme-stats.vercel.app/api?username=mahynski&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/mahynski) 
--->
-
-<!--
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mahynski&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
--->
