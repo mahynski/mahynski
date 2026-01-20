@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=BD93F9&width=500&lines=Principal+AI+Scientist;Building+Agentic+AI+%26+AutoML;15%2B+years+in+AI%2FML+%26+Data+Science)](https://github.com/mahynski)
+
 ## A Brief Bio
 
 ~~~bash
