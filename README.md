@@ -1,10 +1,10 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=BD93F9&width=500&lines=Principal+AI+Scientist;Building+Agentic+AI+%26+AutoML;15%2B+years+in+AI%2FML+%26+Data+Science)](https://github.com/mahynski)
-
 ## A Brief Bio
 
 ~~~bash
 $ tl;dr
 ~~~
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=BD93F9&width=500&lines=Principal+AI+Scientist;Building+Agentic+AI+%26+AutoML;15%2B+years+in+AI%2FML+%26+Data+Science)](https://github.com/mahynski)
 
 * :computer: 15+ years total experience developing AI/ML/data science tools and computer simulations including physics encoded models (e.g., physics-informed neural networks), signal-based outlier detection, and generative AI tools for threat and fraud detection.
 * **:robot: Altamira | 2025 - present, Principal AI Scientist**, Building Agentic AI & AutoML solutions.
