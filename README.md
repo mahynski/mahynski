@@ -6,15 +6,15 @@ $ tl;dr
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=BD93F9&width=500&lines=Principal+AI+Scientist;Building+Agentic+AI+%26+AutoML;15%2B+years+in+AI%2FML+%26+Data+Science)](https://github.com/mahynski)
 
-* **:robot: Altamira | 2025 - present, Principal AI Scientist**, Building Agentic AI & AutoML solutions.
-* 📏 NIST | 2015 – 2025, Group Leader at Chemical Informatics Group, 10+ years of experience designing numerical algorithms for applications in soft matter physics and thermodynamics.
+* **:robot: [Altamira](https://www.altamiracorp.com/) | 2025 - present, Principal AI Scientist**, Building Agentic AI & AutoML solutions.
+* 📏 [NIST](https://www.nist.gov) | 2015 – 2025, Group Leader at Chemical Informatics Group, 10+ years of experience designing numerical algorithms for applications in soft matter physics and thermodynamics.
 * 🐅 Princeton Univ. | 2010 - 2015, Ph.D. & M.A. Chem. Engineering, Computational & Information Science.
 
 ~~~bash
 $ whoami
 ~~~
 
-I am a Principal AI Scientist at [Altamira Technologies Corporation](https://www.altamiracorp.com/) and specialize in designing, developing, and deploying computational tools to solve problems alongside subject matter experts in a wide range of disciplines. 
+I specialize in designing, developing, and deploying computational tools to solve problems alongside subject matter experts in a wide range of disciplines. 
 I have over 15 years of experience developing AI/ML/data science tools and computer simulations including agentic AI, AutoML, physics encoded models (e.g., physics-informed neural networks), signal-based outlier detection, and generative AI tools for threat and fraud detection.
 At Altamira, I help create data-accelerated analytic, operations, and engineering solutions for partners in the 
 * :satellite: intelligence,
