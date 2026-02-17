@@ -44,6 +44,7 @@ $ quickstart
   </tr>
 </table>
 
+<!--
 ~~~bash
 $ cat /home/mahynski/.profile | more
 ~~~
@@ -121,6 +122,7 @@ $ cat /home/mahynski/.profile | more
 <a href="https://excalidraw.com/"><img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimages.sftcdn.net%2Fimages%2Ft_app-icon-s%2Fp%2F461133ae-5ef5-4368-bd64-6a77d13788fb%2F2999859783%2Fexcalidraw-online-whiteboard-logo&f=1&nofb=1&ipt=4c4f71f787a4860832a956606221d63a8064e294f179d1104d6c6c40760c795e" height=28 /></a>
 [![Dracula](https://img.shields.io/badge/Dracula-Theme-ffffff?style=for-the-badge&color=723cbd)](https://draculatheme.com/)
 <a href="https://music.apple.com/us/new"><img src="https://cdn.pnggallery.com/wp-content/uploads/apple-music-logo-05.png" height=28 /></a>
+-->
 
 ## Previous Work
 
