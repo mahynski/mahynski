@@ -9,7 +9,7 @@ $ tl;dr
 * **:robot: [Altamira](https://www.altamiracorp.com/) | 2025 - present, Principal AI Scientist**, Building Agentic AI & AutoML solutions.
 * 📏 [NIST](https://www.nist.gov) | 2015 – 2025, Group Leader at Chemical Informatics Group, 10+ years of experience designing numerical algorithms for applications in soft matter physics and thermodynamics.
 * 🐅 [Princeton Univ.](princeton.edu) | 2010 - 2015, Ph.D. & M.A. Chem. Engineering, Computational & Information Science.
-* <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Purdue_Boilermakers_logo.svg" height=15 /> [Purdue Univ.](purdue.edu) 2006 - 2010, B.S. Chem. Engineering, Minor in Chemistry - didn't stick around long enough to finish the math degree :(
+* <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Purdue_Boilermakers_logo.svg" height=15 /> [Purdue Univ.](purdue.edu) | 2006 - 2010, B.S. Chem. Engineering, Minor in Chemistry - didn't stick around long enough to finish the math degree :(
 
 ~~~bash
 $ whoami
