@@ -148,9 +148,9 @@ $ tar -xzvf mahynski.archive.tar.gz
     <td width=110 align="center"><a href="https://github.com/usnistgov/escherized-colloids"><img src="https://github.com/usnistgov/escherized-colloids/blob/bfcdbb7a4e613bf264d4262b7b9cc73b03ae2b04/logo.png" width=100 /> Escherized Colloids</a></td>
     <td width=110 align="center"><a href="https://github.com/mahynski/apo"><img src="https://github.com/mahynski/mahynski/blob/51814ad1dbd92ed50f4069ea960f821031f51000/img/_tmp_apo_public_logo.png" width=60 /> Auto Prompt Optimization</a></td>
     <td width=110 align="center"><a href="https://huggingface.co/spaces/mahynski/RAG-private"><img src="https://github.com/mahynski/mahynski/blob/dd73cf13a47e67f1f0219f96e2b682b568293a88/img/raggiana-bird-of-paradise.png" width=110 /></a> <a href="https://huggingface.co/spaces/mahynski/RAG">RAG Data Extraction</a></td>
+    <td width=110 align="center"><a href="https://github.com/mahynski/cd2"><img src="https://github.com/mahynski/mahynski/blob/35f84999f03354be6cf31c5bfbe02dea059e06fa/img/_tmp_cd2_public_logo.png" width=110 /> CD<sup>2</sup></a></td>
   </tr>
   <tr class="">
-    <td width=110 align="center"><a href="https://github.com/mahynski/cd2"><img src="https://github.com/mahynski/mahynski/blob/35f84999f03354be6cf31c5bfbe02dea059e06fa/img/_tmp_cd2_public_logo.png" width=110 /> CD<sup>2</sup></a></td>
     <td width=110 align="center"><a href="https://github.com/mahynski/my_package"><img src="https://github.com/mahynski/my_package/blob/fe173222dea5d9f1609948e9e2cdcec6475f2468/docs/_static/logo_transparent.png" width=85 /> PyPI Template</a></td>
   </tr>   
 </table>
