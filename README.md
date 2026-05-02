@@ -38,12 +38,13 @@ $ quickstart
     <td align="center" width="12%"><a href="https://github.com/mahynski/paper-research"><img src="https://github.com/mahynski/mahynski/blob/main/img/_tmp_paper_research_logo.png" width=70 /> Paper Research</a></td>
     <td align="center" width="12%"><a href="https://github.com/mahynski/template-uv-project"><img src="https://github.com/mahynski/mahynski/blob/46a696206e93b612d93720ad0e196e54047d855c/img/_tmp_projects_logo_uv.png" width=70 /> Template</a></td>
     <td align="center" width="12%"><a href="https://github.com/mahynski/cstack"><img src="https://github.com/mahynski/mahynski/blob/main/img/_tmp_cstack_logo.png" width=70 /> cstack</a></td>
-    <td align="center" width="12%"><a href="https://github.com/mahynski/template-uv-agents"><img src="https://github.com/mahynski/mahynski/blob/de99e92ea74abb6f084d52e5073e7968181da4d7/img/_tmp_agenticai_logo.png" width=70 /> Agentic AI</a></td>
+    <td width=110 align="center"><a href="https://github.com/mahynski/my_package"><img src="https://github.com/mahynski/my_package/blob/fe173222dea5d9f1609948e9e2cdcec6475f2468/docs/_static/logo_transparent.png" width=85 /> PyPI Template</a></td>
     <td align="center" width="12%"><a href="https://github.com/mahynski/agent-comparisons"><img src="https://github.com/mahynski/mahynski/blob/main/img/_tmp_agent_comparisons_logo.png" width=70 /> Agent Comparisons</a></td>
+    <td align="center" width="12%"><a href="https://github.com/mahynski/template-uv-agents"><img src="https://github.com/mahynski/mahynski/blob/de99e92ea74abb6f084d52e5073e7968181da4d7/img/_tmp_agenticai_logo.png" width=70 /> Agentic AI</a></td>
     <td align="center" width="12%"><a href="https://github.com/mahynski/template-finetuning"><img src="https://github.com/mahynski/mahynski/blob/1c58718b03062296495358b7a1ed07f1dceb33e0/img/_tmp_autotrain_logo.png" width=70 /> Finetuning</a></td>
-    <td align="center" width="12%"><a href="https://github.com/mahynski/template-automl"><img src="https://github.com/mahynski/mahynski/blob/32ad841baa7c7b75eab1b11cf9a756d6cfd82446/img/_tmp_automl_logo.png" width=70 /> AutoML</a></td>
   </tr>
   <tr class="">
+    <td align="center" width="12%"><a href="https://github.com/mahynski/template-automl"><img src="https://github.com/mahynski/mahynski/blob/32ad841baa7c7b75eab1b11cf9a756d6cfd82446/img/_tmp_automl_logo.png" width=70 /> AutoML</a></td>
     <td align="center" width="12%"><a href="https://github.com/mahynski/template-pinn"><img src="https://github.com/mahynski/mahynski/blob/b3c4a78aa052e70909280b4a846695c8710bc5ce/img/_tmp_logo_pinn.png" width=70 /> PIML</a></td>
     <td align="center" width="12%"><a href="https://github.com/mahynski/template-csp"><img src="https://github.com/mahynski/mahynski/blob/7a665c276bc0f41ef4e84e93726865322084326a/img/_tmp_csp_logo.png" width=70 /> CSP</a></td>
     <td align="center" width="12%"><a href="https://github.com/mahynski/template-gis"><img src="https://github.com/mahynski/mahynski/blob/7e8eefc2cb3c709bffbae880325db6b2a671cdfc/img/_tmp_gis_logo.png" width=70 /> Deep-GIS</a></td>
@@ -150,9 +151,6 @@ $ tar -xzvf mahynski.archive.tar.gz
     <td width=110 align="center"><a href="https://huggingface.co/spaces/mahynski/RAG-private"><img src="https://github.com/mahynski/mahynski/blob/dd73cf13a47e67f1f0219f96e2b682b568293a88/img/raggiana-bird-of-paradise.png" width=110 /></a> <a href="https://huggingface.co/spaces/mahynski/RAG">RAG Data Extraction</a></td>
     <td width=110 align="center"><a href="https://github.com/mahynski/cd2"><img src="https://github.com/mahynski/mahynski/blob/35f84999f03354be6cf31c5bfbe02dea059e06fa/img/_tmp_cd2_public_logo.png" width=110 /> CD<sup>2</sup></a></td>
   </tr>
-  <tr class="">
-    <td width=110 align="center"><a href="https://github.com/mahynski/my_package"><img src="https://github.com/mahynski/my_package/blob/fe173222dea5d9f1609948e9e2cdcec6475f2468/docs/_static/logo_transparent.png" width=85 /> PyPI Template</a></td>
-  </tr>   
 </table>
 
 Developing reproducible, transparent modeling pipelines and methods requires standardized open-source tools. While working @NIST, I developed [PyChemAuth](http://pychemauth.readthedocs.io) to help chemometricians, cheminformatics professionals, and other researchers build end-to-end data science workflows from [exploratory data analysis](https://pychemauth.readthedocs.io/en/latest/jupyter/api/eda.html), to [model optimization and comparison](https://pychemauth.readthedocs.io/en/latest/jupyter/api/comparing_pipelines.html), to [public distribution](https://pychemauth.readthedocs.io/en/latest/jupyter/api/sharing_models.html). Most data-driven projects below rely on this package. Check out the [workshop](https://pychemauth.readthedocs.io/en/latest/carpentry.html) and [API Examples](https://pychemauth.readthedocs.io/en/latest/examples.html) for more information if you find it helpful.
