@@ -47,8 +47,8 @@ $ quickstart
     <td align="center" width="12%"><a href="https://github.com/mahynski/template-pinn"><img src="https://github.com/mahynski/mahynski/blob/b3c4a78aa052e70909280b4a846695c8710bc5ce/img/_tmp_logo_pinn.png" width=70 /> PIML</a></td>
     <td align="center" width="12%"><a href="https://github.com/mahynski/template-csp"><img src="https://github.com/mahynski/mahynski/blob/7a665c276bc0f41ef4e84e93726865322084326a/img/_tmp_csp_logo.png" width=70 /> CSP</a></td>
     <td align="center" width="12%"><a href="https://github.com/mahynski/template-gis"><img src="https://github.com/mahynski/mahynski/blob/7e8eefc2cb3c709bffbae880325db6b2a671cdfc/img/_tmp_gis_logo.png" width=70 /> Deep-GIS</a></td>
-    <td align="center" width="12%"><a href="https://github.com/mahynski/path-planning"><img src="https://github.com/mahynski/mahynski/blob/main/img/_tmp_path_planning_logo.png" width=70 /> Path Planning</a></td>
-    <td align="center" width="12%"><a href="https://github.com/mahynski/open-world-meta"><img src="https://github.com/mahynski/mahynski/blob/main/img/_tmp_open_world_meta_logo.png" width=70 /> Open World Meta</a></td>
+    <!-- <td align="center" width="12%"><a href="https://github.com/mahynski/path-planning"><img src="https://github.com/mahynski/mahynski/blob/main/img/_tmp_path_planning_logo.png" width=70 /> Path Planning</a></td> -->
+    <!-- <td align="center" width="12%"><a href="https://github.com/mahynski/open-world-meta"><img src="https://github.com/mahynski/mahynski/blob/main/img/_tmp_open_world_meta_logo.png" width=70 /> Open World Meta</a></td> -->
     <td align="center" width="12%"><a href="https://github.com/mahynski/reinforcement-learning"><img src="https://github.com/mahynski/mahynski/blob/main/img/_tmp_reinforcement_learning_logo.png" width=70 /> Reinforcement Learning</a></td>
   </tr>
 </table>
