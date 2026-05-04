@@ -4,7 +4,9 @@
 $ tl;dr
 ~~~
 
+<!--
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=BD93F9&width=500&lines=Principal+AI+Scientist;Building+Agentic+AI+%26+AutoML;15%2B+years+in+AI%2FML+%26+Data+Science)](https://github.com/mahynski)
+-->
 
 * **:robot: [Altamira](https://www.altamiracorp.com/) | 2025 - present, Principal AI Scientist**, Building Agentic AI & AutoML solutions.
 * 📏 [NIST](https://www.nist.gov) | 2015 – 2025, Group Leader at Chemical Informatics Group, 10+ years of experience designing numerical algorithms for applications in soft matter physics and thermodynamics.
