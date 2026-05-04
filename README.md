@@ -18,7 +18,7 @@ $ whoami
 ~~~
 
 I specialize in designing, developing, and deploying computational tools to solve problems alongside subject matter experts in a wide range of disciplines. 
-I have over 15 years of experience developing AI/ML/data science tools and computer simulations including agentic AI, AutoML, physics encoded models (e.g., physics-informed neural networks), signal-based outlier detection, and generative AI tools for threat and fraud detection.
+Since 2010, I have been developing AI/ML/data science tools and computer simulations including agentic AI, AutoML, physics encoded models (e.g., physics-informed neural networks), signal-based outlier detection, and generative AI tools for threat and fraud detection.
 At Altamira, I help create data-accelerated analytic, operations, and engineering solutions for partners in the 
 * :satellite: intelligence,
 * :rocket: space, and
