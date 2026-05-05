@@ -13,8 +13,6 @@ $ tl;dr
 * <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Princeton_seal.svg/960px-Princeton_seal.svg.png" height=15 /> [Princeton Univ.](princeton.edu) | 2010 - 2015, Ph.D. & M.A. Chem. Engineering, Computational & Information Science.
 * <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Purdue_Boilermakers_logo.svg" height=13 /> [Purdue Univ.](purdue.edu) | 2006 - 2010, B.S. Chem. Engineering, Minor in Chemistry
 
----
-
 ~~~bash
 $ quickstart
 ~~~
