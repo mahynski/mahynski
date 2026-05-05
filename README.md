@@ -13,21 +13,6 @@ $ tl;dr
 * <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Princeton_seal.svg/960px-Princeton_seal.svg.png" height=15 /> [Princeton Univ.](princeton.edu) | 2010 - 2015, Ph.D. & M.A. Chem. Engineering, Computational & Information Science.
 * <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Purdue_Boilermakers_logo.svg" height=13 /> [Purdue Univ.](purdue.edu) | 2006 - 2010, B.S. Chem. Engineering, Minor in Chemistry
 
-~~~bash
-$ whoami
-~~~
-
-I specialize in designing, developing, and deploying computational tools to solve problems alongside subject matter experts in a wide range of disciplines. 
-Since 2010, I have been developing AI/ML/data science tools and computer simulations including agentic AI, AutoML, physics encoded models (e.g., physics-informed neural networks), signal-based outlier detection, and generative AI tools for threat and fraud detection.
-At Altamira, I help create data-accelerated analytic, operations, and engineering solutions for partners in the 
-* :satellite: intelligence,
-* :rocket: space, and
-* :boom: defense industries.
-
-My career began [@NIST](https://www.nist.gov/) using data science, AI/ML, molecular simulations, and other advanced modeling tools to make data-driven discoveries in fields like material science, nuclear chemistry, detection of food fraud, and environmental monitoring. These topics are described in more detail below.
-
-📃 CV available upon <a href="mailto:nathan.mahynski@gmail.com">request</a>.
-
 ---
 
 ~~~bash
@@ -56,6 +41,21 @@ $ quickstart
     <!-- <td align="center" width="12%"><a href="https://github.com/mahynski/open-world-meta"><img src="https://github.com/mahynski/mahynski/blob/main/img/_tmp_open_world_meta_logo.png" width=70 /> Open World Meta</a></td> -->
   </tr>
 </table>
+
+~~~bash
+$ whoami
+~~~
+
+I specialize in designing, developing, and deploying computational tools to solve problems alongside subject matter experts in a wide range of disciplines. 
+Since 2010, I have been developing AI/ML/data science tools and computer simulations including agentic AI, AutoML, physics encoded models (e.g., physics-informed neural networks), signal-based outlier detection, and generative AI tools for threat and fraud detection.
+At Altamira, I help create data-accelerated analytic, operations, and engineering solutions for partners in the 
+* :satellite: intelligence,
+* :rocket: space, and
+* :boom: defense industries.
+
+My career began [@NIST](https://www.nist.gov/) using data science, AI/ML, molecular simulations, and other advanced modeling tools to make data-driven discoveries in fields like material science, nuclear chemistry, detection of food fraud, and environmental monitoring. These topics are described in more detail below.
+
+📃 CV available upon <a href="mailto:nathan.mahynski@gmail.com">request</a>.
 
 <!--
 ~~~bash
