@@ -61,7 +61,7 @@ My career began [@NIST](https://www.nist.gov/) using data science, AI/ML, molecu
 
 ### Personally
 
-I am father who greatly appreciates things that simplify family life, and to this end have built an array of tools I use daily. If they can help anyone else stay on top of things, I'm happy to share.
+I am a father who greatly appreciates things that simplify family life, and to this end have built an array of tools I use daily. If they can help anyone else stay on top of things, I'm happy to share.
 
 <table cellpadding="0px" cellspacing="0px" class="center">   
   <tr class="">
