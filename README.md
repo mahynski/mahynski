@@ -26,6 +26,37 @@ $ quickstart
 </table>
 
 ~~~bash
+$ whoami
+~~~
+
+### Professionally
+
+I specialize in designing, developing, and deploying computational tools to solve problems alongside subject matter experts in a wide range of disciplines. 
+Since 2010, I have been developing AI/ML/data science tools and computer simulations including agentic AI, AutoML, physics encoded models (e.g., physics-informed neural networks), signal-based outlier detection, and generative AI tools for threat and fraud detection.
+At Altamira, I help create data-accelerated analytic, operations, and engineering solutions for partners in the 
+* :satellite: intelligence,
+* :rocket: space, and
+* :boom: defense industries.
+
+My career began [@NIST](https://www.nist.gov/) using data science, AI/ML, molecular simulations, and other advanced modeling tools to make data-driven discoveries in fields like material science, nuclear chemistry, detection of food fraud, and environmental monitoring. These topics are described in more detail below.
+
+📃 CV available upon <a href="mailto:nathan.mahynski@gmail.com">request</a>.
+
+### Personally
+
+I am a father who greatly appreciates things that simplify family life, and to this end have built an array of tools I use daily. If they can help anyone else stay on top of things, I'm happy to share.
+
+<table cellpadding="0px" cellspacing="0px" class="center">   
+  <tr class="">
+    <td align="center" width="12%"><a href="https://github.com/mahynski/daily-digest"><img src="https://github.com/mahynski/mahynski/blob/main/img/_tmp_daily_digest_logo.png" width=130 /></a></td>
+    <td align="center" width="12%"><a href="https://github.com/mahynski/wardrobe"><img src="https://github.com/mahynski/mahynski/blob/main/img/_tmp_wardrobe_logo.png" width=130 /></a></td>
+    <td align="center" width="12%"><a href="https://github.com/mahynski/meal-planner"><img src="https://github.com/mahynski/mahynski/blob/main/img/_tmp_meal_planner_logo.png" width=130 /></a></td>
+    <td align="center" width="12%"><a href="https://github.com/mahynski/activity-planner"><img src="https://github.com/mahynski/mahynski/blob/main/img/_tmp_activity_planner_logo.png" width=130 /></a></td>
+    <td align="center" width="12%"><a href="https://github.com/mahynski/newsletter"><img src="https://github.com/mahynski/mahynski/blob/main/img/_tmp_newsletter_logo.png" width=130 /></a></td>
+  </tr>
+</table>
+
+~~~bash
 $ learn
 ~~~
 
@@ -58,37 +89,6 @@ $ build
     <td align="center" width="12%"><a href="https://github.com/mahynski/template-gis"><img src="https://github.com/mahynski/mahynski/blob/7e8eefc2cb3c709bffbae880325db6b2a671cdfc/img/_tmp_gis_logo.png" width=70 /> Deep-GIS</a></td>
     <!-- <td align="center" width="12%"><a href="https://github.com/mahynski/path-planning"><img src="https://github.com/mahynski/mahynski/blob/main/img/_tmp_path_planning_logo.png" width=70 /> Path Planning</a></td> -->
     <!-- <td align="center" width="12%"><a href="https://github.com/mahynski/open-world-meta"><img src="https://github.com/mahynski/mahynski/blob/main/img/_tmp_open_world_meta_logo.png" width=70 /> Open World Meta</a></td> -->
-  </tr>
-</table>
-
-~~~bash
-$ whoami
-~~~
-
-### Professionally
-
-I specialize in designing, developing, and deploying computational tools to solve problems alongside subject matter experts in a wide range of disciplines. 
-Since 2010, I have been developing AI/ML/data science tools and computer simulations including agentic AI, AutoML, physics encoded models (e.g., physics-informed neural networks), signal-based outlier detection, and generative AI tools for threat and fraud detection.
-At Altamira, I help create data-accelerated analytic, operations, and engineering solutions for partners in the 
-* :satellite: intelligence,
-* :rocket: space, and
-* :boom: defense industries.
-
-My career began [@NIST](https://www.nist.gov/) using data science, AI/ML, molecular simulations, and other advanced modeling tools to make data-driven discoveries in fields like material science, nuclear chemistry, detection of food fraud, and environmental monitoring. These topics are described in more detail below.
-
-📃 CV available upon <a href="mailto:nathan.mahynski@gmail.com">request</a>.
-
-### Personally
-
-I am a father who greatly appreciates things that simplify family life, and to this end have built an array of tools I use daily. If they can help anyone else stay on top of things, I'm happy to share.
-
-<table cellpadding="0px" cellspacing="0px" class="center">   
-  <tr class="">
-    <td align="center" width="12%"><a href="https://github.com/mahynski/daily-digest"><img src="https://github.com/mahynski/mahynski/blob/main/img/_tmp_daily_digest_logo.png" width=130 /></a></td>
-    <td align="center" width="12%"><a href="https://github.com/mahynski/wardrobe"><img src="https://github.com/mahynski/mahynski/blob/main/img/_tmp_wardrobe_logo.png" width=130 /></a></td>
-    <td align="center" width="12%"><a href="https://github.com/mahynski/meal-planner"><img src="https://github.com/mahynski/mahynski/blob/main/img/_tmp_meal_planner_logo.png" width=130 /></a></td>
-    <td align="center" width="12%"><a href="https://github.com/mahynski/activity-planner"><img src="https://github.com/mahynski/mahynski/blob/main/img/_tmp_activity_planner_logo.png" width=130 /></a></td>
-    <td align="center" width="12%"><a href="https://github.com/mahynski/newsletter"><img src="https://github.com/mahynski/mahynski/blob/main/img/_tmp_newsletter_logo.png" width=130 /></a></td>
   </tr>
 </table>
 
