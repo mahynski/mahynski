@@ -48,7 +48,7 @@ I am a father who greatly appreciates things that simplify family life, and to t
 
 <table cellpadding="0px" cellspacing="0px" class="center">   
   <tr class="">
-    <td align="center" width="12%"><a href="https://github.com/mahynski/daily-digest"><img src="https://github.com/mahynski/mahynski/blob/main/img/_tmp_daily_digest_logo.png" width=130 /></a></td>
+    <td align="center" width="12%"><a href="https://github.com/mahynski/daily-digest"><img src="https://github.com/mahynski/mahynski/blob/main/img/_tmp_daily_digest_logo.png" width=230 /></a></td>
     <td align="center" width="12%"><a href="https://github.com/mahynski/wardrobe"><img src="https://github.com/mahynski/mahynski/blob/main/img/_tmp_wardrobe_logo.png" width=130 /></a></td>
     <td align="center" width="12%"><a href="https://github.com/mahynski/meal-planner"><img src="https://github.com/mahynski/mahynski/blob/main/img/_tmp_meal_planner_logo.png" width=130 /></a></td>
     <td align="center" width="12%"><a href="https://github.com/mahynski/activity-planner"><img src="https://github.com/mahynski/mahynski/blob/main/img/_tmp_activity_planner_logo.png" width=130 /></a></td>
