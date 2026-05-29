@@ -19,9 +19,9 @@ $ quickstart
 
 <table cellpadding="0px" cellspacing="0px" class="center">
   <tr class="">
-    <td align="center" width="12%"><a href="https://github.com/mahynski/paper-research"><img src="https://github.com/mahynski/mahynski/blob/main/img/_tmp_paper_research_logo.png" width=70 /> Paper Research</a></td>
-    <td align="center" width="12%"><a href="https://github.com/mahynski/research-agent"><img src="https://github.com/mahynski/mahynski/blob/main/img/_tmp_research_agent_logo.png" width=70 /> Research Agent</a></td>
-    <td align="center" width="12%"><a href="https://github.com/mahynski/automl-agent"><img src="https://github.com/mahynski/mahynski/blob/138bdf5362984b3a7b3acf73ccfeed9aa056c37e/img/_tmp_automl_agent_logo.png" width=85 /> AutoML Agent</a></td>
+    <td align="center" width=140><a href="https://github.com/mahynski/paper-research"><img src="https://github.com/mahynski/mahynski/blob/main/img/_tmp_paper_research_logo.png" width=70 /> Paper Research</a></td>
+    <td align="center" width=140><a href="https://github.com/mahynski/research-agent"><img src="https://github.com/mahynski/mahynski/blob/main/img/_tmp_research_agent_logo.png" width=70 /> Research Agent</a></td>
+    <td align="center" width=140><a href="https://github.com/mahynski/automl-agent"><img src="https://github.com/mahynski/mahynski/blob/138bdf5362984b3a7b3acf73ccfeed9aa056c37e/img/_tmp_automl_agent_logo.png" width=85 /> AutoML Agent</a></td>
   </tr>
 </table>
 
@@ -48,11 +48,11 @@ I am a father who greatly appreciates things that simplify family life, and to t
 
 <table cellpadding="0px" cellspacing="0px" class="center">   
   <tr class="">
-    <td align="center" width="12%"><a href="https://github.com/mahynski/daily-digest"><img src="https://github.com/mahynski/mahynski/blob/main/img/_tmp_daily_digest_logo.png" width=130 /></a></td>
-    <td align="center" width="12%"><a href="https://github.com/mahynski/wardrobe"><img src="https://github.com/mahynski/mahynski/blob/main/img/_tmp_wardrobe_logo.png" width=130 /></a></td>
-    <td align="center" width="12%"><a href="https://github.com/mahynski/meal-planner"><img src="https://github.com/mahynski/mahynski/blob/main/img/_tmp_meal_planner_logo.png" width=130 /></a></td>
-    <td align="center" width="12%"><a href="https://github.com/mahynski/activity-planner"><img src="https://github.com/mahynski/mahynski/blob/main/img/_tmp_activity_planner_logo.png" width=130 /></a></td>
-    <td align="center" width="12%"><a href="https://github.com/mahynski/newsletter"><img src="https://github.com/mahynski/mahynski/blob/main/img/_tmp_newsletter_logo.png" width=130 /></a></td>
+    <td align="center" width=140><a href="https://github.com/mahynski/daily-digest"><img src="https://github.com/mahynski/mahynski/blob/main/img/_tmp_daily_digest_logo.png" width=130 /></a></td>
+    <td align="center" width=140><a href="https://github.com/mahynski/wardrobe"><img src="https://github.com/mahynski/mahynski/blob/main/img/_tmp_wardrobe_logo.png" width=130 /></a></td>
+    <td align="center" width=140><a href="https://github.com/mahynski/meal-planner"><img src="https://github.com/mahynski/mahynski/blob/main/img/_tmp_meal_planner_logo.png" width=130 /></a></td>
+    <td align="center" width=140><a href="https://github.com/mahynski/activity-planner"><img src="https://github.com/mahynski/mahynski/blob/main/img/_tmp_activity_planner_logo.png" width=130 /></a></td>
+    <td align="center" width=140><a href="https://github.com/mahynski/newsletter"><img src="https://github.com/mahynski/mahynski/blob/main/img/_tmp_newsletter_logo.png" width=130 /></a></td>
   </tr>
 </table>
 
@@ -64,11 +64,11 @@ $ learn
 
 <table cellpadding="0px" cellspacing="0px" class="center">
   <tr class="">
-    <td align="center" width="12%"><a href="https://github.com/mahynski/ai-ml-library/blob/main/README.md"><img src="https://github.com/mahynski/mahynski/blob/7d367f5bed3292feb8ade0c23d1eca4cea52f312/img/_tmp_ai_ml_library_logo.png" width=70 /> Library</a></td>
-    <td align="center" width="12%"><a href="https://github.com/mahynski/gists/blob/main/README.md"><img src="https://github.com/mahynski/mahynski/blob/d59ace41992ba27cc8c6b34b1fddac1dbd26e05e/img/_tmp_gist_logo.png" width=70 /> Gists</a></td>
-    <td align="center" width="12%"><a href="https://github.com/mahynski/agent-comparisons"><img src="https://github.com/mahynski/mahynski/blob/main/img/_tmp_agent_comparisons_logo.png" width=70 /> Agent Comparisons</a></td>
-    <td align="center" width="12%"><a href="https://github.com/mahynski/reinforcement-learning"><img src="https://github.com/mahynski/mahynski/blob/main/img/_tmp_reinforcement_learning_logo.png" width=70 /> Reinforcement Learning</a></td>
-    <td align="center" width="12%"><a href="https://github.com/mahynski/pu-learning"><img src="https://github.com/mahynski/mahynski/blob/main/img/_tmp_pu_learning_logo.png" width=70 /> PU Learning</a></td>
+    <td align="center" width=140><a href="https://github.com/mahynski/ai-ml-library/blob/main/README.md"><img src="https://github.com/mahynski/mahynski/blob/7d367f5bed3292feb8ade0c23d1eca4cea52f312/img/_tmp_ai_ml_library_logo.png" width=70 /> Library</a></td>
+    <td align="center" width=140><a href="https://github.com/mahynski/gists/blob/main/README.md"><img src="https://github.com/mahynski/mahynski/blob/d59ace41992ba27cc8c6b34b1fddac1dbd26e05e/img/_tmp_gist_logo.png" width=70 /> Gists</a></td>
+    <td align="center" width=140><a href="https://github.com/mahynski/agent-comparisons"><img src="https://github.com/mahynski/mahynski/blob/main/img/_tmp_agent_comparisons_logo.png" width=70 /> Agent Comparisons</a></td>
+    <td align="center" width=140><a href="https://github.com/mahynski/reinforcement-learning"><img src="https://github.com/mahynski/mahynski/blob/main/img/_tmp_reinforcement_learning_logo.png" width=70 /> Reinforcement Learning</a></td>
+    <td align="center" width=140><a href="https://github.com/mahynski/pu-learning"><img src="https://github.com/mahynski/mahynski/blob/main/img/_tmp_pu_learning_logo.png" width=70 /> PU Learning</a></td>
   </tr>
 </table>
 
@@ -78,19 +78,19 @@ $ build
 
 <table cellpadding="0px" cellspacing="0px" class="center">   
   <tr class="">
-    <td align="center" width="12%"><a href="https://github.com/mahynski/template-uv-project"><img src="https://github.com/mahynski/mahynski/blob/46a696206e93b612d93720ad0e196e54047d855c/img/_tmp_projects_logo_uv.png" width=70 /> Template</a></td>
-    <td align="center" width="12%"><a href="https://github.com/mahynski/my_package"><img src="https://github.com/mahynski/my_package/blob/fe173222dea5d9f1609948e9e2cdcec6475f2468/docs/_static/logo_transparent.png" width=85 /> PyPI Template</a></td>
-    <td align="center" width="12%"><a href="https://github.com/mahynski/cstack"><img src="https://github.com/mahynski/mahynski/blob/main/img/_tmp_cstack_logo.png" width=70 /> cstack</a></td>
-    <!--<td align="center" width="12%"><a href="https://github.com/mahynski/template-uv-agents"><img src="https://github.com/mahynski/mahynski/blob/de99e92ea74abb6f084d52e5073e7968181da4d7/img/_tmp_agenticai_logo.png" width=70 /> Agentic AI</a></td>-->
-    <td align="center" width="12%"><a href="https://github.com/mahynski/template-finetuning"><img src="https://github.com/mahynski/mahynski/blob/1c58718b03062296495358b7a1ed07f1dceb33e0/img/_tmp_autotrain_logo.png" width=70 /> Finetuning</a></td>
-    <td align="center" width="12%"><a href="https://github.com/mahynski/template-automl"><img src="https://github.com/mahynski/mahynski/blob/32ad841baa7c7b75eab1b11cf9a756d6cfd82446/img/_tmp_automl_logo.png" width=70 /> AutoML</a></td>
+    <td align="center" width=140><a href="https://github.com/mahynski/template-uv-project"><img src="https://github.com/mahynski/mahynski/blob/46a696206e93b612d93720ad0e196e54047d855c/img/_tmp_projects_logo_uv.png" width=70 /> Template</a></td>
+    <td align="center" width=140><a href="https://github.com/mahynski/my_package"><img src="https://github.com/mahynski/my_package/blob/fe173222dea5d9f1609948e9e2cdcec6475f2468/docs/_static/logo_transparent.png" width=85 /> PyPI Template</a></td>
+    <td align="center" width=140><a href="https://github.com/mahynski/cstack"><img src="https://github.com/mahynski/mahynski/blob/main/img/_tmp_cstack_logo.png" width=70 /> cstack</a></td>
+    <!--<td align="center" width=140><a href="https://github.com/mahynski/template-uv-agents"><img src="https://github.com/mahynski/mahynski/blob/de99e92ea74abb6f084d52e5073e7968181da4d7/img/_tmp_agenticai_logo.png" width=70 /> Agentic AI</a></td>-->
+    <td align="center" width=140><a href="https://github.com/mahynski/template-finetuning"><img src="https://github.com/mahynski/mahynski/blob/1c58718b03062296495358b7a1ed07f1dceb33e0/img/_tmp_autotrain_logo.png" width=70 /> Finetuning</a></td>
+    <td align="center" width=140><a href="https://github.com/mahynski/template-automl"><img src="https://github.com/mahynski/mahynski/blob/32ad841baa7c7b75eab1b11cf9a756d6cfd82446/img/_tmp_automl_logo.png" width=70 /> AutoML</a></td>
   </tr>
   <tr class="">
-    <td align="center" width="12%"><a href="https://github.com/mahynski/template-pinn"><img src="https://github.com/mahynski/mahynski/blob/b3c4a78aa052e70909280b4a846695c8710bc5ce/img/_tmp_logo_pinn.png" width=70 /> PIML</a></td>
-    <td align="center" width="12%"><a href="https://github.com/mahynski/template-csp"><img src="https://github.com/mahynski/mahynski/blob/7a665c276bc0f41ef4e84e93726865322084326a/img/_tmp_csp_logo.png" width=70 /> CSP</a></td>
-    <td align="center" width="12%"><a href="https://github.com/mahynski/template-gis"><img src="https://github.com/mahynski/mahynski/blob/7e8eefc2cb3c709bffbae880325db6b2a671cdfc/img/_tmp_gis_logo.png" width=70 /> Deep-GIS</a></td>
-    <!-- <td align="center" width="12%"><a href="https://github.com/mahynski/path-planning"><img src="https://github.com/mahynski/mahynski/blob/main/img/_tmp_path_planning_logo.png" width=70 /> Path Planning</a></td> -->
-    <!-- <td align="center" width="12%"><a href="https://github.com/mahynski/open-world-meta"><img src="https://github.com/mahynski/mahynski/blob/main/img/_tmp_open_world_meta_logo.png" width=70 /> Open World Meta</a></td> -->
+    <td align="center" width=140><a href="https://github.com/mahynski/template-pinn"><img src="https://github.com/mahynski/mahynski/blob/b3c4a78aa052e70909280b4a846695c8710bc5ce/img/_tmp_logo_pinn.png" width=70 /> PIML</a></td>
+    <td align="center" width=140><a href="https://github.com/mahynski/template-csp"><img src="https://github.com/mahynski/mahynski/blob/7a665c276bc0f41ef4e84e93726865322084326a/img/_tmp_csp_logo.png" width=70 /> CSP</a></td>
+    <td align="center" width=140><a href="https://github.com/mahynski/template-gis"><img src="https://github.com/mahynski/mahynski/blob/7e8eefc2cb3c709bffbae880325db6b2a671cdfc/img/_tmp_gis_logo.png" width=70 /> Deep-GIS</a></td>
+    <!-- <td align="center" width=140><a href="https://github.com/mahynski/path-planning"><img src="https://github.com/mahynski/mahynski/blob/main/img/_tmp_path_planning_logo.png" width=70 /> Path Planning</a></td> -->
+    <!-- <td align="center" width=140><a href="https://github.com/mahynski/open-world-meta"><img src="https://github.com/mahynski/mahynski/blob/main/img/_tmp_open_world_meta_logo.png" width=70 /> Open World Meta</a></td> -->
   </tr>
 </table>
 
@@ -108,16 +108,16 @@ $ tar -xzvf mahynski.archive.tar.gz
 
 <table cellpadding="0px" cellspacing="0px" class="center">
   <tr class="">
-    <td align="center" width="12%"><a href="https://pychemauth.readthedocs.io/en/latest/index.html"><img src="https://github.com/mahynski/pychemauth/blob/ed26abc3ffb8f45e396e18b8661644db4a47b97b/docs/_static/logo_no.png" width=80 /> PyChemAuth</a></td>
-    <td align="center" width="12%"><a href="https://github.com/mahynski/chemometric-carpentry"><img src="https://github.com/mahynski/chemometric-carpentry/blob/058c0cb4593bbe28dc9985110bd5c5ea02d61520/logo.png" width=80 /> Chemometric Carpentry</a></td>
-    <td align="center" width="12%"><a href="https://starlingrt.readthedocs.io/en/latest/"><img src="https://github.com/mahynski/starlingrt/blob/7bbef5e033929c8d54c1142c21d5b2291bdf5444/docs/_static/logo_transparent.png" width=100 /> STARLINGrt</a></td>
-    <td align="center" width="12%"><a href="https://finchnmr.readthedocs.io/"><img src="https://github.com/mahynski/finchnmr/blob/48c9f21a7a816cab23b393da3e65bff61e649630/docs/_static/logo_small_oval.png" width=70 /> FINCHnmr</a></td>
+    <td align="center" width=140><a href="https://pychemauth.readthedocs.io/en/latest/index.html"><img src="https://github.com/mahynski/pychemauth/blob/ed26abc3ffb8f45e396e18b8661644db4a47b97b/docs/_static/logo_no.png" width=80 /> PyChemAuth</a></td>
+    <td align="center" width=140><a href="https://github.com/mahynski/chemometric-carpentry"><img src="https://github.com/mahynski/chemometric-carpentry/blob/058c0cb4593bbe28dc9985110bd5c5ea02d61520/logo.png" width=80 /> Chemometric Carpentry</a></td>
+    <td align="center" width=140><a href="https://starlingrt.readthedocs.io/en/latest/"><img src="https://github.com/mahynski/starlingrt/blob/7bbef5e033929c8d54c1142c21d5b2291bdf5444/docs/_static/logo_transparent.png" width=100 /> STARLINGrt</a></td>
+    <td align="center" width=140><a href="https://finchnmr.readthedocs.io/"><img src="https://github.com/mahynski/finchnmr/blob/48c9f21a7a816cab23b393da3e65bff61e649630/docs/_static/logo_small_oval.png" width=70 /> FINCHnmr</a></td>
   </tr>
   <tr class="">
-    <td align="center" width="12%"><a href="https://github.com/usnistgov/escherized-colloids"><img src="https://github.com/usnistgov/escherized-colloids/blob/bfcdbb7a4e613bf264d4262b7b9cc73b03ae2b04/logo.png" width=100 /> Escherized Colloids</a></td>
-    <td align="center" width="12%"><a href="https://github.com/mahynski/apo"><img src="https://github.com/mahynski/mahynski/blob/51814ad1dbd92ed50f4069ea960f821031f51000/img/_tmp_apo_public_logo.png" width=60 /> Auto Prompt Optimization</a></td>
-    <td align="center" width="12%"><a href="https://huggingface.co/spaces/mahynski/RAG-private"><img src="https://github.com/mahynski/mahynski/blob/dd73cf13a47e67f1f0219f96e2b682b568293a88/img/raggiana-bird-of-paradise.png" width=110 /></a> <a href="https://huggingface.co/spaces/mahynski/RAG">RAG Data Extraction</a></td>
-    <td align="center" width="12%"><a href="https://github.com/mahynski/cd2"><img src="https://github.com/mahynski/mahynski/blob/35f84999f03354be6cf31c5bfbe02dea059e06fa/img/_tmp_cd2_public_logo.png" width=110 /> CD<sup>2</sup></a></td>
+    <td align="center" width=140><a href="https://github.com/usnistgov/escherized-colloids"><img src="https://github.com/usnistgov/escherized-colloids/blob/bfcdbb7a4e613bf264d4262b7b9cc73b03ae2b04/logo.png" width=100 /> Escherized Colloids</a></td>
+    <td align="center" width=140><a href="https://github.com/mahynski/apo"><img src="https://github.com/mahynski/mahynski/blob/51814ad1dbd92ed50f4069ea960f821031f51000/img/_tmp_apo_public_logo.png" width=60 /> Auto Prompt Optimization</a></td>
+    <td align="center" width=140><a href="https://huggingface.co/spaces/mahynski/RAG-private"><img src="https://github.com/mahynski/mahynski/blob/dd73cf13a47e67f1f0219f96e2b682b568293a88/img/raggiana-bird-of-paradise.png" width=110 /></a> <a href="https://huggingface.co/spaces/mahynski/RAG">RAG Data Extraction</a></td>
+    <td align="center" width=140><a href="https://github.com/mahynski/cd2"><img src="https://github.com/mahynski/mahynski/blob/35f84999f03354be6cf31c5bfbe02dea059e06fa/img/_tmp_cd2_public_logo.png" width=110 /> CD<sup>2</sup></a></td>
   </tr>
 </table>
 
