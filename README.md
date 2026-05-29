@@ -17,6 +17,18 @@ $ tl;dr
 $ quickstart
 ~~~
 
+<table cellpadding="0px" cellspacing="0px" class="center">
+  <tr class="">
+    <td align="center" width="12%"><a href="https://github.com/mahynski/research-agent"><img src="https://github.com/mahynski/mahynski/blob/main/img/_tmp_research_agent_logo.png" width=70 /> Research Agent</a></td>
+    <td align="center" width="12%"><a href="https://github.com/mahynski/paper-research"><img src="https://github.com/mahynski/mahynski/blob/main/img/_tmp_paper_research_logo.png" width=70 /> Paper Research</a></td>
+    <td align="center" width="12%"><a href="https://github.com/mahynski/automl-agent"><img src="https://github.com/mahynski/mahynski/blob/138bdf5362984b3a7b3acf73ccfeed9aa056c37e/img/_tmp_automl_agent_logo.png" width=85 /> AutoML Agent</a></td>
+  </tr>
+</table>
+
+~~~bash
+$ build
+~~~
+
 <table cellpadding="0px" cellspacing="0px" class="center">   
   <tr class="">
     <td align="center" width="12%"><a href="https://github.com/mahynski/ai-ml-library/blob/main/README.md"><img src="https://github.com/mahynski/mahynski/blob/7d367f5bed3292feb8ade0c23d1eca4cea52f312/img/_tmp_ai_ml_library_logo.png" width=70 /> Library</a></td>
@@ -37,18 +49,6 @@ $ quickstart
     <td align="center" width="12%"><a href="https://github.com/mahynski/pu-learning"><img src="https://github.com/mahynski/mahynski/blob/main/img/_tmp_pu_learning_logo.png" width=70 /> PU Learning</a></td>
     <!-- <td align="center" width="12%"><a href="https://github.com/mahynski/path-planning"><img src="https://github.com/mahynski/mahynski/blob/main/img/_tmp_path_planning_logo.png" width=70 /> Path Planning</a></td> -->
     <!-- <td align="center" width="12%"><a href="https://github.com/mahynski/open-world-meta"><img src="https://github.com/mahynski/mahynski/blob/main/img/_tmp_open_world_meta_logo.png" width=70 /> Open World Meta</a></td> -->
-  </tr>
-</table>
-
-~~~bash
-$ agents
-~~~
-
-<table cellpadding="0px" cellspacing="0px" class="center">
-  <tr class="">
-    <td align="center" width="12%"><a href="https://github.com/mahynski/research-agent"><img src="https://github.com/mahynski/mahynski/blob/main/img/_tmp_research_agent_logo.png" width=70 /> Research Agent</a></td>
-    <td align="center" width="12%"><a href="https://github.com/mahynski/paper-research"><img src="https://github.com/mahynski/mahynski/blob/main/img/_tmp_paper_research_logo.png" width=70 /> Paper Research</a></td>
-    <td align="center" width="12%"><a href="https://github.com/mahynski/automl-agent"><img src="https://github.com/mahynski/mahynski/blob/138bdf5362984b3a7b3acf73ccfeed9aa056c37e/img/_tmp_automl_agent_logo.png" width=85 /> AutoML Agent</a></td>
   </tr>
 </table>
 
