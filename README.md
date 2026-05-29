@@ -19,9 +19,9 @@ $ quickstart
 
 <table cellpadding="0px" cellspacing="0px" class="center">
   <tr class="">
-    <td align="center" width=140><a href="https://github.com/mahynski/paper-research"><img src="https://github.com/mahynski/mahynski/blob/main/img/_tmp_paper_research_logo.png" width=70 /> Paper Research</a></td>
-    <td align="center" width=140><a href="https://github.com/mahynski/research-agent"><img src="https://github.com/mahynski/mahynski/blob/main/img/_tmp_research_agent_logo.png" width=70 /> Research Agent</a></td>
-    <td align="center" width=140><a href="https://github.com/mahynski/automl-agent"><img src="https://github.com/mahynski/mahynski/blob/138bdf5362984b3a7b3acf73ccfeed9aa056c37e/img/_tmp_automl_agent_logo.png" width=85 /> AutoML Agent</a></td>
+    <td align="center" width=90><a href="https://github.com/mahynski/paper-research"><img src="https://github.com/mahynski/mahynski/blob/main/img/_tmp_paper_research_logo.png" width=70 /> Paper Research</a></td>
+    <td align="center" width=90><a href="https://github.com/mahynski/research-agent"><img src="https://github.com/mahynski/mahynski/blob/main/img/_tmp_research_agent_logo.png" width=70 /> Research Agent</a></td>
+    <td align="center" width=90><a href="https://github.com/mahynski/automl-agent"><img src="https://github.com/mahynski/mahynski/blob/138bdf5362984b3a7b3acf73ccfeed9aa056c37e/img/_tmp_automl_agent_logo.png" width=85 /> AutoML Agent</a></td>
   </tr>
 </table>
 
