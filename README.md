@@ -84,8 +84,6 @@ $ build
     <!--<td align="center" width=90><a href="https://github.com/mahynski/template-uv-agents"><img src="https://github.com/mahynski/mahynski/blob/de99e92ea74abb6f084d52e5073e7968181da4d7/img/_tmp_agenticai_logo.png" width=70 /> Agentic AI</a></td>-->
     <td align="center" width=90><a href="https://github.com/mahynski/template-finetuning"><img src="https://github.com/mahynski/mahynski/blob/1c58718b03062296495358b7a1ed07f1dceb33e0/img/_tmp_autotrain_logo.png" width=70 /> Finetuning</a></td>
     <td align="center" width=90><a href="https://github.com/mahynski/template-automl"><img src="https://github.com/mahynski/mahynski/blob/32ad841baa7c7b75eab1b11cf9a756d6cfd82446/img/_tmp_automl_logo.png" width=70 /> AutoML</a></td>
-  </tr>
-  <tr class="">
     <td align="center" width=90><a href="https://github.com/mahynski/template-pinn"><img src="https://github.com/mahynski/mahynski/blob/b3c4a78aa052e70909280b4a846695c8710bc5ce/img/_tmp_logo_pinn.png" width=70 /> PIML</a></td>
     <td align="center" width=90><a href="https://github.com/mahynski/template-csp"><img src="https://github.com/mahynski/mahynski/blob/7a665c276bc0f41ef4e84e93726865322084326a/img/_tmp_csp_logo.png" width=70 /> CSP</a></td>
     <td align="center" width=90><a href="https://github.com/mahynski/template-gis"><img src="https://github.com/mahynski/mahynski/blob/7e8eefc2cb3c709bffbae880325db6b2a671cdfc/img/_tmp_gis_logo.png" width=70 /> Deep-GIS</a></td>
