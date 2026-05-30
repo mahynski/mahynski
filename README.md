@@ -78,9 +78,9 @@ $ build
 
 <table cellpadding="0px" cellspacing="0px" class="center">   
   <tr class="">
-    <td align="center" width=90><a href="https://github.com/mahynski/template-uv-project"><img src="https://github.com/mahynski/mahynski/blob/46a696206e93b612d93720ad0e196e54047d855c/img/_tmp_projects_logo_uv.png" width=70 /> Template</a></td>
-    <td align="center" width=90><a href="https://github.com/mahynski/my_package"><img src="https://github.com/mahynski/my_package/blob/fe173222dea5d9f1609948e9e2cdcec6475f2468/docs/_static/logo_transparent.png" width=85 /> PyPI Template</a></td>
     <td align="center" width=90><a href="https://github.com/mahynski/cstack"><img src="https://github.com/mahynski/mahynski/blob/main/img/_tmp_cstack_logo.png" width=70 /> cstack</a></td>
+    <td align="center" width=90><a href="https://github.com/mahynski/my_package"><img src="https://github.com/mahynski/my_package/blob/fe173222dea5d9f1609948e9e2cdcec6475f2468/docs/_static/logo_transparent.png" width=85 /> PyPI Template</a></td>
+    <td align="center" width=90><a href="https://github.com/mahynski/template-uv-project"><img src="https://github.com/mahynski/mahynski/blob/46a696206e93b612d93720ad0e196e54047d855c/img/_tmp_projects_logo_uv.png" width=70 /> Template</a></td>
     <!--<td align="center" width=90><a href="https://github.com/mahynski/template-uv-agents"><img src="https://github.com/mahynski/mahynski/blob/de99e92ea74abb6f084d52e5073e7968181da4d7/img/_tmp_agenticai_logo.png" width=70 /> Agentic AI</a></td>-->
     <td align="center" width=90><a href="https://github.com/mahynski/template-finetuning"><img src="https://github.com/mahynski/mahynski/blob/1c58718b03062296495358b7a1ed07f1dceb33e0/img/_tmp_autotrain_logo.png" width=70 /> Finetuning</a></td>
     <td align="center" width=90><a href="https://github.com/mahynski/template-automl"><img src="https://github.com/mahynski/mahynski/blob/32ad841baa7c7b75eab1b11cf9a756d6cfd82446/img/_tmp_automl_logo.png" width=70 /> AutoML</a></td>
