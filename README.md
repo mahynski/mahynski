@@ -31,20 +31,20 @@ $ whoami
 
 ### Professionally
 
-I specialize in designing, developing, and deploying computational tools to solve problems alongside subject matter experts in a wide range of disciplines. 
-Since 2010, I have been developing AI/ML/data science tools and computer simulations including agentic AI, AutoML, physics encoded models (e.g., physics-informed neural networks), signal-based outlier detection, and generative AI tools for threat and fraud detection.
-At Altamira, I help create data-accelerated analytic, operations, and engineering solutions for partners in the 
+I translate AI and HPC tools into solutions by working alongside subject matter experts across a range of disciplines. 
+Since 2010, I have been building AI/ML/data science products and computer simulations including agentic AI, AutoML, physics encoded models (e.g., physics-informed neural networks), signal-based outlier detection, and generative AI tools for threat and fraud detection.
+At Altamira, I create data-accelerated analytic, operations, and engineering solutions for partners in the 
 * :satellite: intelligence,
 * :rocket: space, and
 * :boom: defense industries.
 
-My career began [@NIST](https://www.nist.gov/) using data science, AI/ML, molecular simulations, and other advanced modeling tools to make data-driven discoveries in fields like material science, nuclear chemistry, detection of food fraud, and environmental monitoring. These topics are described in more detail below.
+My career began [@NIST](https://www.nist.gov/) using advanced modeling tools to make data-driven discoveries in fields like material science, nuclear chemistry, detection of food fraud, and environmental monitoring. These topics are described in more detail below.
 
 📃 CV available upon <a href="mailto:nathan.mahynski@gmail.com">request</a>.
 
 ### Personally
 
-I am a father who greatly appreciates things that simplify family life, and to this end have built an array of tools I use daily. If they can help anyone else stay on top of things, I'm happy to share.
+I am a father who greatly appreciates things that simplify everyday life, and to this end have built an array of tools I use daily. If they can help anyone else stay on top of things, I'm happy to share.
 
 <table cellpadding="0px" cellspacing="0px" class="center">   
   <tr class="">
