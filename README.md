@@ -46,13 +46,40 @@ My career began [@NIST](https://www.nist.gov/) using advanced modeling tools to 
 
 I am a father who greatly appreciates things that simplify everyday life, and to this end have built an array of tools I use daily. If they can help anyone else stay on top of things, I'm happy to share.
 
-<table cellpadding="0px" cellspacing="0px" class="center">   
-  <tr class="">
-    <td align="center" width=140><a href="https://github.com/mahynski/daily-digest"><img src="https://github.com/mahynski/mahynski/blob/main/img/_tmp_daily_digest_logo.png" width=70 /></a></td>
-    <td align="center" width=140><a href="https://github.com/mahynski/wardrobe"><img src="https://github.com/mahynski/mahynski/blob/main/img/_tmp_wardrobe_logo.png" width=70 /></a></td>
-    <td align="center" width=140><a href="https://github.com/mahynski/meal-planner"><img src="https://github.com/mahynski/mahynski/blob/main/img/_tmp_meal_planner_logo.png" width=70 /></a></td>
-    <td align="center" width=140><a href="https://github.com/mahynski/activity-planner"><img src="https://github.com/mahynski/mahynski/blob/main/img/_tmp_activity_planner_logo.png" width=70 /></a></td>
-    <td align="center" width=140><a href="https://github.com/mahynski/newsletter"><img src="https://github.com/mahynski/mahynski/blob/main/img/_tmp_newsletter_logo.png" width=70 /></a></td>
+<!--
+  Daily Digest sits at the hub. Each spoke app lives at the cardinal point whose
+  colored square on the wheel matches its own brand color:
+    North = blue   -> Activity Planner
+    East  = orange -> Newsletter
+    South = green  -> Meal Planner
+    West  = red    -> Wardrobe
+  Every logo is wrapped in its own <a> so it is independently clickable.
+-->
+<table cellpadding="0px" cellspacing="0px" align="center">
+  <tr>
+    <td width=150></td>
+    <td width=150 align="center" valign="bottom">
+      <a href="https://github.com/mahynski/activity-planner" title="Activity Planner"><img src="https://github.com/mahynski/mahynski/blob/main/img/_tmp_activity_planner_logo.png" width=90 /></a>
+    </td>
+    <td width=150></td>
+  </tr>
+  <tr>
+    <td width=150 align="right" valign="middle">
+      <a href="https://github.com/mahynski/wardrobe" title="Wardrobe"><img src="https://github.com/mahynski/mahynski/blob/main/img/_tmp_wardrobe_logo.png" width=90 /></a>
+    </td>
+    <td width=150 align="center" valign="middle">
+      <a href="https://github.com/mahynski/daily-digest" title="Daily Digest"><img src="https://github.com/mahynski/mahynski/blob/main/img/_tmp_daily_digest_logo.png" width=150 /></a>
+    </td>
+    <td width=150 align="left" valign="middle">
+      <a href="https://github.com/mahynski/newsletter" title="Newsletter"><img src="https://github.com/mahynski/mahynski/blob/main/img/_tmp_newsletter_logo.png" width=90 /></a>
+    </td>
+  </tr>
+  <tr>
+    <td width=150></td>
+    <td width=150 align="center" valign="top">
+      <a href="https://github.com/mahynski/meal-planner" title="Meal Planner"><img src="https://github.com/mahynski/mahynski/blob/main/img/_tmp_meal_planner_logo.png" width=90 /></a>
+    </td>
+    <td width=150></td>
   </tr>
 </table>
 
