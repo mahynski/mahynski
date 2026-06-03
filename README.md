@@ -57,29 +57,29 @@ I am a father who greatly appreciates things that simplify everyday life, and to
 -->
 <table cellpadding="0px" cellspacing="0px" align="center">
   <tr>
-    <td width=60></td>
+    <td width=80></td>
     <td width=80 align="center" valign="bottom">
       <a href="https://github.com/mahynski/activity-planner" title="Activity Planner"><img src="https://github.com/mahynski/mahynski/blob/main/img/_tmp_activity_planner_logo.png" width=60 /></a>
     </td>
-    <td width=60></td>
+    <td width=80></td>
   </tr>
   <tr>
-    <td width=60 align="right" valign="middle">
-      <a href="https://github.com/mahynski/wardrobe" title="Wardrobe"><img src="https://github.com/mahynski/mahynski/blob/main/img/_tmp_wardrobe_logo.png" width=60 /></a>
+    <td width=80 align="right" valign="middle">
+      <a href="https://github.com/mahynski/wardrobe" title="Wardrobe"><img src="https://github.com/mahynski/mahynski/blob/main/img/_tmp_wardrobe_logo.png" width=80 /></a>
     </td>
     <td width=80 align="center" valign="middle">
       <a href="https://github.com/mahynski/daily-digest" title="Daily Digest"><img src="https://github.com/mahynski/mahynski/blob/main/img/_tmp_daily_digest_logo.png" width=80 /></a>
     </td>
-    <td width=60 align="left" valign="middle">
-      <a href="https://github.com/mahynski/newsletter" title="Newsletter"><img src="https://github.com/mahynski/mahynski/blob/main/img/_tmp_newsletter_logo.png" width=60 /></a>
+    <td width=80 align="left" valign="middle">
+      <a href="https://github.com/mahynski/newsletter" title="Newsletter"><img src="https://github.com/mahynski/mahynski/blob/main/img/_tmp_newsletter_logo.png" width=80 /></a>
     </td>
   </tr>
   <tr>
-    <td width=60></td>
+    <td width=80></td>
     <td width=80 align="center" valign="top">
       <a href="https://github.com/mahynski/meal-planner" title="Meal Planner"><img src="https://github.com/mahynski/mahynski/blob/main/img/_tmp_meal_planner_logo.png" width=60 /></a>
     </td>
-    <td width=60></td>
+    <td width=80></td>
   </tr>
 </table>
 
