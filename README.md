@@ -63,7 +63,7 @@ I am a father who greatly appreciates things that simplify everyday life, and to
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/mahynski/daily-digest" title="Daily Digest"><img src="https://github.com/mahynski/mahynski/blob/main/img/_tmp_daily_digest_logo.png" width=80 /></a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/mahynski/newsletter" title="Newsletter"><img src="https://github.com/mahynski/mahynski/blob/main/img/_tmp_newsletter_logo.png" width=80 /></a>
+  <a href="https://github.com/mahynski/newsletter" title="Newsletter"><img src="https://github.com/mahynski/mahynski/blob/main/img/_tmp_newsletter_logo.png" width=72 /></a>
 </p>
 <p align="center">
   <a href="https://github.com/mahynski/meal-planner" title="Meal Planner"><img src="https://github.com/mahynski/mahynski/blob/main/img/_tmp_meal_planner_logo.png" width=60 /></a>
