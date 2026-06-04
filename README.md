@@ -19,7 +19,7 @@ $ quickstart
 
 <table cellpadding="0px" cellspacing="0px" class="center">
   <tr class="">
-    <td align="center" width=100><a href="https://github.com/mahynski/paper-research"><img src="https://github.com/mahynski/mahynski/blob/main/img/_tmp_paper_research_logo.png" width=85 /></a></td>
+    <td align="center" width=130><a href="https://github.com/mahynski/paper-research"><img src="https://github.com/mahynski/mahynski/blob/main/img/_tmp_paper_research_logo.png" width=120 /></a></td>
     <td align="center" width=90><a href="https://github.com/mahynski/research-agent"><img src="https://github.com/mahynski/mahynski/blob/main/img/_tmp_research_agent_logo.png" width=85 /></a></td>
     <td align="center" width=90><a href="https://github.com/mahynski/automl-agent"><img src="https://github.com/mahynski/mahynski/blob/main/img/_tmp_automl_agent_logo.png" width=85 /></a></td>
   </tr>
