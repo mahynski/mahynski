@@ -44,7 +44,7 @@ My career began [@NIST](https://www.nist.gov/) using advanced modeling tools to 
 
 ### Personally
 
-I am a father who greatly appreciates things that simplify everyday life, and to this end have built an array of tools I use daily. If they can help anyone else stay on top of things, I'm happy to share.
+I am a father who greatly appreciates things that simplify everyday life, and to this end have built an array of tools I use daily. This is my home stack of Claude plugins. If they can help anyone else stay on top of things, I'm happy to share.
 
 <!--
   Daily Digest sits at the hub. Each spoke app lives at the cardinal point whose
