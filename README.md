@@ -80,7 +80,7 @@ $ learn
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/mahynski/gists/blob/main/README.md" title="Gists"><img src="https://github.com/mahynski/mahynski/blob/main/img/_tmp_gist_logo.png" width=85 /></a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/mahynski/agent-comparisons" title="Agent Comparisons"><img src="https://github.com/mahynski/mahynski/blob/main/img/_tmp_agent_comparisons_logo.png" width=85 /></a>
+  <a href="https://github.com/mahynski/agent-comparisons" title="Agent Comparisons"><img src="https://github.com/mahynski/mahynski/blob/main/img/_tmp_agent_comparisons_logo.png" width=60 /></a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/mahynski/reinforcement-learning" title="Reinforcement Learning"><img src="https://github.com/mahynski/mahynski/blob/main/img/_tmp_reinforcement_learning_logo.png" width=70 /></a>
   &nbsp;&nbsp;&nbsp;&nbsp;
