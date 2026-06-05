@@ -75,15 +75,17 @@ I am a father who greatly appreciates things that simplify everyday life, and to
 $ learn
 ~~~
 
-<table cellpadding="0px" cellspacing="0px" class="center">
-  <tr class="">
-    <td align="center" width=90><a href="https://github.com/mahynski/ai-ml-library/blob/main/README.md"><img src="https://raw.githubusercontent.com/mahynski/mahynski/main/img/_tmp_ai_ml_library_logo.png" width=70 /></a></td>
-    <td align="center" width=90><a href="https://github.com/mahynski/gists/blob/main/README.md"><img src="https://github.com/mahynski/mahynski/blob/main/img/_tmp_gist_logo.png" width=70 /></a></td>
-    <td align="center" width=90><a href="https://github.com/mahynski/agent-comparisons"><img src="https://github.com/mahynski/mahynski/blob/main/img/_tmp_agent_comparisons_logo.png" width=70 /></a></td>
-    <td align="center" width=90><a href="https://github.com/mahynski/reinforcement-learning"><img src="https://github.com/mahynski/mahynski/blob/main/img/_tmp_reinforcement_learning_logo.png" width=70 /></a></td>
-    <td align="center" width=90><a href="https://github.com/mahynski/pu-learning"><img src="https://github.com/mahynski/mahynski/blob/main/img/_tmp_pu_learning_logo.png" width=70 /></a></td>
-  </tr>
-</table>
+<p align="center">
+  <a href="https://github.com/mahynski/ai-ml-library/blob/main/README.md" title="AI/ML Library"><img src="https://raw.githubusercontent.com/mahynski/mahynski/main/img/_tmp_ai_ml_library_logo.png" width=70 /></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/mahynski/gists/blob/main/README.md" title="Gists"><img src="https://github.com/mahynski/mahynski/blob/main/img/_tmp_gist_logo.png" width=70 /></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/mahynski/agent-comparisons" title="Agent Comparisons"><img src="https://github.com/mahynski/mahynski/blob/main/img/_tmp_agent_comparisons_logo.png" width=70 /></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/mahynski/reinforcement-learning" title="Reinforcement Learning"><img src="https://github.com/mahynski/mahynski/blob/main/img/_tmp_reinforcement_learning_logo.png" width=70 /></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/mahynski/pu-learning" title="PU Learning"><img src="https://github.com/mahynski/mahynski/blob/main/img/_tmp_pu_learning_logo.png" width=70 /></a>
+</p>
 
 ~~~bash
 $ build
