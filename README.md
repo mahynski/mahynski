@@ -17,13 +17,13 @@ $ tl;dr
 $ quickstart
 ~~~
 
-<table cellpadding="0px" cellspacing="0px" class="center">
-  <tr class="">
-    <td align="center" width=110><a href="https://github.com/mahynski/paper-research"><img src="https://github.com/mahynski/mahynski/blob/main/img/_tmp_paper_research_logo.png" width=100 /></a></td>
-    <td align="center" width=90><a href="https://github.com/mahynski/research-agent"><img src="https://github.com/mahynski/mahynski/blob/main/img/_tmp_research_agent_logo.png" width=85 /></a></td>
-    <td align="center" width=90><a href="https://github.com/mahynski/automl-agent"><img src="https://github.com/mahynski/mahynski/blob/main/img/_tmp_automl_agent_logo.png" width=85 /></a></td>
-  </tr>
-</table>
+<p align="center">
+  <a href="https://github.com/mahynski/paper-research" title="Paper Research"><img src="https://github.com/mahynski/mahynski/blob/main/img/_tmp_paper_research_logo.png" width=100 /></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/mahynski/research-agent" title="Research Agent"><img src="https://github.com/mahynski/mahynski/blob/main/img/_tmp_research_agent_logo.png" width=85 /></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/mahynski/automl-agent" title="AutoML Agent"><img src="https://github.com/mahynski/mahynski/blob/main/img/_tmp_automl_agent_logo.png" width=85 /></a>
+</p>
 
 ~~~bash
 $ whoami
