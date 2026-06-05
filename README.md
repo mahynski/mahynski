@@ -18,7 +18,7 @@ $ quickstart
 ~~~
 
 <p align="center">
-  <a href="https://github.com/mahynski/paper-research" title="Paper Research"><img src="https://github.com/mahynski/mahynski/blob/main/img/_tmp_paper_research_logo.png" width=100 /></a>
+  <a href="https://github.com/mahynski/paper-research" title="Paper Research"><img src="https://github.com/mahynski/mahynski/blob/main/img/_tmp_paper_research_logo.png" width=120 /></a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/mahynski/research-agent" title="Research Agent"><img src="https://github.com/mahynski/mahynski/blob/main/img/_tmp_research_agent_logo.png" width=85 /></a>
   &nbsp;&nbsp;&nbsp;&nbsp;
