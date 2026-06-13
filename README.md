@@ -25,8 +25,6 @@ $ quickstart
 $ whoami
 ~~~
 
-### Professionally
-
 I translate AI and HPC tools into solutions by working alongside subject matter experts across a range of disciplines. 
 Since 2010, I have been building AI/ML/data science products and computer simulations including agentic AI, AutoML, physics encoded models (e.g., physics-informed neural networks), signal-based outlier detection, and generative AI tools for threat and fraud detection.
 At Altamira, I create data-accelerated analytic, operations, and engineering solutions for partners in the 
@@ -37,33 +35,6 @@ At Altamira, I create data-accelerated analytic, operations, and engineering sol
 My career began [@NIST](https://www.nist.gov/) using advanced modeling tools to make data-driven discoveries in fields like material science, nuclear chemistry, detection of food fraud, and environmental monitoring. These topics are described in more detail below.
 
 📃 CV available upon <a href="mailto:nathan.mahynski@gmail.com">request</a>.
-
-### Personally
-
-I am a father who greatly appreciates things that simplify everyday life, and to this end have built an array of tools I use daily. This is my home stack of Claude plugins. If they can help anyone else stay on top of things, I'm happy to share.
-
-<!--
-  Daily Digest sits at the hub. Each spoke app lives at the cardinal point whose
-  colored square on the wheel matches its own brand color:
-    North = blue   -> Activity Planner
-    East  = orange -> Newsletter
-    South = green  -> Meal Planner
-    West  = red    -> Wardrobe
-  Every logo is wrapped in its own <a> so it is independently clickable.
--->
-<p align="center">
-  &nbsp;&nbsp;&nbsp;<a href="https://github.com/mahynski/activity-planner" title="Activity Planner"><img src="https://github.com/mahynski/mahynski/blob/main/img/_tmp_activity_planner_logo.png" width=60 /></a>
-</p>
-<p align="center">
-  <a href="https://github.com/mahynski/wardrobe" title="Wardrobe"><img src="https://github.com/mahynski/mahynski/blob/main/img/_tmp_wardrobe_logo.png" width=80 /></a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/mahynski/daily-digest" title="Daily Digest"><img src="https://github.com/mahynski/mahynski/blob/main/img/_tmp_daily_digest_logo.png" width=80 /></a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/mahynski/newsletter" title="Newsletter"><img src="https://github.com/mahynski/mahynski/blob/main/img/_tmp_newsletter_logo.png" width=68 /></a>
-</p>
-<p align="center">
-  &nbsp;&nbsp;&nbsp;<a href="https://github.com/mahynski/meal-planner" title="Meal Planner"><img src="https://github.com/mahynski/mahynski/blob/main/img/_tmp_meal_planner_logo.png" width=60 /></a>
-</p>
 
 ## Recent Endeavors
 
