@@ -119,7 +119,7 @@ Developing reproducible, transparent modeling pipelines and methods requires sta
     <li><a href="https://pychemauth.readthedocs.io/en/latest/index.html">PyChemAuth</a></li>
     <li>A <a href="https://github.com/mahynski/chemometric-carpentry">short course</a> in chemometric carpentry to systematically build these tools</li>
     <li><a href="https://chemometric-carpentry-periodic-table.streamlit.app/">Trace Element Correlation Explorer Demo</a></li>
-    <li><a href="http://callisto.nist.gov/site-web-interface-dev/dev/">SITE database @NIST</a> (should be live soon!)</li>
+    <li><a href="http://callisto.nist.gov/site-web-interface-dev/dev/">SITE database @NIST</a></li>
   </ul>
   <hr>
 </details>
@@ -183,7 +183,7 @@ Developing reproducible, transparent modeling pipelines and methods requires sta
   <ul>
     <li><a href="https://huggingface.co/collections/mahynski/biorepository-modeling-66fb5ae309158714ab059f82">Collection of datasets and models on HuggingFace.</a></li>
     <li><a href="https://doi.org/10.1021/acs.est.2c01894">"Building Interpretable Machine Learning Models to Identify Chemometric Trends in Seabirds of the North Pacific Ocean,"</a> N. A. Mahynski, J. M. Ragland, S. S. Schuur, V. K. Shen, Environ. Sci. Technol. <b>56</b>, 14361-14374 (2022). Also see the associated <a href="https://github.com/mahynski/stamp-dataset-1999-2010">GitHub repo</a>.</li>
-<!--     <li>Predicting the geographic provenance of American oysters (coming soon!)</li> -->
+    <li><a href="https://github.com/mahynski/cd2">cd2</a> is a toolkit which uses graph partitioning to suggest how classes should be combined in ways that increase classification model performance.</li>
   </ul>
   <hr>
 </details>
