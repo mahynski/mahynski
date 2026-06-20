@@ -76,17 +76,17 @@ $ build
   </tr>
 </table>
 
-<!--
-~~~bash
-$ cat /home/mahynski/.profile | more
-~~~
--->
-
 ## Previous Work
 
 ~~~bash
+$ cat /home/mahynski/.profile | more
+~~~
+
+<!--
+~~~bash
 $ tar -xzvf mahynski.archive.tar.gz
 ~~~
+-->
 
 <!--
 <table cellpadding="0px" cellspacing="0px" class="center">
