@@ -9,6 +9,7 @@ $ tl;dr
 * <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Princeton_seal.svg/960px-Princeton_seal.svg.png" height=15 /> [Princeton Univ.](princeton.edu) | 2010 - 2015, Ph.D. & M.A. Chem. Engineering, Computational & Information Science. Thesis on the Statistical Mechanics of Colloidal Self-Assembly.
 * <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Purdue_Boilermakers_logo.svg" height=13 /> [Purdue Univ.](purdue.edu) | 2006 - 2010, B.S. Chem. Engineering, Minor in Chemistry
 
+<!--
 ~~~bash
 $ quickstart
 ~~~
@@ -20,6 +21,7 @@ $ quickstart
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/mahynski/automl-agent" title="AutoML Agent"><img src="https://github.com/mahynski/mahynski/blob/main/img/_tmp_automl_agent_logo.png" width=85 /></a>
 </p>
+-->
 
 ~~~bash
 $ whoami
@@ -86,6 +88,7 @@ $ cat /home/mahynski/.profile | more
 $ tar -xzvf mahynski.archive.tar.gz
 ~~~
 
+<!--
 <table cellpadding="0px" cellspacing="0px" class="center">
   <tr class="">
     <td align="center" width=90><a href="https://pychemauth.readthedocs.io/en/latest/index.html"><img src="https://github.com/mahynski/pychemauth/blob/ed26abc3ffb8f45e396e18b8661644db4a47b97b/docs/_static/logo_no.png" width=80 /> PyChemAuth</a></td>
@@ -98,6 +101,7 @@ $ tar -xzvf mahynski.archive.tar.gz
     <td align="center" width=90><a href="https://github.com/mahynski/cd2"><img src="https://github.com/mahynski/mahynski/blob/35f84999f03354be6cf31c5bfbe02dea059e06fa/img/_tmp_cd2_public_logo.png" width=80 /> Class Discovery</a></td>
   </tr>
 </table>
+-->
 
 Developing reproducible, transparent modeling pipelines and methods requires standardized open-source tools. While working @NIST, I developed [PyChemAuth](http://pychemauth.readthedocs.io) to help chemometricians, cheminformatics professionals, and other researchers build end-to-end data science workflows from [exploratory data analysis](https://pychemauth.readthedocs.io/en/latest/jupyter/api/eda.html), to [model optimization and comparison](https://pychemauth.readthedocs.io/en/latest/jupyter/api/comparing_pipelines.html), to [public distribution](https://pychemauth.readthedocs.io/en/latest/jupyter/api/sharing_models.html). Most data-driven projects below rely on this package. Check out the [workshop](https://pychemauth.readthedocs.io/en/latest/carpentry.html) and [API Examples](https://pychemauth.readthedocs.io/en/latest/examples.html) for more information if you find it helpful.
 
