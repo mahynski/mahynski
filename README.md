@@ -4,10 +4,12 @@
 $ tl;dr
 ~~~
 
-* **:robot: [Altamira](https://www.altamiracorp.com/) | 2025 - present, Principal AI Scientist**, Building Agentic AI, AutoML, and physics informed solutions.
-* 📏 [NIST](https://www.nist.gov) | 2015 – 2025, Group Leader at Chemical Informatics Group, 10+ years of experience designing numerical algorithms for applications in soft matter physics and thermodynamics.
-* <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Princeton_seal.svg/960px-Princeton_seal.svg.png" height=15 /> [Princeton Univ.](princeton.edu) | 2010 - 2015, Ph.D. & M.A. Chem. Engineering, Computational & Information Science. Thesis on the Statistical Mechanics of Colloidal Self-Assembly.
-* <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Purdue_Boilermakers_logo.svg" height=13 /> [Purdue Univ.](purdue.edu) | 2006 - 2010, B.S. Chem. Engineering, Minor in Chemistry
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mahynski/mahynski/main/img/tldr_card-dark.png" />
+  <img src="https://raw.githubusercontent.com/mahynski/mahynski/main/img/tldr_card-light.png" width="100%" alt="tl;dr — career and education timeline" />
+</picture>
+
+<sub>🔗 <a href="https://www.altamiracorp.com/">Altamira</a> &nbsp;·&nbsp; <a href="https://www.nist.gov">NIST</a> &nbsp;·&nbsp; <a href="https://www.princeton.edu">Princeton Univ.</a> &nbsp;·&nbsp; <a href="https://www.purdue.edu">Purdue Univ.</a></sub>
 
 <!--
 ~~~bash
@@ -27,16 +29,12 @@ $ quickstart
 $ whoami
 ~~~
 
-I translate AI and HPC tools into solutions by working alongside subject matter experts across a range of disciplines. 
-Since 2010, I have been building AI/ML/data science products and computer simulations including agentic AI, AutoML, physics encoded models (e.g., physics-informed neural networks), signal-based outlier detection, and generative AI tools for threat and fraud detection.
-At Altamira, I create data-accelerated analytic, operations, and engineering solutions for partners in the 
-* :satellite: intelligence,
-* :rocket: space, and
-* :boom: defense industries.
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mahynski/mahynski/main/img/whoami_card-dark.png" />
+  <img src="https://raw.githubusercontent.com/mahynski/mahynski/main/img/whoami_card-light.png" width="100%" alt="whoami — short bio" />
+</picture>
 
-My career began [@NIST](https://www.nist.gov/) using advanced modeling tools to make data-driven discoveries in fields like material science, nuclear chemistry, detection of food fraud, and environmental monitoring. These topics are described in more detail below.
-
-📃 CV available upon <a href="mailto:nathan.mahynski@gmail.com">request</a>.
+<sub>🔗 <a href="https://www.altamiracorp.com/">Altamira</a> &nbsp;·&nbsp; <a href="https://www.nist.gov/">NIST</a> &nbsp;·&nbsp; 📃 CV available upon <a href="mailto:nathan.mahynski@gmail.com">request</a></sub>
 
 ## Recent Endeavors
 
