@@ -102,7 +102,12 @@ $ tar -xzvf mahynski.archive.tar.gz
 </table>
 -->
 
-Developing reproducible, transparent modeling pipelines and methods requires standardized open-source tools. While working @NIST, I developed [PyChemAuth](http://pychemauth.readthedocs.io) to help chemometricians, cheminformatics professionals, and other researchers build end-to-end data science workflows from [exploratory data analysis](https://pychemauth.readthedocs.io/en/latest/jupyter/api/eda.html), to [model optimization and comparison](https://pychemauth.readthedocs.io/en/latest/jupyter/api/comparing_pipelines.html), to [public distribution](https://pychemauth.readthedocs.io/en/latest/jupyter/api/sharing_models.html). Most data-driven projects below rely on this package. Check out the [workshop](https://pychemauth.readthedocs.io/en/latest/carpentry.html) and [API Examples](https://pychemauth.readthedocs.io/en/latest/examples.html) for more information if you find it helpful.
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mahynski/mahynski/main/img/profile_card-dark.png" />
+  <img src="https://raw.githubusercontent.com/mahynski/mahynski/main/img/profile_card-light.png" width="100%" alt="Developing reproducible, transparent modeling pipelines with PyChemAuth" />
+</picture>
+
+<sub>🔗 <a href="http://pychemauth.readthedocs.io">PyChemAuth</a> &nbsp;·&nbsp; <a href="https://pychemauth.readthedocs.io/en/latest/jupyter/api/eda.html">Exploratory Data Analysis</a> &nbsp;·&nbsp; <a href="https://pychemauth.readthedocs.io/en/latest/jupyter/api/comparing_pipelines.html">Model Optimization &amp; Comparison</a> &nbsp;·&nbsp; <a href="https://pychemauth.readthedocs.io/en/latest/jupyter/api/sharing_models.html">Public Distribution</a> &nbsp;·&nbsp; <a href="https://pychemauth.readthedocs.io/en/latest/carpentry.html">Workshop</a> &nbsp;·&nbsp; <a href="https://pychemauth.readthedocs.io/en/latest/examples.html">API Examples</a></sub>
 
 <details>
   <summary> :atom: Developing tools for advanced <a href="https://www.nist.gov/programs-projects/isotope-metrology">stable isotope</a> and trace element metrology

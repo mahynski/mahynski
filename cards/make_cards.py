@@ -242,7 +242,18 @@ WHOAMI = [
      'topics are described in more detail below.'),
 ]
 
-CARDS = {'tldr': TLDR, 'whoami': WHOAMI}
+PROFILE = [
+    ('para', 'Developing reproducible, transparent modeling pipelines and '
+     'methods requires standardized open-source tools. While working @NIST, I '
+     'developed PyChemAuth to help chemometricians, cheminformatics '
+     'professionals, and other researchers build end-to-end data science '
+     'workflows from exploratory data analysis, to model optimization and '
+     'comparison, to public distribution. Most data-driven projects below rely '
+     'on this package. Check out the workshop and API Examples for more '
+     'information if you find it helpful.'),
+]
+
+CARDS = {'tldr': TLDR, 'whoami': WHOAMI, 'profile': PROFILE}
 
 
 if __name__ == '__main__':
