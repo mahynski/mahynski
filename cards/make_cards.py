@@ -154,16 +154,11 @@ def render(name, content):
 
     for theme in ('light', 'dark'):
         # --- canvas ---
-        if theme == 'light':
-            img = vgrad(LIGHT_TOP, LIGHT_BOT, W, H).convert('RGBA')
-        else:
-            img = vgrad(BG_TOP, BG_BOT, W, H).convert('RGBA')
-            pool = Image.new('L', (W, H), 0)      # soft green pool of light
-            ImageDraw.Draw(pool).ellipse(
-                [W // 2 - cw // 2, py0 - 120 * SS, W // 2 + cw // 2, py1 + 120 * SS],
-                fill=46)
-            pool = pool.filter(ImageFilter.GaussianBlur(180 * SS))
-            img.paste(Image.new('RGBA', (W, H), (26, 40, 32, 255)), (0, 0), pool)
+        # Fully transparent everywhere outside the panel: the surrounding
+        # gradient (and the dark-theme green background pool) are dropped so
+        # the card blends into whatever page background it sits on. Only the
+        # panel and its soft halo/shadow/glow are painted, fading to alpha 0.
+        img = Image.new('RGBA', (W, H), (0, 0, 0, 0))
 
         # --- depth behind the panel: shadow (light) or neon halo (dark) ---
         if theme == 'light':
@@ -206,7 +201,7 @@ def render(name, content):
         for dx, dy, text, font, fill in ops:
             draw.text((cx + dx, cy + dy), text, font=font, fill=fill)
 
-        out = img.convert('RGB').resize((W // SS, H // SS), Image.LANCZOS)
+        out = img.resize((W // SS, H // SS), Image.LANCZOS)
         path = os.path.join(_HERE, '..', 'img', f'{name}_card-{theme}.png')
         out.save(path)
         print('saved', os.path.normpath(path))
