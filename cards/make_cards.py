@@ -245,7 +245,6 @@ WHOAMI = [
      'data-driven discoveries in fields like material science, nuclear '
      'chemistry, detection of food fraud, and environmental monitoring. These '
      'topics are described in more detail below.'),
-    ('para', 'CV available upon request.'),
 ]
 
 CARDS = {'tldr': TLDR, 'whoami': WHOAMI}
