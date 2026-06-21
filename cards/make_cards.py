@@ -111,17 +111,25 @@ def layout(draw, content, maxw):
             ops.append((0, y, '$', f, PROMPT))
             ops.append((int(draw.textlength('$  ', font=f)), y, el[1], f, NEON))
             y += int(f.size * 1.7)
-        elif kind == 'entry':                    # org / meta / description
+        elif kind == 'entry':                    # org / meta / optional desc
             _, org, meta, desc = el
-            line(org, jost(34, weight=600), NEON, lead=1.18)
-            line(meta, mono(20), MUTE, lead=1.5)
+            line(org, jost(34, weight=600), NEON, lead=1.2)
+            for ln in wrap(draw, meta, mono(20), maxw):
+                line(ln, mono(20), MUTE, lead=1.4)
             for ln in wrap(draw, desc, jost(26), maxw):
                 line(ln, jost(26), INK)
-            y += int(20 * SS)
+            y += int(22 * SS)
         elif kind == 'para':
             for ln in wrap(draw, el[1], jost(27), maxw):
                 line(ln, jost(27), INK, lead=1.42)
-            y += int(10 * SS)
+            y += int(12 * SS)
+        elif kind == 'bullets':                  # neon-dotted list items
+            for item in el[1]:
+                f = jost(27)
+                ops.append((int(10 * SS), y, '•', f, NEON))
+                ops.append((int(46 * SS), y, item, f, INK))
+                y += int(f.size * 1.42)
+            y += int(12 * SS)
         elif kind == 'spacer':
             y += int(el[1] * SS)
 
@@ -205,38 +213,39 @@ def render(name, content):
 
 
 # ==== CARD CONTENT (edit these to change the cards) =======================
+# Text is verbatim from the README sections; the section's terminal header
+# ("$ tl;dr" / "$ whoami") stays in the README, so the cards carry only the
+# content. Leading emoji / inline institution logos are decoration and are
+# omitted here (they don't render with the bundled fonts).
 TLDR = [
-    ('label', 'tl;dr'),
-    ('spacer', 18),
-    ('entry', 'Altamira', '2025 - present   ·   Principal AI Scientist',
-     'Building agentic AI, AutoML, and physics-informed solutions.'),
-    ('entry', 'NIST', '2015 - 2025   ·   Group Leader, Chemical Informatics',
-     '10+ years designing numerical algorithms for soft-matter physics and '
-     'thermodynamics.'),
-    ('entry', 'Princeton University', '2010 - 2015   ·   Ph.D. & M.A., Chemical Engineering',
-     'Computational & information science; thesis on the statistical mechanics '
-     'of colloidal self-assembly.'),
-    ('entry', 'Purdue University', '2006 - 2010   ·   B.S., Chemical Engineering',
-     'Minor in Chemistry.'),
+    ('entry', 'Altamira', '2025 - present, Principal AI Scientist',
+     'Building Agentic AI, AutoML, and physics informed solutions.'),
+    ('entry', 'NIST', '2015 – 2025, Group Leader at Chemical Informatics Group',
+     '10+ years of experience designing numerical algorithms for applications '
+     'in soft matter physics and thermodynamics.'),
+    ('entry', 'Princeton Univ.',
+     '2010 - 2015, Ph.D. & M.A. Chem. Engineering, Computational & Information '
+     'Science.',
+     'Thesis on the Statistical Mechanics of Colloidal Self-Assembly.'),
+    ('entry', 'Purdue Univ.', '2006 - 2010, B.S. Chem. Engineering, Minor in '
+     'Chemistry', ''),
 ]
 
 WHOAMI = [
-    ('label', 'whoami'),
-    ('spacer', 18),
     ('para', 'I translate AI and HPC tools into solutions by working alongside '
-     'subject-matter experts across many disciplines. Since 2010 I have built '
-     'AI/ML and data-science products and computer simulations - agentic AI, '
-     'AutoML, physics-encoded models (e.g., physics-informed neural networks), '
-     'signal-based outlier detection, and generative AI for threat and fraud '
-     'detection.'),
-    ('spacer', 6),
-    ('para', 'At Altamira I create data-accelerated analytic, operations, and '
-     'engineering solutions for partners in the intelligence, space, and '
-     'defense industries.'),
-    ('spacer', 6),
-    ('para', 'My career began at NIST, using advanced modeling to make '
-     'data-driven discoveries in materials science, nuclear chemistry, '
-     'food-fraud detection, and environmental monitoring.'),
+     'subject matter experts across a range of disciplines. Since 2010, I have '
+     'been building AI/ML/data science products and computer simulations '
+     'including agentic AI, AutoML, physics encoded models (e.g., '
+     'physics-informed neural networks), signal-based outlier detection, and '
+     'generative AI tools for threat and fraud detection. At Altamira, I create '
+     'data-accelerated analytic, operations, and engineering solutions for '
+     'partners in the'),
+    ('bullets', ['intelligence,', 'space, and', 'defense industries.']),
+    ('para', 'My career began @NIST using advanced modeling tools to make '
+     'data-driven discoveries in fields like material science, nuclear '
+     'chemistry, detection of food fraud, and environmental monitoring. These '
+     'topics are described in more detail below.'),
+    ('para', 'CV available upon request.'),
 ]
 
 CARDS = {'tldr': TLDR, 'whoami': WHOAMI}
