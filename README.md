@@ -34,7 +34,7 @@ $ whoami
   <img src="https://raw.githubusercontent.com/mahynski/mahynski/main/img/whoami_card-light.png" width="100%" alt="whoami — short bio" />
 </picture>
 
-<sub>🔗 <a href="https://www.altamiracorp.com/">Altamira</a> &nbsp;·&nbsp; <a href="https://www.nist.gov/">NIST</a> &nbsp;·&nbsp; 📃 CV available upon <a href="mailto:nathan.mahynski@gmail.com">request</a></sub>
+<sub>🔗 CV available upon <a href="mailto:nathan.mahynski@gmail.com">request</a></sub>
 
 ## Recent Endeavors
 
