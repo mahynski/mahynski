@@ -57,7 +57,7 @@ $ build
 ~~~
 
 <p align="center">
-  <a href="https://github.com/mahynski/python-package" title="Python Package"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mahynski/python-package/main/logo-dark.png" /><img src="https://raw.githubusercontent.com/mahynski/python-package/main/logo-light.png" width=120 alt="python-package" /></picture></a>
+  <a href="https://github.com/mahynski/python-package" title="Python Package"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mahynski/python-package/main/logo-dark.png" /><img src="https://raw.githubusercontent.com/mahynski/python-package/main/logo-light.png" width=240 alt="python-package" /></picture></a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <!-- <a href="https://github.com/mahynski/template-uv-agents" title="Agentic AI"><img src="https://github.com/mahynski/mahynski/blob/de99e92ea74abb6f084d52e5073e7968181da4d7/img/_tmp_agenticai_logo.png" width=70 alt="template-uv-agents" /></a> &nbsp;&nbsp;&nbsp;&nbsp; -->
   <a href="https://github.com/mahynski/template-uv-project" title="UV Project"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mahynski/template-uv-project/main/logo-dark.png" /><img src="https://raw.githubusercontent.com/mahynski/template-uv-project/main/logo-light.png" width=120 alt="template-uv-project" /></picture></a>
