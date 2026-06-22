@@ -61,16 +61,16 @@ $ build
   &nbsp;&nbsp;
   <!-- <a href="https://github.com/mahynski/template-uv-agents" title="Agentic AI"><img src="https://github.com/mahynski/mahynski/blob/de99e92ea74abb6f084d52e5073e7968181da4d7/img/_tmp_agenticai_logo.png" width=70 alt="template-uv-agents" /></a> &nbsp;&nbsp;&nbsp;&nbsp; -->
   <a href="https://github.com/mahynski/template-uv-project" title="UV Project"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mahynski/template-uv-project/main/logo-dark.png" /><img src="https://raw.githubusercontent.com/mahynski/template-uv-project/main/logo-light.png" width=240 alt="template-uv-project" /></picture></a>
-  &nbsp;&nbsp;
+  &nbsp;
   <a href="https://github.com/mahynski/template-finetuning" title="Finetuning"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mahynski/template-finetuning/main/logo-dark.png" /><img src="https://raw.githubusercontent.com/mahynski/template-finetuning/main/logo-light.png" width=240 alt="template-finetuning" /></picture></a>
-  &nbsp;&nbsp;
+  &nbsp;
   <a href="https://github.com/mahynski/template-automl" title="AutoML"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mahynski/template-automl/main/logo-dark.png" /><img src="https://raw.githubusercontent.com/mahynski/template-automl/main/logo-light.png" width=240 alt="template-automl" /></picture></a>
-  &nbsp;&nbsp;
+  &nbsp;
   <a href="https://github.com/mahynski/template-piml" title="PIML"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mahynski/template-piml/main/logo-dark.png" /><img src="https://raw.githubusercontent.com/mahynski/template-piml/main/logo-light.png" width=240 alt="template-piml" /></picture></a>
-  &nbsp;&nbsp;
+  &nbsp;
   <a href="https://github.com/mahynski/template-csp" title="CSP"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mahynski/template-csp/main/logo-dark.png" /><img src="https://raw.githubusercontent.com/mahynski/template-csp/main/logo-light.png" width=240 alt="template-csp" /></picture></a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/mahynski/template-gis" title="GIS"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mahynski/template-gis/main/logo-dark.png" /><img src="https://raw.githubusercontent.com/mahynski/template-gis/main/logo-light.png" width=120 alt="template-gis" /></picture></a>
+  &nbsp;
+  <a href="https://github.com/mahynski/template-gis" title="GIS"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mahynski/template-gis/main/logo-dark.png" /><img src="https://raw.githubusercontent.com/mahynski/template-gis/main/logo-light.png" width=240 alt="template-gis" /></picture></a>
   <!-- &nbsp;&nbsp;&nbsp;&nbsp; <a href="https://github.com/mahynski/path-planning" title="Path Planning"><img src="https://github.com/mahynski/mahynski/blob/main/img/_tmp_path_planning_logo.png" width=70 alt="path-planning" /></a> -->
   <!-- &nbsp;&nbsp;&nbsp;&nbsp; <a href="https://github.com/mahynski/open-world-meta" title="Open World Meta"><img src="https://github.com/mahynski/mahynski/blob/main/img/_tmp_open_world_meta_logo.png" width=70 alt="open-world-meta" /></a> -->
 </p>
