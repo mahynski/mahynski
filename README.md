@@ -45,7 +45,7 @@ $ learn
 <p align="center">
   <a href="https://github.com/mahynski/ai-ml-library/blob/main/README.md" title="AI/ML Library"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mahynski/mahynski/main/img/ai_ml_library_logo-dark.png" /><img src="https://raw.githubusercontent.com/mahynski/mahynski/main/img/ai_ml_library_logo-light.png" width=180 alt="ai-ml-library" /></picture></a>
   &nbsp;
-  <a href="https://github.com/mahynski/gists/blob/main/README.md" title="Gists"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mahynski/mahynski/main/img/gists_logo-dark.png" /><img src="https://raw.githubusercontent.com/mahynski/mahynski/main/img/gists_logo-light.png" width=180 alt="gists" /></picture></a>
+  <a href="https://github.com/mahynski/gists/tree/main" title="Gists"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mahynski/mahynski/main/img/gists_logo-dark.png" /><img src="https://raw.githubusercontent.com/mahynski/mahynski/main/img/gists_logo-light.png" width=180 alt="gists" /></picture></a>
   &nbsp;
   <a href="https://github.com/mahynski/reinforcement-learning" title="Reinforcement Learning"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mahynski/mahynski/main/img/reinforcement_learning_logo-dark.png" /><img src="https://raw.githubusercontent.com/mahynski/mahynski/main/img/reinforcement_learning_logo-light.png" width=180 alt="reinforcement-learning" /></picture></a>
   &nbsp;
